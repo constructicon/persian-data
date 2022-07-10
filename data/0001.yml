@@ -1,62 +1,74 @@
 ---
 record: 1
-name: '(а) как же NP-Nom?'
-UD_name: '(а) как же NP-Nom?'
-illustration: 'А как же мама?'
-cefr_level: A1
+name: 'دست به NP زدن'
+IPA_Transcription: 'dæst be NP zædæn'
+English_Translation: 'begin doing NP, commit NP'
+UD_name: 'دست به NP زدن'
+illustration: 'فرد زندانی دست به خودکشی زده است.'
+IPA_Transcription: 'færde zendani dæst be xodkoʃi zæde ʔæst.'
+cefr_level: Not available
 definitions:
-  - russian: |
-       Конструкция используется для того, чтобы напомнить адресату о [каком-либо факте]Theme, который он должен принять во внимание. Этот факт известен всем участникам беседы.
+  - persian: |
+      این ساخت خبری، بیان می‌کند که شخص، گروه یا موجود مشخصی شروع به انجام [فعالیت]Theme خاصی می‌کند. این فعالیت گاهاً ناگهانی و غیرمنتظره است.
   - english: |
-       This construction is used to remind the addressee of [some fact]Theme, which they must take into consideration. This fact is known to all of the participants in the conversation.
+       This declarative construction states that an entity starts doing an [activity]Theme. It is sometimes a sudden action againt the expectations.
   - norwegian: |
-       Konstruksjonen anvendes for å minne adressaten på [et faktum]Theme som vedkommende må ta i betraktning. Faktumet er kjent for alle deltakerne i samtalen.
+       Not available now.
 examples:
   - |
-       Иван поднял голову и спросил: ― А как же [я]Theme? ― Ты будешь жить с женой и воспитывать сына, ― ответила Ирина.
+       اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.
+       ʔosulæn ʔensanha dær mævaqei ke zæruræt ʔidʒad konæd dæst be [karhaye bozorɡi] mizænænd.
+
   - |
-       ― Всё, ― объявил водитель, ― дальше не поеду. ― Как же [деньги]Theme? Я заплатил за билет!
+       من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان کشتار زندان ابوسلیم هستم.
+       mæn be ʔin xater dæst be fæʔʔaliæte siasi zædæm ke ʔæz xanevadeye qorbaniane koʃtare ʔæbusælim hæstam.
   - |
-       В нашем городе ему предложили хорошую работу, поэтому он недолго думая сорвался с насиженного места и уехал. ― А как же  [жена и дети]Theme? ― поинтересовалась Маша.
+       بنا بر اعلام پلیس پاکستان، یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد.
+       bæna bær ʔeʔlame polise pakestan, yek zæn bæraye ræhayi ʔæz ʔæziæt væ ʔazarhaye hæmsæræʃ dæst be [qætle ʔu] zæd.
   - |
-       Но как только разговор заходит о семейном обучении, первым делом звучит: «А как же [общение]Theme? [Социализация]Theme?»
+       در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌ها و انتقادات فراوانی را به همراه داشت.
+       dær mahe ʔavril piyonɡ yanɡ dæst be [ʔændʒame yek ʔazmayeʃe muʃæki] zæd ke neɡæraniha væ ʔenteqadate færavani ra be hæmrah daʃt.
   - |
-       В деревне делали более лёгкую пиццу: тесто поливали оливковым маслом, выкладывали маслины или вообще ничем не украшали. А как же [томаты]Theme, спросите вы. Ведь без них попросту невозможно представить себе пиццу.
+       در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.
+       dær ruze tʃaharʃæmbe pændʒah hezar tæn dær santiaɡo, paytæxt, dæst be [rahpeymayi] zædænd.
 morphology:
   - NP
-  - Nom
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Praedicative Expression
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - Not Applicable
+  - Light Verb Construction
 part_of_speech_of_anchor:
-  - Conjunction
+  - Noun
   - Pronoun
-  - Particle
+  - Verb
 semantic_roles:
   - Theme
 intonation:
-  - Interrogative
-usage_label: ~
+  - Declarative
+usage_label:
+  - Formal
 dependency_structure:
-  - '[root как [advmod же] [nsubj NP-Nom]]'
-  - '[root [cc а] как [advmod же] [nsubj NP-Nom]]'
+  - '[[دست N] [[به P] [NP]PP] [زدن V] VP]'
 dependency_structure_of_illustration:
-  - '[root [cc А] как [advmod же] [nsubj мама]?]'
-comment: |
-    'Не путать с конструкцией 682. См. другие конструкции, которые содержат "как же": 1107, 1108, 1109, 1814, 2015.'
+  - '[[[فرد N] [زندانی Adj] AP] [دست N] [[به P] [خودکشی NP] PP] [زده استV] VP]'
+comment:
+  - Persian: |
+    'بسط استعاری از همین ساخت به معنی "لمس کردن"'
+  - English: |
+    'A metaphorical extension of the same construction that means "to touch something".'
+  - Norwegian: |
+    'Not available'
 common_fillers:
   - ~
 references:
   - |
     No references
 semantic_types:
-  - type: Mirative
-  - type: Reaction to the previous discourse
+  - type: 
     subtypes:
-      - type: Surprise
+      - type: 
 family:
   - |
     ""
