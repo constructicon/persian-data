@@ -16,20 +16,25 @@ definitions:
        Not available now.
 examples:
   - |
-       اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.
-       ʔosulæn ʔensanha dær mævaqei ke zæruræt ʔidʒad konæd dæst be [karhaye bozorɡi] mizænænd.
-
+       اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.       
   - |
        من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان کشتار زندان ابوسلیم هستم.
-       mæn be ʔin xater dæst be fæʔʔaliæte siasi zædæm ke ʔæz xanevadeye qorbaniane koʃtare ʔæbusælim hæstam.
   - |
        بنا بر اعلام پلیس پاکستان، یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد.
-       bæna bær ʔeʔlame polise pakestan, yek zæn bæraye ræhayi ʔæz ʔæziæt væ ʔazarhaye hæmsæræʃ dæst be [qætle ʔu] zæd.
   - |
        در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌ها و انتقادات فراوانی را به همراه داشت.
-       dær mahe ʔavril piyonɡ yanɡ dæst be [ʔændʒame yek ʔazmayeʃe muʃæki] zæd ke neɡæraniha væ ʔenteqadate færavani ra be hæmrah daʃt.
   - |
        در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.
+examples_Transcriptions:
+  - |
+       ʔosulæn ʔensanha dær mævaqei ke zæruræt ʔidʒad konæd dæst be [karhaye bozorɡi] mizænænd.
+  - |
+       mæn be ʔin xater dæst be fæʔʔaliæte siasi zædæm ke ʔæz xanevadeye qorbaniane koʃtare ʔæbusælim hæstam.
+  - |
+       bæna bær ʔeʔlame polise pakestan, yek zæn bæraye ræhayi ʔæz ʔæziæt væ ʔazarhaye hæmsæræʃ dæst be [qætle ʔu] zæd.
+  - |
+       dær mahe ʔavril piyonɡ yanɡ dæst be [ʔændʒame yek ʔazmayeʃe muʃæki] zæd ke neɡæraniha væ ʔenteqadate færavani ra be hæmrah daʃt.
+  - |
        dær ruze tʃaharʃæmbe pændʒah hezar tæn dær santiaɡo, paytæxt, dæst be [rahpeymayi] zædænd.
 morphology:
   - NP
