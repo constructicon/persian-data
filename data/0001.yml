@@ -1,11 +1,11 @@
 ---
 record: 1
 name: 'دست به NP زدن'
-IPA_Transcription_name: 'dæst be NP zædæn'
+IPA_Transcription: 'dæst be NP zædæn'
 English_Translation: 'begin doing NP, commit NP'
 UD_name: 'دست به NP زدن'
 illustration: 'فرد زندانی دست به خودکشی زده است.'
-IPA_Transcription: 'færde zendani dæst be xodkoʃi zæde ʔæst.'
+Phonetic_Transcription: 'færde zendani dæst be xodkoʃi zæde ʔæst.'
 cefr_level: Not available
 definitions:
   - persian: |
