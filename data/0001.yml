@@ -1,7 +1,7 @@
 ---
 record: 1
 name: 'دست به NP زدن'
-IPA_Transcription: 'dæst be NP zædæn'
+IPA_Transcription_name: 'dæst be NP zædæn'
 English_Translation: 'begin doing NP, commit NP'
 UD_name: 'دست به NP زدن'
 illustration: 'فرد زندانی دست به خودکشی زده است.'
