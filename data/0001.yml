@@ -1,11 +1,11 @@
 ---
 record: 1
 name: 'دست به NP زدن'
-IPA_Transcription: 'dæst be NP zædæn'
-English_Translation: 'begin doing NP, commit NP'
+name_transcription: 'dæst be NP zædæn'
+name-translation: 'begin doing NP, commit NP'
 UD_name: 'دست به NP زدن'
 illustration: 'فرد زندانی دست به خودکشی زده است.'
-Phonetic_Transcription: 'færde zendani dæst be xodkoʃi zæde ʔæst.'
+illustration_transcription: 'færde zendani dæst be xodkoʃi zæde ʔæst.'
 cefr_level: Not available
 definitions:
   - persian: |
@@ -25,7 +25,7 @@ examples:
        در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌ها و انتقادات فراوانی را به همراه داشت.
   - |
        در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.
-examples_Transcriptions:
+examples_transcriptions:
   - |
        ʔosulæn ʔensanha dær mævaqei ke zæruræt ʔidʒad konæd dæst be [karhaye bozorɡi] mizænænd.
   - |
