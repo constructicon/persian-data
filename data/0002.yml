@@ -1,9 +1,9 @@
 ---
 record: 2
-name: 'پس NP چی (می‌شه) / پس NP چه (می‌شود)؟ / پس NP؟'
-name_transcription: 'pas NP chi (mi-sheh) / pas NP cheh (mi-shavad) / pas NP?'
+name: 'پس NP چی (می‌شه) / پس NP چه می‌شود؟ / پس NP؟'
+name_transcription: 'pas NP chi (shodan) / pas NP?'
 name-translation: 'What about NP then?'
-UD_name: 'پس NP چی (می‌شه) / پس NP چه (می‌شود)؟ / پس NP؟'
+UD_name: 'پس NP چی (می‌شه) / پس NP چه می‌شود؟ / پس NP؟'
 illustration: 'پس نظر جمع چی می‌شه؟'
 illustration_transcription: 'pas nazar-e jam’ chi mi-sheh?'
 cefr_level: Not available
@@ -22,9 +22,9 @@ examples:
   - |
        با گریه گفت پس [خانواده من]Theme چه می‌شود؟
   - |
-       گفتم: آخه تنهام. گفت: پس [من]Theme چی رفیق؟
+       گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟
   - |
-       
+       مگه من جلبکم؟ پس [من]Theme چی؟
 examples_transcriptions:
   - |
        man digeh mi-kham talāgh be-gir-am! goft-am pas [sogol]Theme chi mi-sheh?
@@ -33,9 +33,9 @@ examples_transcriptions:
   - |
        bā gerye goft pas [khānevāde-ye man]Theme cheh mi-shavad?
   - |
-       
+       goft-am akheh man tanhām. goft pas [man]Theme chi rafigh?
   - |
-       
+       mageh man jolbak-am? pas [man]Theme chi?
 morphology:
   - 
 syntactic_type_of_construction:
