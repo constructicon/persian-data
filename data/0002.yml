@@ -13,7 +13,7 @@ definitions:
   - english: |
        This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional.
   - norwegian: |
-       Not available now.
+       Not available.
 examples:
   - |
        من دیگه میخوام طلاق بگیرم! گفتم پس [سوگل]Theme چی می‌شه این وسط؟    
@@ -37,32 +37,33 @@ examples_transcriptions:
   - |
        mageh man jolbak-am? pas [man]Theme chi?
 morphology:
-  - 
+  - NP
 syntactic_type_of_construction:
-  - 
+  - Clause
 syntactic_function_of_anchor:
   - 
 syntactic_structure_of_anchor:
   - 
 part_of_speech_of_anchor:
-  - 
-  - 
-  - 
+  - Conjunction
+  - Pronoun
+  - Verb
 semantic_roles:
   - Theme
 intonation:
-  - Declarative
+  - Interrogative
 usage_label:
+  - Informal
   - Formal
 dependency_structure:
-  - '[[دست N] [[به P] [NP]PP] [زدن V] VP]'
+  - ''
 dependency_structure_of_illustration:
-  - '[[[فرد N] [زندانی Adj] AP] [دست N] [[به P] [خودکشی NP] PP] [زده استV] VP]'
+  - ''
 comment:
   - Persian: |
-    'بسط استعاری از همین ساخت به معنی "لمس کردن"'
+    ''
   - English: |
-    'A metaphorical extension of the same construction that means "to touch something".'
+    ''
   - Norwegian: |
     'Not available'
 common_fillers:
