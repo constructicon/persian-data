@@ -1,0 +1,79 @@
+---
+record: 2
+name: 'پس NP چی (می‌شه) / پس NP چه (می‌شود)؟ / پس NP؟'
+name_transcription: 'pas NP chi (mi-sheh) / pas NP cheh (mi-shavad) / pas NP?'
+name-translation: 'What about NP then?'
+UD_name: 'پس NP چی (می‌شه) / پس NP چه (می‌شود)؟ / پس NP؟'
+illustration: 'پس نظر جمع چی می‌شه؟'
+illustration_transcription: 'pas nazar-e jam’ chi mi-sheh?'
+cefr_level: Not available
+definitions:
+  - persian: |
+      این ساخت [موضوعی]Theme را برجسته می‌کند که مخاطب آن را در تصمیم نهایی خود لحاظ نکرده است. این عدم توجه می‌تواند به صورت ناخودآگاه یا عمدی باشد.
+  - english: |
+       This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional.
+  - norwegian: |
+       Not available now.
+examples:
+  - |
+       من دیگه میخوام طلاق بگیرم! گفتم پس [سوگل]Theme چی می‌شه این وسط؟    
+  - |
+       پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟
+  - |
+       با گریه گفت پس [خانواده من]Theme چه می‌شود؟
+  - |
+       گفتم: آخه تنهام. گفت: پس [من]Theme چی رفیق؟
+  - |
+       
+examples_transcriptions:
+  - |
+       man digeh mi-kham talāgh be-gir-am! goft-am pas [sogol]Theme chi mi-sheh?
+  - |
+       pas [ghol-o gharār-emun]Theme chi mi-sheh? hama-sh-o yād-et raft?
+  - |
+       bā gerye goft pas [khānevāde-ye man]Theme cheh mi-shavad?
+  - |
+       
+  - |
+       
+morphology:
+  - 
+syntactic_type_of_construction:
+  - 
+syntactic_function_of_anchor:
+  - 
+syntactic_structure_of_anchor:
+  - 
+part_of_speech_of_anchor:
+  - 
+  - 
+  - 
+semantic_roles:
+  - Theme
+intonation:
+  - Declarative
+usage_label:
+  - Formal
+dependency_structure:
+  - '[[دست N] [[به P] [NP]PP] [زدن V] VP]'
+dependency_structure_of_illustration:
+  - '[[[فرد N] [زندانی Adj] AP] [دست N] [[به P] [خودکشی NP] PP] [زده استV] VP]'
+comment:
+  - Persian: |
+    'بسط استعاری از همین ساخت به معنی "لمس کردن"'
+  - English: |
+    'A metaphorical extension of the same construction that means "to touch something".'
+  - Norwegian: |
+    'Not available'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: 
+    subtypes:
+      - type: 
+family:
+  - |
+    ""
