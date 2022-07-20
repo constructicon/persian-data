@@ -52,6 +52,8 @@ semantic_roles:
   - Theme
 intonation:
   - Declarative
+Communicative_type:
+  - Declarative
 usage_label:
   - Formal
 dependency_structure:
