@@ -39,7 +39,7 @@ examples_transcriptions:
 morphology:
   - NP
 syntactic_type_of_construction:
-  - Clause
+  - Copula Construction
 syntactic_function_of_anchor:
   - 
 syntactic_structure_of_anchor:
@@ -52,13 +52,16 @@ semantic_roles:
   - Theme
 intonation:
   - Interrogative
+Communicative_type:
+  - Interrogative
+  - Exclamatory
 usage_label:
   - Informal
   - Formal
 dependency_structure:
-  - ''
+  - '[[پسCON] [[NP] [چیDet] [(شدن)V]VP]root]'
 dependency_structure_of_illustration:
-  - ''
+  - '[[پسCON] [[نظرN] [جمعN]NP] [[چیDet] [می‌شهV]VP]root]'
 comment:
   - Persian: |
     ''
