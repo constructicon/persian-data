@@ -62,11 +62,11 @@ dependency_structure_of_illustration:
   - '[[[فرد N] [زندانی Adj] AP] [دست N] [[به P] [خودکشی NP] PP] [زده استV] VP]'
 comment:
   - Persian: |
-    'بسط استعاری از همین ساخت به معنی "لمس کردن"'
+      'بسط استعاری از همین ساخت به معنی "لمس کردن"'
   - English: |
-    'A metaphorical extension of the same construction that means "to touch something".'
+      'A metaphorical extension of the same construction that means "to touch something".'
   - Norwegian: |
-    'Not available'
+      'Not available'
 common_fillers:
   - ~
 references:
