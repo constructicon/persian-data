@@ -1,11 +1,11 @@
 ---
 record: 1
 name: 'دست به NP زدن'
-name_transcription: 'dæst be NP zædæn'
+name_transcription: 'dast beh NP zadan'
 name-translation: 'begin doing NP, commit NP'
 UD_name: 'دست به NP زدن'
 illustration: 'فرد زندانی دست به خودکشی زده است.'
-illustration_transcription: 'færde zendani dæst be xodkoʃi zæde ʔæst.'
+illustration_transcription: 'fard-e zendāni dast beh xodkoshi zadeh ast.'
 cefr_level: Not available
 definitions:
   - persian: |
@@ -16,26 +16,20 @@ definitions:
        Not available.
 examples:
   - |
-       اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.       
+       اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.
+       osulan ensān-hā dar mavāqei keh zarurat ijād konad dast beh [kārhāy-e bozorɡi] mizanad.
   - |
        من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان کشتار زندان ابوسلیم هستم.
+       man beh in khāter dast beh faāliat-e siāsi zadam keh az khānevādeh-ye ghorbāniān-e koshtār-e abusalim hastam.
   - |
        بنا بر اعلام پلیس پاکستان، یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد.
+       banā bar elām-e polis-e pākestān, yek zan barāy-e rahāyi az aziat va āzārhay-e hamsarash dast beh [qatl-e u] zad.
   - |
        در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌ها و انتقادات فراوانی را به همراه داشت.
+       dar māh-e āvril piyonɡ yānɡ dast beh [anjāme yek āzmāyesh-e mushaki] zad keh neɡarāniha va enteghādāt-e farāvāni rā beh hamrāh dāsht.
   - |
        در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.
-examples_transcriptions:
-  - |
-       ʔosulæn ʔensanha dær mævaqei ke zæruræt ʔidʒad konæd dæst be [karhaye bozorɡi] mizænænd.
-  - |
-       mæn be ʔin xater dæst be fæʔʔaliæte siasi zædæm ke ʔæz xanevadeye qorbaniane koʃtare ʔæbusælim hæstam.
-  - |
-       bæna bær ʔeʔlame polise pakestan, yek zæn bæraye ræhayi ʔæz ʔæziæt væ ʔazarhaye hæmsæræʃ dæst be [qætle ʔu] zæd.
-  - |
-       dær mahe ʔavril piyonɡ yanɡ dæst be [ʔændʒame yek ʔazmayeʃe muʃæki] zæd ke neɡæraniha væ ʔenteqadate færavani ra be hæmrah daʃt.
-  - |
-       dær ruze tʃaharʃæmbe pændʒah hezar tæn dær santiaɡo, paytæxt, dæst be [rahpeymayi] zædænd.
+       dar ruz-e chāhārshanbeh panjāh hezār tan dar sāntiāɡo, pāytakht, dast beh [rāhpeymāyi] zadand.
 morphology:
   - NP
 syntactic_type_of_construction:
