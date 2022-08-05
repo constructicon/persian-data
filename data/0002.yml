@@ -5,7 +5,7 @@ name_transcription: 'pas NP chi (shodan) / pas NP?'
 name-translation: 'What about NP then?'
 UD_name: 'پس NP چی (می‌شه) / پس NP چه می‌شود؟ / پس NP؟'
 illustration: 'پس نظر جمع چی می‌شه؟'
-illustration_transcription: 'pas nazar-e jam’ chi mi-sheh?'
+illustration_transcription: 'pas nazar-e jam’ chi misheh?'
 cefr_level: Not available
 definitions:
   - persian: |
@@ -16,26 +16,20 @@ definitions:
        Not available.
 examples:
   - |
-       من دیگه میخوام طلاق بگیرم! گفتم پس [سوگل]Theme چی می‌شه این وسط؟    
+       من دیگه میخوام طلاق بگیرم! گفتم پس [سوگل]Theme چی می‌شه این وسط؟
+       man digeh mikhām talāgh begiram! goftam pas [sogol]Theme chi misheh?
   - |
        پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟
+       pas [ghol-o gharāremun]Theme chi misheh? hamash-o yādet raft?
   - |
        با گریه گفت پس [خانواده من]Theme چه می‌شود؟
+       bā geryeh goft pas [khānevādeh-ye man]Theme cheh mishavad?
   - |
        گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟
+       goftam ākheh man tanhām. goft pas [man]Theme chi rafigh?
   - |
        مگه من جلبکم؟ پس [من]Theme چی؟
-examples_transcriptions:
-  - |
-       man digeh mi-kham talāgh be-gir-am! goft-am pas [sogol]Theme chi mi-sheh?
-  - |
-       pas [ghol-o gharār-emun]Theme chi mi-sheh? hama-sh-o yād-et raft?
-  - |
-       bā gerye goft pas [khānevāde-ye man]Theme cheh mi-shavad?
-  - |
-       goft-am akheh man tanhām. goft pas [man]Theme chi rafigh?
-  - |
-       mageh man jolbak-am? pas [man]Theme chi?
+       mageh man jolbakam? pas [man]Theme chi?
 morphology:
   - NP
 syntactic_type_of_construction:
