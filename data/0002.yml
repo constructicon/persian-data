@@ -35,9 +35,9 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - 
+  -
 syntactic_structure_of_anchor:
-  - 
+  -
 part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
@@ -69,9 +69,9 @@ references:
   - |
     No references
 semantic_types:
-  - type: 
+  - type:
     subtypes:
-      - type: 
+      - type:
 family:
   - |
     ""

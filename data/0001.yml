@@ -67,9 +67,9 @@ references:
   - |
     No references
 semantic_types:
-  - type: 
+  - type:
     subtypes:
-      - type: 
+      - type:
 family:
   - |
     ""
