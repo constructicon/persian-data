@@ -15,21 +15,16 @@ definitions:
   - norwegian: |
        Not available.
 examples:
-  - |
-       من دیگه میخوام طلاق بگیرم! گفتم پس [سوگل]Theme چی می‌شه این وسط؟
-       man digeh mikhām talāgh begiram! goftam pas [sogol]Theme chi misheh?
-  - |
-       پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟
-       pas [ghol-o gharāremun]Theme chi misheh? hamash-o yādet raft?
-  - |
-       با گریه گفت پس [خانواده من]Theme چه می‌شود؟
-       bā geryeh goft pas [khānevādeh-ye man]Theme cheh mishavad?
-  - |
-       گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟
-       goftam ākheh man tanhām. goft pas [man]Theme chi rafigh?
-  - |
-       مگه من جلبکم؟ پس [من]Theme چی؟
-       mageh man jolbakam? pas [man]Theme chi?
+  - example: من دیگه میخوام طلاق بگیرم! گفتم پس [سوگل]Theme چی می‌شه این وسط؟
+    transcription: man digeh mikhām talāgh begiram! goftam pas [sogol]Theme chi misheh?
+  - example: پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟
+    transcription: pas [ghol-o gharāremun]Theme chi misheh? hamash-o yādet raft?
+  - example: با گریه گفت پس [خانواده من]Theme چه می‌شود؟
+    transcription: bā geryeh goft pas [khānevādeh-ye man]Theme cheh mishavad?
+  - example: گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟
+    transcription: ākheh man tanhām. goft pas [man]Theme chi rafigh?
+  - example: مگه من جلبکم؟ پس [من]Theme چی؟
+    transcription: mageh man jolbakam? pas [man]Theme chi?
 morphology:
   - NP
 syntactic_type_of_construction:
