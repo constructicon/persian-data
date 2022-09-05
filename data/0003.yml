@@ -19,38 +19,38 @@ examples:
     transcription: kheyli konjkāv budam keh bedānam dākhel-e jabeh-ha-ye kādow shodeh chist. az tarafi ham [khejālat mikeshidam rāje beh kadow-ha harf bezanam]Argument.
   - example: واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument.
     transcription: vāghan delam nemiyād tatil-esh konam vali az tarafi ham [digeh tavān-e mundane nadāram]Argument.
-  - example: با گریه گفت پس [خانواده من]Theme چه می‌شود؟
-    transcription: bā geryeh goft pas [khānevādeh-ye man]Theme cheh mishavad?
-  - example: گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟
-    transcription: ākheh man tanhām. goft pas [man]Theme chi rafigh?
-  - example: مگه من جلبکم؟ پس [من]Theme چی؟
-    transcription: mageh man jolbakam? pas [man]Theme chi?
+  - example: 
+    transcription: 
+  - example: 
+    transcription: 
+  - example: 
+    transcription: 
 morphology:
-  - NP
+  - 
 syntactic_type_of_construction:
-  - Copula Construction
+  - 
 syntactic_function_of_anchor:
   -
 syntactic_structure_of_anchor:
   -
 part_of_speech_of_anchor:
-  - Conjunction
-  - Pronoun
-  - Verb
+  - 
+  - 
+  - 
 semantic_roles:
-  - Theme
+  - 
 intonation:
-  - Interrogative
+  - 
 Communicative_type:
-  - Interrogative
-  - Exclamatory
+  - 
+  - 
 usage_label:
   - Informal
   - Formal
 dependency_structure:
-  - '[[پسCON] [[NP] [چیDet] [(شدن)V]VP]root]'
+  - ''
 dependency_structure_of_illustration:
-  - '[[پسCON] [[نظرN] [جمعN]NP] [[چیDet] [می‌شهV]VP]root]'
+  - ''
 comment:
   - Persian: |
       ''
