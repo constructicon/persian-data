@@ -1,17 +1,17 @@
 ---
 record: 3
-name: ''
-name_transcription: ''
-name-translation: ''
-UD_name: ''
-illustration: ''
-illustration_transcription: ''
+name: 'از طرفی هم Clause'
+name_transcription: 'az tarafi ham Clause'
+name-translation: 'Besides, Clause'
+UD_name: 'از طرفی هم Clause'
+illustration: 'هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت].'
+illustration_transcription: 'hich kas jorat-e bayan-e ān va az tarafi ham [hich kas jorat-e shenidan-e ān rā nadāsht].'
 cefr_level: Not available
 definitions:
   - persian: |
-      
+      این ساخت موضوع جدیدی را وارد گفتمان می‌کند که در تصمیم‌گیری فرد دخیل است. این موضوع می‌تواند به عنوان دلیلی مضاعف و تاییدی بر گفته‌های پیشین و یا به صورت استدلال مخالف بیان شود.
   - english: |
-       
+       The construction introduces a new topic into the discourse that is involved in an individual's decision making. This topic can be expressed as an added argument and confirmation of the previous statements or as an opposing argument.
   - norwegian: |
        Not available.
 examples:
