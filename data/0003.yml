@@ -28,21 +28,21 @@ examples:
 morphology:
   - 
 syntactic_type_of_construction:
-  - 
+  - PP
 syntactic_function_of_anchor:
   -
 syntactic_structure_of_anchor:
   -
 part_of_speech_of_anchor:
-  - 
-  - 
-  - 
+  - Preposition
+  - Noun
+  - Conjuntion
 semantic_roles:
   - 
 intonation:
-  - 
+  - Declarative
 Communicative_type:
-  - 
+  - Declarative
   - 
 usage_label:
   - Informal
