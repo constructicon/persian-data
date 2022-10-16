@@ -46,7 +46,7 @@ Communicative_type:
 usage_label:
   - Formal
 dependency_structure:
-  - '[[دست N] [[به P] [NP]PP] [زدن V] VP]'
+  - '[[دستN] [[بهP] [NP]PP] [زدنV]VP]'
 dependency_structure_of_illustration:
   - '[[[فرد N] [زندانی Adj] AP] [دست N] [[به P] [خودکشی NP] PP] [زده استV] VP]'
 comment:
