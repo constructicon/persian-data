@@ -26,7 +26,7 @@ examples:
   - example: چون دوسش دارم و طاقت دیدن ناراحتیش ندارم از طرفی هم [احساس میکنم تو چند مورد درین باره اشتباه کردم]Argument.
     transcription: chon dusesh dāram va tāghat-e didan-e nārāhati-sho nadāram az tarafi ham [ehsās mikonam tu chand mored darin bareh eshtebāh kardam]Argument.
 morphology:
-  - 
+  -
 syntactic_type_of_construction:
   - PP
 syntactic_function_of_anchor:
@@ -38,12 +38,12 @@ part_of_speech_of_anchor:
   - Noun
   - Conjuntion
 semantic_roles:
-  - 
+  -
 intonation:
   - Declarative
 Communicative_type:
   - Declarative
-  - 
+  -
 usage_label:
   - Informal
   - Formal
