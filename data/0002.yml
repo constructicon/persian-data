@@ -2,7 +2,7 @@
 record: 2
 name: 'پس NP چی (می‌شه) / پس NP چه می‌شود؟ / پس NP؟'
 name_transcription: 'pas NP chi (shodan) / pas NP?'
-name-translation: 'What about NP then?'
+name_translation: 'What about NP then?'
 UD_name: 'پس NP چی (می‌شه) / پس NP چه می‌شود؟ / پس NP؟'
 illustration: 'پس نظر جمع چی می‌شه؟'
 illustration_transcription: 'pas nazar-e jam’ chi misheh?'

@@ -2,7 +2,7 @@
 record: 1
 name: 'دست به NP زدن'
 name_transcription: 'dast beh NP zadan'
-name-translation: 'begin doing NP, commit NP'
+name_translation: 'begin doing NP, commit NP'
 UD_name: 'دست به NP زدن'
 illustration: 'فرد زندانی دست به خودکشی زده است.'
 illustration_transcription: 'fard-e zendāni dast beh xodkoshi zadeh ast.'

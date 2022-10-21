@@ -2,7 +2,7 @@
 record: 3
 name: 'از طرفی هم Clause'
 name_transcription: 'az tarafi ham Clause'
-name-translation: 'Besides, Clause'
+name_translation: 'Besides, Clause'
 UD_name: 'از طرفی هم Clause'
 illustration: 'هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت].'
 illustration_transcription: 'hich kas jorat-e bayan-e ān va az tarafi ham [hich kas jorat-e shenidan-e ān rā nadāsht].'
