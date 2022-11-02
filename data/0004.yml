@@ -1,0 +1,72 @@
+---
+record: 4
+name: 'از این گذشته، Clause'
+name_transcription: 'az in gozashte, Clause'
+name_translation: 'Furthermore, Clause'
+UD_name: 'از این گذشته، Clause'
+illustration: 'از این گذشته، [موتور هوا را هم آلوده می‌کند].'
+illustration_transcription: 'az in gozahte, motor havā rā ham ālude mikonad.'
+cefr_level: Not available
+definitions:
+  - persian: |
+      این ساخت موضوع جدیدی را در تکمیل آنچه پیش از این گفته شده وارد گفتمان می‌کند.
+  - english: |
+       This construction introduces a new topic as added information for what has already been said.
+  - norwegian: |
+       Not available.
+examples:
+  - example: من دیگه میخوام طلاق بگیرم! گفتم پس [سوگل]Theme چی می‌شه این وسط؟
+    transcription: man digeh mikhām talāgh begiram! goftam pas [sogol]Theme chi misheh?
+  - example: پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟
+    transcription: pas [ghol-o gharāremun]Theme chi misheh? hamash-o yādet raft?
+  - example: با گریه گفت پس [خانواده من]Theme چه می‌شود؟
+    transcription: bā geryeh goft pas [khānevādeh-ye man]Theme cheh mishavad?
+  - example: گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟
+    transcription: ākheh man tanhām. goft pas [man]Theme chi rafigh?
+  - example: مگه من جلبکم؟ پس [من]Theme چی؟
+    transcription: mageh man jolbakam? pas [man]Theme chi?
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  -
+syntactic_structure_of_anchor:
+  -
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Verb
+semantic_roles:
+  - Theme
+intonation:
+  - Interrogative
+Communicative_type:
+  - Interrogative
+  - Exclamatory
+usage_label:
+  - Informal
+  - Formal
+dependency_structure:
+  - '[[پسCON] [[NP] [چیDet] [(شدن)V]VP]root]'
+dependency_structure_of_illustration:
+  - '[[پسCON] [[نظرN] [جمعN]NP] [[چیDet] [می‌شهV]VP]root]'
+comment:
+  - Persian: |
+      ''
+  - English: |
+      ''
+  - Norwegian: |
+      'Not available'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type:
+    subtypes:
+      - type:
+family:
+  - |
+    ""
