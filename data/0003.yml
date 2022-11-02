@@ -48,9 +48,9 @@ usage_label:
   - Informal
   - Formal
 dependency_structure:
-  - ''
+  - '[[ازP] [طرفیN]PP] [همAdv]'
 dependency_structure_of_illustration:
-  - ''
+  - '[[هیچ‌کسPro] [[جرأتN] [بیانN] [آنPro]NP] [وP] [[ازP] [طرفیN]PP] [همAdv] [هیچ‌کسPro] [[جرأتN] [شنیدنN] [آنPro]] [راOM] [نداشتV]VP]Root]'
 comment:
   - Persian: |
       ''
