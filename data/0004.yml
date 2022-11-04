@@ -21,36 +21,35 @@ examples:
     transcription: ehsās-e khub-i dar mored-e khodetān peydā mikonid. az in gozashte, [labkhand zadan bāes-e āzād shodan-e endorfin dar badan mishavad]Argument.
   - example: از این گذشته، [شاید او مایل به انتقال دانش خود به ما نباشد]Argument.
     transcription: az in gozashte, [shāyad u māyel be eneghāl-e dānesh-e khod be mā nabāshad]Argument.
-  - example: گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟
-    transcription: ākheh man tanhām. goft pas [man]Theme chi rafigh?
-  - example: مگه من جلبکم؟ پس [من]Theme چی؟
-    transcription: mageh man jolbakam? pas [man]Theme chi?
+  - example: پاهام درد می‌کنه و نمی‌تونم راه برم. از اینها گذشته، [خودم هم حالم خوب نیست]Argument.
+    transcription: pāhām dard mikone va nemitunam rāh beram. az inhā gozashte, [khodam ham hālam khub nist]Argument.
+  - example: چطور می‌توانستم باور کنم که او نمی‌تواند بشنود. شاید مشکلی باشد که بتواند اصلاح شود. از این گذشته، [یک گوش برای شنیدن کافی است]Argument.
+    transcription: chetor mitavānestam bāvar konam ke u nemitavānad beshnavad. shāyad moshkeli bāshad ke betavānad eslāh shaved. az in gozashe, [yek gush barāye shenidan kāfi ast]Argument.
 morphology:
-  - NP
+  - 
 syntactic_type_of_construction:
-  - Copula Construction
+  - 
 syntactic_function_of_anchor:
   -
 syntactic_structure_of_anchor:
   -
 part_of_speech_of_anchor:
-  - Conjunction
-  - Pronoun
-  - Verb
+  - Preposition
+  - Determiner
+  - Adjective
 semantic_roles:
-  - Theme
+  - 
 intonation:
-  - Interrogative
+  - Declarative
 Communicative_type:
-  - Interrogative
-  - Exclamatory
+  - 
+  - 
 usage_label:
-  - Informal
   - Formal
 dependency_structure:
-  - '[[پسCON] [[NP] [چیDet] [(شدن)V]VP]root]'
+  - ''
 dependency_structure_of_illustration:
-  - '[[پسCON] [[نظرN] [جمعN]NP] [[چیDet] [می‌شهV]VP]root]'
+  - ''
 comment:
   - Persian: |
       ''
