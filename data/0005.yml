@@ -1,11 +1,11 @@
 ---
 record: 5
-name: 'از این گذشته، Clause'
-name_transcription: 'az in gozashte, Clause'
-name_translation: 'Furthermore, Clause'
-UD_name: 'از این گذشته، Clause'
-illustration: 'از این گذشته، [موتور هوا را هم آلوده می‌کند].'
-illustration_transcription: 'az in gozahte, motor havā rā ham ālude mikonad.'
+name: 'چرا راه دور برویم / بریم؟ Clause'
+name_transcription: 'cherā rāh-e dur beravim / berim? Clause'
+name_translation: 'Case in point, Clause'
+UD_name: 'چرا راه دور برویم / بریم؟ Clause'
+illustration: 'چرا راه دور برویم؟ [همین ایران خودمان]'
+illustration_transcription: 'cherā rāh-e dur beravim? [hamin irān-e khodemān].'
 cefr_level: Not available
 definitions:
   - persian: |
