@@ -15,17 +15,16 @@ definitions:
   - norwegian: |
        Not available.
 examples:
-  - example: یا اصلا چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام].
+  - example: یا اصلاً چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام].
     transcription: yā aslan cherā rāh-e dur beravim? [hamin sāl-e gozashte va ejrā-ye fogholāde-ye kolbe-ye amu tām].
   - example: از اقتدار پدرها می شنویم که همه از کوچک و بزرگ از وی حساب می بردند. چرا راه دور برویم؟ [پدرها و مادرهای ما هم این گونه بودند].
     transcription: az eghtedār-e pedarhā mishenavim ke hame az kuchak o bozorg az vey hesāb mibordand. cherā rāh-e dur beravim? [pedarhā va mādarhā-ye mā ham in gune buand].
-  - example: از این گذشته، [شاید او مایل به انتقال دانش خود به ما نباشد]Argument.
-    transcription: az in gozashte, [shāyad u māyel be eneghāl-e dānesh-e khod be mā nabāshad]Argument.
-  - example: پاهام درد می‌کنه و نمی‌تونم راه برم. از اینها گذشته، [خودم هم حالم خوب نیست]Argument.
-    transcription: pāhām dard mikone va nemitunam rāh beram. az inhā gozashte, [khodam ham hālam khub nist]Argument.
-  - example: چطور می‌توانستم باور کنم که او نمی‌تواند بشنود. شاید مشکلی باشد که بتواند اصلاح شود. از این گذشته، [یک گوش برای شنیدن کافی است]Argument.
-    transcription: chetor mitavānestam bāvar konam ke u nemitavānad beshnavad. shāyad moshkeli bāshad ke betavānad eslāh shaved. az in gozashe, [yek gush barāye shenidan kāfi ast]Argument.
-morphology:
+  - example: به وقت احتیاج و درماندگی فقط به من مراجعه کن. چرا راه دور می‌روی ؟ [من درکنار توام از خودت نیز به تو نزدیکتر].
+    transcription: be vaght-e ehtiāj va darmāndegi faghat be man morājee kon. cherā rāh-e dur miravi? [man dar kenār-e toam az khodat niz be to nazdiktar].
+  - example: بگذارید قضیه را با یک مصداق شروع کنیم. اصلاً چرا راه دور برویم؟ [از اولین جمله رمان شما شروع می‌کنیم].
+    transcription: bogzārid ghazie rā bā yek mesdāgh shoru konim. aslan cherā rāh-e dur beravim? [az avvalin jomle-ye roman-e shomā shoru mikonim].
+  - example: دوست عزیز چرا راه دور بریم و با عاشورای پارسال مقایسه کنیم؟ [با همین 25 بهمن مقایسه کن].
+    transcription: dust-e aziz cherā rāh-e dur berim o bā āshurā-ye pārsāl moghāyese konim? [bā hamin bist-o-panj-e bahman moghāyese kon].
   - 
 syntactic_type_of_construction:
   - 
