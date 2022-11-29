@@ -9,16 +9,16 @@ illustration_transcription: 'cherā rāh-e dur beravim? [hamin irān-e khodemān
 cefr_level: Not available
 definitions:
   - persian: |
-      این ساخت موضوع جدیدی را در تکمیل آنچه پیش از این گفته شده وارد گفتمان می‌کند.
+       این ساخت سوالی زمانی استفاده می‌شود که گوینده قصد ارائه شاهد یا مثالی ملموس و آشنا در جهت تکمیل گفته پیشین خود دارد. عبارتی که پس از این سوال مطرح می‌شود همان شاهد یا مثال است.
   - english: |
-       This construction introduces a new topic as added information for what has already been said.
+       This interrogative construction is a way to give a tangible and familiar piece of evidence or an example for what has already been said. What comes after the question will be the example or evidence intended.
   - norwegian: |
        Not available.
 examples:
-  - example: ویتامین A برای سلامت پوست ضروری است. از این گذشته، [این ویتامین برای بینایی نیز مفید است]Argument.
-    transcription: vitamin-e A barāye salāmat-e pust zaruri ast. az in gozashte, [in vitāmin barāye bināei niz mofid ast]Argument.
-  - example: احساس خوبی در مورد خودتان پیدا می‌کنید. از این گذشته [لبخند زدن باعث ازاد شدن اندروفین در بدن می‌شود]Argument.
-    transcription: ehsās-e khub-i dar mored-e khodetān peydā mikonid. az in gozashte, [labkhand zadan bāes-e āzād shodan-e endorfin dar badan mishavad]Argument.
+  - example: یا اصلا چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام].
+    transcription: yā aslan cherā rāh-e dur beravim? [hamin sāl-e gozashte va ejrā-ye fogholāde-ye kolbe-ye amu tām].
+  - example: از اقتدار پدرها می شنویم که همه از کوچک و بزرگ از وی حساب می بردند. چرا راه دور برویم؟ [پدرها و مادرهای ما هم این گونه بودند].
+    transcription: az eghtedār-e pedarhā mishenavim ke hame az kuchak o bozorg az vey hesāb mibordand. cherā rāh-e dur beravim? [pedarhā va mādarhā-ye mā ham in gune buand].
   - example: از این گذشته، [شاید او مایل به انتقال دانش خود به ما نباشد]Argument.
     transcription: az in gozashte, [shāyad u māyel be eneghāl-e dānesh-e khod be mā nabāshad]Argument.
   - example: پاهام درد می‌کنه و نمی‌تونم راه برم. از اینها گذشته، [خودم هم حالم خوب نیست]Argument.
