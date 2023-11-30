@@ -1,72 +1,48 @@
 ---
 record: 3
-name: 'از طرفی هم Clause'
-name_transcription: 'az tarafi ham Clause'
-name_translation: 'Besides, Clause'
-UD_name: 'از طرفی هم Clause'
-illustration: 'هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت].'
-illustration_transcription: 'hich kas jorat-e bayan-e ān va az tarafi ham [hich kas jorat-e shenidan-e ān rā nadāsht].'
-cefr_level: Not available
+name: 'از طرفی هم CL'
+name_transcription: 'az taraf-i ham CL'
+name_translation: 'Besides CL'
+illustration: 'هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت]CL.'
+illustration_transcription: 'hič kas jor’at-e bayān-e ān va az taraf-i ham [hič kas jor’at-e šenid-an-e ān rā na-dāšt].'
+cefr_level: 
 definitions:
   - persian: |
-      این ساخت موضوع جدیدی را وارد گفتمان می‌کند که در تصمیم‌گیری فرد دخیل است. این موضوع می‌تواند به عنوان دلیلی مضاعف و تاییدی بر گفته‌های پیشین و یا به صورت استدلال مخالف بیان شود.
+       این ساخت موضوع جدیدی را وارد گفتمان می‌کند که در تصمیم‌گیری فرد دخیل است. این موضوع می‌تواند به عنوان دلیلی مضاعف و تاییدی بر گفته‌های پیشین و یا به صورت استدلال مخالف بیان شود.
   - english: |
        The construction introduces a new topic into the discourse that is involved in an individual's decision making. This topic can be expressed as an added argument and confirmation of the previous statements or as an opposing argument.
-  - norwegian: |
-       Not available.
 examples:
-  - example: خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]Argument.
-    transcription: kheyli konjkāv budam keh bedānam dākhel-e jabeh-hā-ye kādow shodeh chist. az tarafi ham [khejālat mikeshidam rāje beh kadow-ha harf bezanam]Argument.
-  - example: واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument.
-    transcription: vāghan delam nemiyād tatil-esh konam vali az tarafi ham [digeh tavān-e mundane nadāram]Argument.
-  - example: فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]Argument.
-    transcription: farāmush kardeh budim az khuneh dastkesh bā khodemun bebarim va az tarafi ham [dust dāshtim ādam barfi dorsot konim]Argument.
-  - example: مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]Argument.
-    transcription: moddat-hā-st keh az futbāl-e irān dur budam va az tarafi ham [bā tim-e esteghlāl tamrin-i nakardam keh mored-e enteghād gharār begiram]Argument.
-  - example: چون دوسش دارم و طاقت دیدن ناراحتیش ندارم از طرفی هم [احساس میکنم تو چند مورد درین باره اشتباه کردم]Argument.
-    transcription: chon dusesh dāram va tāghat-e didan-e nārāhati-sho nadāram az tarafi ham [ehsās mikonam tu chand mored darin bareh eshtebāh kardam]Argument.
+  - example: 'خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]Argument.'
+    annotation: 'xeyli konjkāv bud-am ke be-dān-am dāxel-e ja’be-hā-ye kādo šode či-st. az taraf-i ham [xejālat mi-kešid-am rāje’ be kādo-hā harf be-zan-am]Argument.'
+  - example: 'واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument.'
+    annotation: 'vāqe’an del-am ne-miy-ā-d ta’til-eš kon-am vali az taraf-i ham [dige tavān-e mundan na-dār-am]Argument.'
+  - example: 'فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]Argument.'
+    annotation: 'farāmuš kard-e bud-im az xune dastkeš bā xod-emun be-bar-im va az taraf-i ham [dust dāšt-im ādam barfi dorsot kon-im]Argument.'
+  - example: 'مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]Argument.'
+    annotation: 'moddat-hā-st ke az futbāl-e irān dur bud-am va az taraf-i ham [bā tim-e esteqlāl tamrin-i na-kard-am ke mored-e enteqād qarār be-gir-am]Argument.'
+  - example: 'چون دوسش دارم و طاقت دیدن ناراحتیشو ندارم از طرفی هم [احساس میکنم تو چند مورد در این باره اشتباه کردم]Argument.'
+    annotation: 'čon dus-eš dār-am va tāqat-e did-an-e nārāhati-šo na-dār-am az taraf-i ham [ehsās mi-kon-am tu čand mored dar in bare eštebāh kard-am]Argument.'
 morphology:
-  -
+  - ~
 syntactic_type_of_construction:
   - PP
 syntactic_function_of_anchor:
-  -
+  - ~
 syntactic_structure_of_anchor:
-  -
+  - ~
 part_of_speech_of_anchor:
   - Preposition
   - Noun
-  - Conjuntion
+  - Conjunction
 semantic_roles:
-  -
+  - ~
 intonation:
   - Declarative
-Communicative_type:
-  - Declarative
-  -
-usage_label:
-  - Informal
-  - Formal
-dependency_structure:
-  - '[[ازP] [طرفیN]PP] [همAdv]'
-dependency_structure_of_illustration:
-  - '[[هیچ‌کسPro] [[جرأتN] [بیانN] [آنPro]NP] [وP] [[ازP] [طرفیN]PP] [همAdv] [هیچ‌کسPro] [[جرأتN] [شنیدنN] [آنPro]] [راOM] [نداشتV]VP]Root]'
-comment:
-  - Persian: |
-      ''
-  - English: |
-      ''
-  - Norwegian: |
-      ''
+usage_label: Informal, Formal
+comment: 
 common_fillers:
   - ~
-references:
-  - |
-    No references
 semantic_types:
-  - type:
-    subtypes:
-      - type:
 family:
   - |
     ""

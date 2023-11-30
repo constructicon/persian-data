@@ -1,71 +1,52 @@
 ---
 record: 4
-name: 'از این گذشته، Clause'
-name_transcription: 'az in gozashte, Clause'
-name_translation: 'Furthermore, Clause'
-UD_name: 'از این گذشته، Clause'
-illustration: 'از این گذشته، [موتور هوا را هم آلوده می‌کند].'
-illustration_transcription: 'az in gozahte, motor havā rā ham ālude mikonad.'
-cefr_level: Not available
+name: 'از این گذشته، CL'
+name_transcription: 'az in gozašte, CL'
+name_translation: 'Furthermore, CL'
+illustration: 'از این گذشته، [موتور هوا را هم آلوده می‌کند]CL.'
+illustration_transcription: 'az in gozašte, [motor havā rā ham ālude mi-kon-ad].'
+cefr_level: 
 definitions:
   - persian: |
-      این ساخت موضوع جدیدی را در تکمیل آنچه پیش از این گفته شده وارد گفتمان می‌کند.
+       این ساخت موضوع جدیدی را در تکمیل آنچه پیش از این گفته شده وارد گفتمان می‌کند.
   - english: |
        This construction introduces a new topic as added information for what has already been said.
-  - norwegian: |
-       Not available.
 examples:
-  - example: ویتامین A برای سلامت پوست ضروری است. از این گذشته، [این ویتامین برای بینایی نیز مفید است]Argument.
-    transcription: vitamin-e A barāye salāmat-e pust zaruri ast. az in gozashte, [in vitāmin barāye bināei niz mofid ast]Argument.
-  - example: احساس خوبی در مورد خودتان پیدا می‌کنید. از این گذشته [لبخند زدن باعث ازاد شدن اندروفین در بدن می‌شود]Argument.
-    transcription: ehsās-e khub-i dar mored-e khodetān peydā mikonid. az in gozashte, [labkhand zadan bāes-e āzād shodan-e endorfin dar badan mishavad]Argument.
-  - example: از این گذشته، [شاید او مایل به انتقال دانش خود به ما نباشد]Argument.
-    transcription: az in gozashte, [shāyad u māyel be eneghāl-e dānesh-e khod be mā nabāshad]Argument.
-  - example: پاهام درد می‌کنه و نمی‌تونم راه برم. از اینها گذشته، [خودم هم حالم خوب نیست]Argument.
-    transcription: pāhām dard mikone va nemitunam rāh beram. az inhā gozashte, [khodam ham hālam khub nist]Argument.
-  - example: چطور می‌توانستم باور کنم که او نمی‌تواند بشنود. شاید مشکلی باشد که بتواند اصلاح شود. از این گذشته، [یک گوش برای شنیدن کافی است]Argument.
-    transcription: chetor mitavānestam bāvar konam ke u nemitavānad beshnavad. shāyad moshkeli bāshad ke betavānad eslāh shaved. az in gozashe, [yek gush barāye shenidan kāfi ast]Argument.
+  - example: 'ویتامین A برای سلامت پوست ضروری است. از این گذشته، [این ویتامین برای بینایی نیز مفید است]Argument.'
+    annotation: 'vitāmin-e A barāy-e salāmat-e pust zaruri ast. az in gozašte, [in vitāmin barāy-e bināyi niz mofid ast]Argument.'
+  - example: 'احساس خوبی در مورد خودتان پیدا می‌کنید. از این گذشته [لبخند زدن باعث ازاد شدن اندروفین در بدن می‌شود]Argument.'
+    annotation: 'ehsās-e xub-i dar mored-e xod-etān peydā mi-kon-id. az in gozašte, [labxand zad-an bā’es-e āzād šod-an-e endorfin dar badan mi-šav-ad]Argument.'
+  - example: 'از این گذشته، [شاید او مایل به انتقال دانش خود به ما نباشد]Argument.'
+    annotation: 'az in gozašte, [šāyad u māyel be enteqāl-e dāneš-e xod be mā na-bāš-ad]Argument.'
+  - example: 'پاهام درد می‌کنه و نمی‌تونم راه برم. از اینها گذشته، [خودم هم حالم خوب نیست]Argument.'
+    annotation: 'pā-hā-m dard mi-kon-e va ne-mi-tun-am rāh be-r-am. az in-hā gozašte, [xod-am ham hāl-am xub nist]Argument.'
+  - example: 'چطور می‌توانستم باور کنم که او نمی‌تواند بشنود. از این گذشته، [یک گوش برای شنیدن کافی است]Argument.'
+    annotation: 'četor mi-tavān-est-am bāvar kon-am ke u ne-mi-tavān-ad be-šnav-ad. az in gozašte, [yek guš barāy-e šenid-an kāfi ast]Argument.'
 morphology:
-  - 
+  - ~
 syntactic_type_of_construction:
-  - 
+  - ~
 syntactic_function_of_anchor:
-  -
+  - ~
 syntactic_structure_of_anchor:
-  -
+  - ~
 part_of_speech_of_anchor:
   - Preposition
   - Determiner
   - Adjective
 semantic_roles:
-  - 
+  - ~
 intonation:
-  - Declarative
-Communicative_type:
-  - 
-  - 
-usage_label:
-  - Formal
-dependency_structure:
-  - ''
-dependency_structure_of_illustration:
-  - ''
-comment:
+  - ~
+usage_label: Formal
+comment: 
   - Persian: |
-      ''
+      'همچنین به صورت «از اینها گذشته»، «گذشته از این» یا «گذشته از اینها».'
   - English: |
-      ''
-  - Norwegian: |
-      'Not available'
+      'Also used as «az in-hā gozašte», «gozašte az in» or «gozašte az in-hā».'
 common_fillers:
   - ~
-references:
-  - |
-    No references
 semantic_types:
-  - type:
-    subtypes:
-      - type:
 family:
   - |
     ""

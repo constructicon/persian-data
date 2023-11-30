@@ -1,30 +1,27 @@
 ---
 record: 1
-name: 'دست به NP زدن'
-name_transcription: 'dast beh NP zadan'
-name_translation: 'begin doing NP, commit NP'
-UD_name: 'دست به NP زدن'
-illustration: 'فرد زندانی دست به خودکشی زده است.'
-illustration_transcription: 'fard-e zendāni dast beh xodkoshi zadeh ast.'
-cefr_level: Not available
+name: 'پس NP چی (شدن)؟ / پس NP؟'
+name_transcription: 'pas NP či (šod-an) / pas NP'
+name_translation: 'What about NP then?'
+illustration: 'پس [نظر جمع]NP چی می‌شه؟'
+illustration_transcription: 'pas [nazar-e jam’] či mi-š-e?'
+cefr_level: 
 definitions:
   - persian: |
-      این ساخت خبری، بیان می‌کند که شخص، گروه یا موجود مشخصی شروع به انجام [فعالیت]Theme خاصی می‌کند. این فعالیت گاهاً ناگهانی و غیرمنتظره است.
+       این ساخت [موضوعی]Theme را برجسته می‌کند که مخاطب آن را در تصمیم نهایی خود لحاظ نکرده است. این عدم توجه می‌تواند به صورت ناخودآگاه یا عمدی باشد.
   - english: |
-       This declarative construction states that an entity starts doing an [activity]Theme. It is sometimes a sudden action against the expectations.
-  - norwegian: |
-       Not available.
+       This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional.
 examples:
-  - example: اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.
-    transcription: osulan ensān-hā dar mavāqei keh zarurat ijād konad dast beh [kārhāy-e bozorɡi] mizanad.
-  - example: من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان کشتار زندان ابوسلیم هستم.
-    transcription: man beh in khāter dast beh faāliat-e siāsi zadam keh az khānevādeh-ye ghorbāniān-e koshtār-e abusalim hastam.
-  - example: بنا بر اعلام پلیس پاکستان، یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد.
-    transcription: banā bar elām-e polis-e pākestān, yek zan barāy-e rahāyi az aziat va āzārhay-e hamsarash dast beh [qatl-e u] zad.
-  - example: در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌ها و انتقادات فراوانی را به همراه داشت.
-    transcription: dar māh-e āvril piyonɡ yānɡ dast beh [anjāme yek āzmāyesh-e mushaki] zad keh neɡarāniha va enteghādāt-e farāvāni rā beh hamrāh dāsht.
-  - example: در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.
-    transcription: dar ruz-e chāhārshanbeh panjāh hezār tan dar sāntiāɡo, pāytakht, dast beh [rāhpeymāyi] zadand.
+  - example: 'من دیگه میخوام طلاق بگیرم! گفت: پس [سوگل]Theme چی می‌شه این وسط؟'
+    annotation: 'man dige mi-xām talāq be-gir-am! goft pas [sogol]Theme či mi-š-e?'
+  - example: 'پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟'
+    annotation: 'pas [qol o qarār-emun]Theme či mi-š-e? ham-aš-o yād-et raft?'
+  - example: 'با گریه گفت: پس [خانواده من]Theme چه می‌شود؟'
+    annotation: 'bā gerye goft pas [xānevāde-ye man]Theme če mi-šav-ad?'
+  - example: 'گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟'
+    annotation: 'goft-am āxe man tanhām. goft pas [man]Theme či rafiq?'
+  - example: 'مگه من جلبکم؟ پس [من]Theme چی؟'
+    annotation: 'mage man jolbak-am? pas [man]Theme či?'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -41,30 +38,15 @@ semantic_roles:
   - Theme
 intonation:
   - Declarative
-Communicative_type:
-  - Declarative
-usage_label:
-  - Formal
-dependency_structure:
-  - '[[دستN] [[بهP] [NP]PP] [زدنV]VP]'
-dependency_structure_of_illustration:
-  - '[[[فرد N] [زندانی Adj] AP] [دست N] [[به P] [خودکشی NP] PP] [زده استV] VP]'
-comment:
+usage_label: Formal
+comment: 
   - Persian: |
-      'بسط استعاری از همین ساخت به معنی "لمس کردن"'
+      ''بسط استعاری از همین ساخت به معنی "لمس کردن"''
   - English: |
       'A metaphorical extension of the same construction that means "to touch something".'
-  - Norwegian: |
-      'Not available'
 common_fillers:
   - ~
-references:
-  - |
-    No references
 semantic_types:
-  - type:
-    subtypes:
-      - type:
 family:
   - |
     ""
