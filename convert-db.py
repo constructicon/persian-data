@@ -88,7 +88,12 @@ def write_record(row, record):
                 split_sequence,
             )
         )
-        f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
+
+        usage_labels = split_string(row['Usage label'], ', ')
+        f.write(f"usage_label:\n")
+        for us in usage_labels:
+            f.write(f'  - {us}\n')
+            
 
         # f.write("dependency_structure:\n")
         # f.write(print_as_yaml_list(row["Dependency Structure"], split_sequence))

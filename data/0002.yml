@@ -39,7 +39,9 @@ semantic_roles:
 intonation:
   - Interrogative
   - Exclamatory
-usage_label: Informal, Formal
+usage_label:
+  - Informal
+  - Formal
 comment: 
 common_fillers:
   - ~

@@ -38,7 +38,8 @@ semantic_roles:
   - Theme
 intonation:
   - Declarative
-usage_label: Formal
+usage_label:
+  - Formal
 comment: 
   - Persian: |
       ''بسط استعاری از همین ساخت به معنی "لمس کردن"''

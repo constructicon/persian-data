@@ -38,7 +38,8 @@ semantic_roles:
   - ~
 intonation:
   - ~
-usage_label: Formal
+usage_label:
+  - Formal
 comment: 
   - Persian: |
       'همچنین به صورت «از اینها گذشته»، «گذشته از این» یا «گذشته از اینها».'

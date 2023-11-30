@@ -38,7 +38,9 @@ semantic_roles:
   - ~
 intonation:
   - Declarative
-usage_label: Informal, Formal
+usage_label:
+  - Informal
+  - Formal
 comment: 
 common_fillers:
   - ~
