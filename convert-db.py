@@ -46,11 +46,16 @@ def write_record(row, record):
         f.write("---\n")
         f.write(f"record: {record}\n")
         f.write(f"name: '{row['Name'].strip()}'\n")
-        f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
+        f.write(f"name_transcription: '{row['Name romanized'].strip()}'\n")
+        f.write(f"name_translation: '{row['English equivalent'].strip()}'\n")
+
+        # f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
         f.write(f"illustration: '{row['Illustration'].strip()}'\n")
+        f.write(f"illustration_transcription: '{row['Illustration romanized'].strip()}'\n")
+
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
-        for language in ["Russian", "English", "Norwegian"]:
+        for language in ["Persian", "English"]:
             entry = row[f"Definition in {language}"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
@@ -58,9 +63,12 @@ def write_record(row, record):
         f.write("examples:\n")
         for column in ["Example 1", "Example 2", "Example 3", "Example 4", "Example 5"]:
             entry = row[column].strip()
+            annotation = row[column + ' romanized'].strip()
             if entry != "":
-                f.write("  - |\n")
-                f.write(f"       {entry}\n")
+                f.write(f"  - example: '{entry}'\n")
+                f.write(f"    annotation: '{annotation}'\n")        
+
+
         f.write("morphology:\n")
         f.write(print_as_yaml_list(row["Morphology"], split_sequence))
         f.write("syntactic_type_of_construction:\n")
@@ -82,20 +90,22 @@ def write_record(row, record):
         )
         f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
 
-        f.write("dependency_structure:\n")
-        f.write(print_as_yaml_list(row["Dependency Structure"], split_sequence))
-        f.write("dependency_structure_of_illustration:\n")
-        f.write(
-            print_as_yaml_list(
-                row["Dependency Structure of Illustration"].replace("\\n", " "),
-                ["+"],
-            )
-        )
+        # f.write("dependency_structure:\n")
+        # f.write(print_as_yaml_list(row["Dependency Structure"], split_sequence))
+        # f.write("dependency_structure_of_illustration:\n")
+        # f.write(
+        #     print_as_yaml_list(
+        #         row["Dependency Structure of Illustration"].replace("\\n", " "),
+        #         ["+"],
+        #     )
+        # )
 
-        entry = row["Comment"].strip()
-        if entry != "":
-            f.write("comment: |\n")
-            f.write(f"    '{entry}'\n")
+        f.write("comment: \n")
+        for language in ['Persian', 'English']:
+            entry = row["Comment " + language].strip()
+            if entry != "":
+                f.write(f"  - {language}: |\n")
+                f.write(f"      '{entry}'\n")
 
         f.write("common_fillers:\n")
         f.write(
@@ -105,9 +115,10 @@ def write_record(row, record):
             )
         )
 
-        f.write("references:\n")
-        f.write("  - |\n")
-        f.write("    " + row["References"].strip() + "\n")
+        # f.write("references:\n")
+        # f.write("  - |\n")
+        # f.write("    " + row["References"].strip() + "\n")
+
         f.write("semantic_types:\n")
         for tag in tags:
             if row[tag] != "":
