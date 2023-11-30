@@ -66,7 +66,7 @@ def write_record(row, record):
             annotation = row[column + ' romanized'].strip()
             if entry != "":
                 f.write(f"  - example: '{entry}'\n")
-                f.write(f"    annotation: '{annotation}'\n")        
+                f.write(f"    transcription: '{annotation}'\n")        
 
 
         f.write("morphology:\n")

@@ -9,15 +9,15 @@ cefr_level:
 definitions:
 examples:
   - example: 'اگر می‌خواهید [لاغر شوید و از غذا بیزار]، [از این ترکیب رنگ استفاده کنید].'
-    annotation: 'agar mixāhid [lāqar šavid va az qazā bizār], [az in tarkib-e rang estefāde konid].'
+    transcription: 'agar mixāhid [lāqar šavid va az qazā bizār], [az in tarkib-e rang estefāde konid].'
   - example: 'اگر می‌خواهد [به قهر این ملت ایران دچار نشود]، [باید بعضی چیزها را بازگو و فسادهای اقتصادی را افشا کند].'
-    annotation: 'agar mixāhad [be qahr-e in mellat irān dočār našavad], [bāyad ba’zi čiz-hā rā bāzgu va fesād-hā-ye eqtesādi rā efšā konad].'
+    transcription: 'agar mixāhad [be qahr-e in mellat irān dočār našavad], [bāyad ba’zi čiz-hā rā bāzgu va fesād-hā-ye eqtesādi rā efšā konad].'
   - example: 'اگر می‌خواهید [عزت نفس بیشتری پیدا کنید]، [نباید حقوق خود را نادیده بگیرید].'
-    annotation: 'agar mixāhid [’ezzat-e nafs-e bištari peydā konid], [nabāyad hoquq-e xod rā nadide begirid].'
+    transcription: 'agar mixāhid [’ezzat-e nafs-e bištari peydā konid], [nabāyad hoquq-e xod rā nadide begirid].'
   - example: 'اگر می‌خواهیم [به المپیک صعود کنیم]، [نباید هیچ حریفی را دست کم بگیریم].'
-    annotation: 'agar mixāhim [be olampik so’ud konim], [nabāyad hič harifi rā dast-e kam begirim].'
+    transcription: 'agar mixāhim [be olampik so’ud konim], [nabāyad hič harifi rā dast-e kam begirim].'
   - example: 'اگر خواستی [کسی را بهتر بشناسی]، [با وی همسفر شو].'
-    annotation: 'agar xāsti [kasi rā behtar bešenāsi], [bā vey hamsafar šo].'
+    transcription: 'agar xāsti [kasi rā behtar bešenāsi], [bā vey hamsafar šo].'
 morphology:
   - ~
 syntactic_type_of_construction:

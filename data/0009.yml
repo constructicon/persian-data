@@ -9,15 +9,15 @@ cefr_level:
 definitions:
 examples:
   - example: '[یک هفته از این ماجرا] نگذشته بود که [اسب پیرمرد به همراه بیست اسب وحشی به خانه برگشت].'
-    annotation: '[yek hafte az in mājerā] na-gozašte bud ke [asb-e piremard be hamrāh-e bist asb-e vahši be xāne bargašt].'
+    transcription: '[yek hafte az in mājerā] na-gozašte bud ke [asb-e piremard be hamrāh-e bist asb-e vahši be xāne bargašt].'
   - example: '[دو ثانیه از گفتن اون نکته] نگذشته که [یه نکته خیلی مهم ریاضی یادش میاد].'
-    annotation: '[do sāniye az goftan-e un nokte] na-gzašte ke [ye nokte-ye xeyli mohemm-e riyāzi yādeš miyād].'
+    transcription: '[do sāniye az goftan-e un nokte] na-gzašte ke [ye nokte-ye xeyli mohemm-e riyāzi yādeš miyād].'
   - example: 'این مرد که [چند روزی از ازدواج او] نگذشته بود [زن خود را طلاق می‌دهد].'
-    annotation: 'in mard ke [čand ruzi az ezdevāj-e u] na-gozašte bud ke [zan-e xod rā talāq midahad].'
+    transcription: 'in mard ke [čand ruzi az ezdevāj-e u] na-gozašte bud ke [zan-e xod rā talāq midahad].'
   - example: '[چند دقیقه بیشتر] نگذشته بود که [صدای فریاد‌های یک زن را شنیدم].'
-    annotation: '[čand daqiqe bištar] na-gozašte bud ke [sedā-ye faryād-hā-ye yek zan rā šenidam].'
+    transcription: '[čand daqiqe bištar] na-gozašte bud ke [sedā-ye faryād-hā-ye yek zan rā šenidam].'
   - example: '[روزی چند از این ماجرا] نگذشته بود که [حادثه دیگری رخ داد].'
-    annotation: '[ruzi čand az in mājerā] na-gozašte bud ke [hādese-ye digari rox dād].'
+    transcription: '[ruzi čand az in mājerā] na-gozašte bud ke [hādese-ye digari rox dād].'
 morphology:
   - ~
 syntactic_type_of_construction:
