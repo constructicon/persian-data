@@ -1,0 +1,43 @@
+---
+record: 15
+name: 'این کجاش XP؟'
+name_transcription: 'in kojāš XP?'
+name_translation: 'How is it XP?'
+illustration: 'این کجاش [شبیه میمونه]؟'
+illustration_transcription: 'in kojāš [šabih-e meymune]?'
+cefr_level: 
+definitions:
+examples:
+  - example: 'من به یه احمق گفتم احمق. این کجاش [توهینه]ROLE؟'
+    transcription: 'man be ye ahmaq goftam ahmaq. in kojāš [tohine]ROLE?'
+  - example: 'تو رو خدا این کجاش [به پسرا میخوره]ROLE؟ خیلی شبیه دختراست.'
+    transcription: 'to ro xodā in kojāš [be pesar-ā mixore]ROLE? xeyli šabih-e doxtar-āst.'
+  - example: 'این کجاش [سرگرمی بود]ROLE؟'
+    transcription: 'in kojāš [sargarmi bud]ROLE?'
+  - example: 'بهش گفتم خوشمزست. برگشته بمن میگه این کجاش [خوشمزست]ROLE؟'
+    transcription: 'beheš goftam xošmazast. bargašte be man mige in kojāš [xošmazast]ROLE?'
+  - example: 'حرف دهنتو بفهم مرد حسابی! این کجاش [شبیه ما ادماست]ROLE؟'
+    transcription: 'harf-e dahaneto befahm mard-e hesābi! in kojāš [šabih-e mā ādam-āst]ROLE?'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
