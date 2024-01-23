@@ -42,7 +42,7 @@ def write_record(row, record):
 
     split_sequence = ["+", ",", ";", "/"]
 
-    with open(record_to_filename(record), "w") as f:
+    with open(record_to_filename(record), "w", encoding="utf-8") as f:
         f.write("---\n")
         f.write(f"record: {record}\n")
         f.write(f"name: '{row['Name'].strip()}'\n")
@@ -144,7 +144,7 @@ def write_record(row, record):
 
 
 if __name__ == "__main__":
-    with open(sys.argv[-1], "r") as f:
+    with open(sys.argv[-1], "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             record = int(row["ID Number"])
