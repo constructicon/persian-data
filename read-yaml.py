@@ -1,7 +1,7 @@
 import yaml
 import pprint
 
-with open("0017.yml", "r") as f:
+with open("0017.yml", "r", encoding="utf-8", errors='ignore') as f:
     try:
         data = yaml.safe_load(f)
     except yaml.YAMLError as e:
