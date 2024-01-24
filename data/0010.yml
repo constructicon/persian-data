@@ -10,8 +10,8 @@ definitions:
 examples:
   - example: 'نمی شه [اول در بزنید و بعد بیایید تو]Role؟'
     transcription: 'nemiše [avval dar bezanid va bad biyayid tu]Role?'
-  - example: 'پدر می‌گفت: نمیشه [امروز مرخصی بگیری]Role؟'
-    transcription: 'pedar migoft: nemiše [emruz moraxasi begiri]Role?'
+  - example: 'پدر می‌گفت نمیشه [امروز مرخصی بگیری]Role؟'
+    transcription: 'pedar migoft nemiše [emruz moraxasi begiri]Role?'
   - example: 'نمیشد [تو امروز sms نمی‌دادی و نمیومدی دنبالم]Role؟'
     transcription: 'nemišod [to emruz sms nemidadi o nemiyumadi dombālam]Role?'
   - example: 'مهدی، نمیشه [یه بار دیگه ببینمت]Role؟'
