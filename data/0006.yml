@@ -1,0 +1,47 @@
+---
+record: 6
+name: 'NP/CL به NP چه ربطی داشتن؟'
+name_transcription: 'NP/CL be NP če rabti dāšt-an?'
+name_translation: 'What does NP/CL have to do with NP?'
+illustration: 'آخه [درس‌های رشته برق]Theme به [من]Theme چه ربطی داره؟'
+illustration_transcription: 'āxe [dars-hā-ye rešte-ye barq]Theme be [man]Theme če rabti dāre?'
+cefr_level: 
+definitions:
+examples:
+  - example: '[فرهنگ]Theme چه ربطی به [دروغِ سیاستمداران]Theme دارد؟'
+    transcription: '[farhang]Theme če rabti be [doruq-e siāsatmadār-ān]Theme dārad?'
+  - example: 'جناب آقای نماینده اینجا ایرانشهر است، [فرودگاه بوشهر]Theme به [ما]Theme چه ربطی داره؟'
+    transcription: 'jenāb-e āqā-ye namāyande injā irānšahr ast, [forudgāh-e bušehr]Theme be [mā]Theme če rabti dāre?'
+  - example: 'می‌شود شما بفرمایید که [این مساله]Theme به [ایران]Theme چه ربطی دارد و شما چه کاره هستید؟'
+    transcription: "mišavad befarmāyid ke [in mas’ale]Theme be [irān]Theme če rabti dārad va šomā če kāre hastid?"
+  - example: '[بحث من]Theme چه ربطی داشت به [حدود آزادی پوشش]Theme؟'
+    transcription: '[bahs-e man]Theme če rabti dāšt be [hodud-e āzādi-ye pušeš]Theme?'
+  - example: '[لالیگا]Theme چه ربطی به [لیگ قهرمانان]Theme دارد؟'
+    transcription: '[lāligā]Theme če rabti be [lig-e qahremān-ān]Theme dārad?'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+  - Persian: |
+      'همچنین به صورت «NP/CL چه ربطی به NP داشتن»، «به NP چه ربطی داشتن (که) CL».'
+  - English: |
+      'Also used as «NP/CL če rabti be NP dāšt-an», «be NP če rabti dāšt-an (ke) CL».'
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
