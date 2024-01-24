@@ -12,16 +12,16 @@ definitions:
   - english: |
        'This interrogative construction is a way to give a tangible and familiar piece of evidence or an example for what has already been said. What comes after the question will be the example or evidence intended.'
 examples:
-  - example: 'یا اصلاً چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام].'
-    transcription: 'vitāmin-e A barāy-e salāmat-e pust zaruri ast. az in gozašte, [in vitāmin barāy-e bināyi niz mofid ast]Argument.'
-  - example: 'از اقتدار پدرها می شنویم که همه از کوچک و بزرگ از وی حساب می بردند. چرا راه دور برویم؟ [پدرها و مادرهای ما هم این گونه بودند].'
-    transcription: 'az eqtedār-e pedar-hā mišenavim ke hame az kučak o bozorg az vey hesāb mibordand. čerā rāh-e dur beravim? [pedar-hā va mādar-hā-ye mā ham in gune buand].'
-  - example: 'به وقت احتیاج و درماندگی فقط به من مراجعه کن. چرا راه دور می‌روی ؟ [من درکنار توام از خودت نیز به تو نزدیکتر].'
-    transcription: 'be vaqt-e ehtiāj va darmāndegi faqat be man morāje’e kon. čerā rāh-e dur miravi? [man dar kenār-e toam az xodat niz be to nazdiktar].'
-  - example: 'بگذارید قضیه را با یک مصداق شروع کنیم. اصلاً چرا راه دور برویم؟ [از اولین جمله رمان شما شروع می‌کنیم].'
-    transcription: 'bogzārid qazie rā bā yek mesdāq šoru’ konim. aslan čerā rāh-e dur beravim? [az avvalin jomle-ye roman-e šomā šoru’ mikonim].'
-  - example: 'دوست عزیز چرا راه دور بریم و با عاشورای پارسال مقایسه کنیم؟ [با همین 25 بهمن مقایسه کن].'
-    transcription: 'dust-e ’aziz čerā rāh-e dur berim o bā ’āšurā-ye pārsāl moqāyese konim? [bā hamin bist-o-panj-e bahman moqāyese kon].'
+  - example: 'یا اصلاً چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام]Theme.'
+    transcription: 'yā aslan čerā rāh-e dur beravim? [hamin sāl-e gozašte va ejrā-ye foqol'āde-ye kolbe-ye 'amu tām]Theme.'
+  - example: 'از اقتدار پدرها می شنویم که همه از کوچک و بزرگ از وی حساب می بردند. چرا راه دور برویم؟ [پدرها و مادرهای ما هم این گونه بودند]Theme.'
+    transcription: 'az eqtedār-e pedar-hā mišenavim ke hame az kučak o bozorg az vey hesāb mibordand. čerā rāh-e dur beravim? [pedar-hā va mādar-hā-ye mā ham in gune buand]Theme.'
+  - example: 'به وقت احتیاج و درماندگی فقط به من مراجعه کن. چرا راه دور می‌روی ؟ [من درکنار توام از خودت نیز به تو نزدیکتر]Theme.'
+    transcription: 'be vaqt-e ehtiāj va darmāndegi faqat be man morāje’e kon. čerā rāh-e dur miravi? [man dar kenār-e toam az xodat niz be to nazdiktar]Theme.'
+  - example: 'بگذارید قضیه را با یک مصداق شروع کنیم. اصلاً چرا راه دور برویم؟ [از اولین جمله رمان شما شروع می‌کنیم]Theme.'
+    transcription: 'bogzārid qazie rā bā yek mesdāq šoru’ konim. aslan čerā rāh-e dur beravim? [az avvalin jomle-ye roman-e šomā šoru’ mikonim]Theme.'
+  - example: 'دوست عزیز چرا راه دور بریم و با عاشورای پارسال مقایسه کنیم؟ [با همین 25 بهمن مقایسه کن]Theme.'
+    transcription: 'dust-e ’aziz čerā rāh-e dur berim o bā ’āšurā-ye pārsāl moqāyese konim? [bā hamin bist-o-panj-e bahman moqāyese kon]Theme.'
 morphology:
   - ~
 syntactic_type_of_construction:
