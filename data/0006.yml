@@ -1,0 +1,47 @@
+---
+record: 6
+name: 'NP/CL به NP چه ربطی داشتن؟'
+name_transcription: 'NP/CL be NP če rabti dāšt-an?'
+name_translation: 'What does NP/CL have to do with NP?'
+illustration: 'آخه [درس‌های رشته برق]Theme به [من]Theme چه ربطی داره؟'
+illustration_transcription: 'āxe [dars-hā-ye rešte-ye barq]Theme be [man]Theme če rabti dāre?'
+cefr_level: 
+definitions:
+examples:
+  - example: '[فرهنگ] چه ربطی به [دروغِ سیاستمداران] دارد؟'
+    transcription: '[farhang] če rabti be [doruq-e siāsatmadār-ān] dārad?'
+  - example: 'جناب آقای نماینده اینجا ایرانشهر است، [فرودگاه بوشهر] به [ما] چه ربطی داره؟'
+    transcription: 'jenāb-e āqā-ye namāyande injā irānšahr ast, [forudgāh-e bušehr] fi [mā] če rabti dāre?'
+  - example: 'می‌شود شما بفرمایید که [این مساله] به [ایران] چه ربطی دارد و شما چه کاره هستید؟'
+    transcription: 'mišavad befarmāyid ke [in mas’ale] be [irān] če rabti dārad va šomā če kāre hastid?'
+  - example: '[بحث من] چه ربطی داشت به [حدود آزادی پوشش]؟'
+    transcription: '[bahs-e man] če rabti dāšt be [hodud-e āzādi-ye pušeš]?'
+  - example: '[لالیگا] چه ربطی به [لیگ قهرمانان] دارد؟'
+    transcription: '[lāligā] če rabti be [lig-e qahremān-ān] dārad?'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+  - Persian: |
+      'همچنین به صورت «NP/CL چه ربطی به NP داشتن»، «به NP چه ربطی داشتن (که) CL».'
+  - English: |
+      'Also used as «NP/CL če rabti be NP dāšt-an», «be NP če rabti dāšt-an (ke) CL».'
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

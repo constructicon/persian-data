@@ -1,0 +1,43 @@
+---
+record: 8
+name: 'یک NP هم NEG-VP'
+name_transcription: 'yek NP ham NEG-VP'
+name_translation: ''
+illustration: 'تیم صبا در نیمه دوم یک [موقعیت] هم [بر روی دروازه ما ایجاد نکرد].'
+illustration_transcription: 'tim-e sabā dar nime-ye dovvom yek [moqe’iyat] ham [bar ru-ye darvāze-ye mā ijād na-kard].'
+cefr_level: 
+definitions:
+examples:
+  - example: 'حتی یک [بار] هم [نپرسیدی چرا چشم‌هایت همیشه بارانی است].'
+    transcription: 'hattā yek [bār] ham [na-porsidi cerā češm-hā-yat hamiše bārāni ast].'
+  - example: 'ازش بخواه یک [لحظه] هم [فراموشت نکنه] و به تو نیرویی بده تا یک [لحظه] هم [فراموشش نکنی].'
+    transcription: 'azaš bexāh yek [lahze] ham [farāmušet na-kone] va be to niruyi bede tā yek [lahze] ham [farāmušeš na-koni].'
+  - example: 'بحث جالبی میشه اگه یه ذره از وقتتونو به عسل اختصاص بدین. قول میدم یک [دقیقه] هم [طول نکشه].'
+    transcription: 'bahs-e jālebi miše age ye zarre az vaqtetun ro be ’asal extesās bedin. qol midam yek [daqiqe] ham [tul na-keše].'
+  - example: 'در آسمان تاریک دلم حتی یک ستاره نیست. امشب کوچه‌های شادی حتی یک [عابر] هم [ندارد].'
+    transcription: 'dar āsemān-e tārik-e delam hattā yek [setāre] nist. emšab kuče-hā-ye šādi yek [’āber] ham [na-dārad].'
+  - example: 'تا امروز حتی یک [ریال] هم از سوی سازمان تربیت بدنی [به باشگاه پرسپولیس تعلق نگرفت].'
+    transcription: 'tā emruz hattā yek [riāl] ham az su-ye sāzmān-e tarbiat badani [be bāšgāh-e perspolis ta’alloq na-gereft].'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

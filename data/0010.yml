@@ -1,0 +1,45 @@
+---
+record: 10
+name: 'نمی‌شه VP/CL؟'
+name_transcription: 'nemiše VP/CL?'
+name_translation: 'Is it possible to VP/CL?'
+illustration: 'نمی‌شه [امشب نخوابیم]؟'
+illustration_transcription: 'nemiše emšab naxābim?'
+cefr_level: 
+definitions:
+examples:
+  - example: 'نمی شه [اول در بزنید و بعد بیایید تو]؟'
+    transcription: 'nemiše [avval dar bezanid va ba’d biyayid tu]?'
+  - example: 'پدر می‌گفت: نمیشه [امروز مرخصی بگیری]؟'
+    transcription: 'pedar migoft: nemiše [emruz moraxasi begiri]?'
+  - example: 'نمیشد [تو امروز sms نمی‌دادی و نمیومدی دنبالم]؟'
+    transcription: 'nemišod [to emruz sms nemidadi o nemiyumadi dombālam]?'
+  - example: 'مهدی، نمیشه [یه بار دیگه ببینمت]؟'
+    transcription: 'mehdi, nemiše [ye bare dige bebinamet]?'
+  - example: 'حالا نمی‌شه بی‌خیال حوله بشی؟'
+    transcription: 'hālā nemiše [bixiyāl-e hole beši]?'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+  - Persian: |
+      'همچنین به صورت نمی‌شد VP/CL؟'
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
