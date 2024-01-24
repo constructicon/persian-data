@@ -12,11 +12,11 @@ definitions:
   - english: |
        'This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional.'
 examples:
-  - example: 'من دیگه میخوام طلاق بگیرم! گفت: پس [سوگل]Theme چی می‌شه این وسط؟'
+  - example: 'من دیگه میخوام طلاق بگیرم! گفت پس [سوگل]Theme چی می‌شه این وسط؟'
     transcription: 'man dige mi-xām talāq be-gir-am! goft pas [sogol]Theme či mi-š-e?'
   - example: 'پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟'
     transcription: 'pas [qol o qarār-emun]Theme či mi-š-e? ham-aš-o yād-et raft?'
-  - example: 'با گریه گفت: پس [خانواده من]Theme چه می‌شود؟'
+  - example: 'با گریه گفت پس [خانواده من]Theme چه می‌شود؟'
     transcription: 'bā gerye goft pas [xānevāde-ye man]Theme če mi-šav-ad?'
   - example: 'گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟'
     transcription: 'goft-am āxe man tanhām. goft pas [man]Theme či rafiq?'
