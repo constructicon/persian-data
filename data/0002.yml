@@ -1,0 +1,51 @@
+---
+record: 2
+name: 'دست به NP زدن'
+name_transcription: 'dast be NP zad-an'
+name_translation: 'Commit NP / Begin doing NP'
+illustration: 'فرد زندانی دست به [خودکشی]NP زده است.'
+illustration_transcription: 'fard-e zendāni dast be [xodkoši] zad-e ast.'
+cefr_level: 
+definitions:
+  - persian: |
+       'ساختی خبری که بیان می‌کند شخص، گروه یا موجودی مشخص، شروع به انجام [فعالیت]Theme خاصی می‌کند. این فعالیت گاهاً ناگهانی و غیرمنتظره است.'
+  - english: |
+       'A declarative construction which states that an entity starts doing an [activity]Theme. It is sometimes a sudden action against the expectations.'
+examples:
+  - example: 'اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.'
+    transcription: 'osulan ensān-hā dar mavāqe-i ke zarurat ijād kon-ad dast be [kār-hā-ye bozorɡ-i] mi-zan-and.'
+  - example: 'من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان هستم.'
+    transcription: "man be in xāter dast be fa’āliat-e siyāsi zad-am ke az xānevāde-ye qorbāniān hast-am."
+  - example: 'یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد.'
+    transcription: 'yek zan barāy-e rahāyi az aziat va āzār-hā-ye hamsar-aš dast be [qatl-e u] zad.'
+  - example: 'در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌های فراوانی را به همراه داشت.'
+    transcription: 'dar māh-e āvril piyong yāng dast be [anjām-e yek āzmāyeš-e mušaki] zad ke negarani-hā-ye farāvān-i rā be hamrāh dāšt.'
+  - example: 'در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.'
+    transcription: 'dar ruz-e čahāršanbe panjāh hezār tan dar sāntiāgo pāytaxt, dast be [rāhpeymāyi] zad-and.'
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Verb
+semantic_roles:
+  - Theme
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label:
+  - Informal
+  - Formal
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
