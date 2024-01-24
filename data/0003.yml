@@ -4,7 +4,7 @@ name: 'از طرفی هم CL'
 name_transcription: 'az taraf-i ham CL'
 name_translation: 'Besides CL'
 illustration: 'هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت]CL.'
-illustration_transcription: 'hič kas jor’at-e bayān-e ān va az taraf-i ham [hič kas jor’at-e šenid-an-e ān rā na-dāšt].'
+illustration_transcription: 'hič kas jorat-e bayān-e ān va az taraf-i ham [hič kas jorat-e šenid-an-e ān rā na-dāšt].'
 cefr_level: 
 definitions:
   - persian: |
@@ -13,9 +13,9 @@ definitions:
        'The construction introduces a new topic into the discourse that is involved in an individual's decision making. This topic can be expressed as an added argument and confirmation of the previous statements or as an opposing argument.'
 examples:
   - example: 'خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]Argument.'
-    transcription: 'xeyli konjkāv bud-am ke be-dān-am dāxel-e ja’be-hā-ye kādo šode či-st. az taraf-i ham [xejālat mi-kešid-am rāje’ be kādo-hā harf be-zan-am]Argument.'
+    transcription: 'xeyli konjkāv bud-am ke be-dān-am dāxel-e jabe-hā-ye kādo šode či-st. az taraf-i ham [xejālat mi-kešid-am rāje be kādo-hā harf be-zan-am]Argument.'
   - example: 'واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument.'
-    transcription: 'vāqe’an del-am ne-miy-ā-d ta’til-eš kon-am vali az taraf-i ham [dige tavān-e mundan na-dār-am]Argument.'
+    transcription: 'vāqean del-am ne-miy-ā-d tatil-eš kon-am vali az taraf-i ham [dige tavān-e mundan na-dār-am]Argument.'
   - example: 'فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]Argument.'
     transcription: 'farāmuš kard-e bud-im az xune dastkeš bā xod-emun be-bar-im va az taraf-i ham [dust dāšt-im ādam barfi dorsot kon-im]Argument.'
   - example: 'مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]Argument.'
