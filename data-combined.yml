@@ -1,0 +1,802 @@
+---
+1:
+  name: 'پس NP چی (شدن)؟ / پس NP؟'
+  name_transcription: 'pas NP či (šod-an) / pas NP'
+  name_translation: 'What about NP then?'
+  illustration: 'پس [نظر جمع]NP چی می‌شه؟'
+  illustration_transcription: 'pas [nazar-e jam] či mi-š-e?'
+  cefr_level: 
+  definitions:
+    - persian: |
+         'این ساخت [موضوعی]Theme را برجسته می‌کند که مخاطب آن را در تصمیم نهایی خود لحاظ نکرده است. این عدم توجه می‌تواند به صورت ناخودآگاه یا عمدی باشد.'
+    - english: |
+         'This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional.'
+  examples:
+    - example: 'من دیگه میخوام طلاق بگیرم! گفت پس [سوگل]Theme چی می‌شه این وسط؟'
+      transcription: 'man dige mi-xām talāq be-gir-am! goft pas [sogol]Theme či mi-š-e?'
+    - example: 'پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟'
+      transcription: 'pas [qol o qarār-emun]Theme či mi-š-e? ham-aš-o yād-et raft?'
+    - example: 'با گریه گفت پس [خانواده من]Theme چه می‌شود؟'
+      transcription: 'bā gerye goft pas [xānevāde-ye man]Theme če mi-šav-ad?'
+    - example: 'گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟'
+      transcription: 'goft-am āxe man tanhām. goft pas [man]Theme či rafiq?'
+    - example: 'مگه من جلبکم؟ پس [من]Theme چی؟'
+      transcription: 'mage man jolbak-am? pas [man]Theme či?'
+  morphology:
+    - NP
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - Light Verb Construction
+  part_of_speech_of_anchor:
+    - Noun
+    - Pronoun
+    - Verb
+  semantic_roles:
+    - Theme
+  intonation:
+    - Declarative
+  usage_label:
+    - Formal
+  comment: 
+    - Persian: |
+        ''بسط استعاری از همین ساخت به معنی "لمس کردن"''
+    - English: |
+        'A metaphorical extension of the same construction that means "to touch something".'
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+2:
+  name: 'دست به NP زدن'
+  name_transcription: 'dast be NP zad-an'
+  name_translation: 'Commit NP / Begin doing NP'
+  illustration: 'فرد زندانی دست به [خودکشی]NP زده است.'
+  illustration_transcription: 'fard-e zendāni dast be [xodkoši] zad-e ast.'
+  cefr_level: 
+  definitions:
+    - persian: |
+         'ساختی خبری که بیان می‌کند شخص، گروه یا موجودی مشخص، شروع به انجام [فعالیت]Theme خاصی می‌کند. این فعالیت گاهاً ناگهانی و غیرمنتظره است.'
+    - english: |
+         'A declarative construction which states that an entity starts doing an [activity]Theme. It is sometimes a sudden action against the expectations.'
+  examples:
+    - example: 'اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.'
+      transcription: 'osulan ensān-hā dar mavāqe-i ke zarurat ijād kon-ad dast be [kār-hā-ye bozorg-i] mi-zan-and.'
+    - example: 'من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان هستم.'
+      transcription: 'man be in xāter dast be faāliat-e siyāsi zad-am ke az xānevāde-ye qorbāniān hast-am.'
+    - example: 'یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد.'
+      transcription: 'yek zan barāy-e rahāyi az aziat va āzār-hā-ye hamsar-aš dast be [qatl-e u] zad.'
+    - example: 'در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌های فراوانی را به همراه داشت.'
+      transcription: 'dar māh-e āvril piyong yāng dast be [anjām-e yek āzmāyeš-e mušaki] zad ke negarani-hā-ye farāvān-i rā be hamrāh dāšt.'
+    - example: 'در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.'
+      transcription: 'dar ruz-e čahāršanbe panjāh hezār tan dar sāntiāgo pāytaxt, dast be [rāhpeymāyi] zad-and.'
+  morphology:
+    - NP
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Pronoun
+    - Verb
+  semantic_roles:
+    - Theme
+  intonation:
+    - Interrogative
+    - Exclamatory
+  usage_label:
+    - Informal
+    - Formal
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+3:
+  name: 'از طرفی هم CL'
+  name_transcription: 'az taraf-i ham CL'
+  name_translation: 'Besides CL'
+  illustration: 'هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت]CL.'
+  illustration_transcription: 'hič kas jorat-e bayān-e ān va az taraf-i ham [hič kas jorat-e šenid-an-e ān rā na-dāšt].'
+  cefr_level: 
+  definitions:
+    - persian: |
+         'این ساخت موضوع جدیدی را وارد گفتمان می‌کند که در تصمیم‌گیری فرد دخیل است. این موضوع می‌تواند به عنوان دلیلی مضاعف و تاییدی بر گفته‌های پیشین و یا به صورت استدلال مخالف بیان شود.'
+    - english: |
+         'The construction introduces a new topic into the discourse that is involved in an individual's decision making. This topic can be expressed as an added argument and confirmation of the previous statements or as an opposing argument.'
+  examples:
+    - example: 'خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]Argument.'
+      transcription: 'xeyli konjkāv bud-am ke be-dān-am dāxel-e jabe-hā-ye kādo šode či-st. az taraf-i ham [xejālat mi-kešid-am rāje be kādo-hā harf be-zan-am]Argument.'
+    - example: 'واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument.'
+      transcription: 'vāqean del-am ne-miy-ā-d tatil-eš kon-am vali az taraf-i ham [dige tavān-e mundan na-dār-am]Argument.'
+    - example: 'فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]Argument.'
+      transcription: 'farāmuš kard-e bud-im az xune dastkeš bā xod-emun be-bar-im va az taraf-i ham [dust dāšt-im ādam barfi dorsot kon-im]Argument.'
+    - example: 'مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]Argument.'
+      transcription: 'moddat-hā-st ke az futbāl-e irān dur bud-am va az taraf-i ham [bā tim-e esteqlāl tamrin-i na-kard-am ke mored-e enteqād qarār be-gir-am]Argument.'
+    - example: 'چون دوسش دارم و طاقت دیدن ناراحتیشو ندارم از طرفی هم [احساس میکنم تو چند مورد در این باره اشتباه کردم]Argument.'
+      transcription: 'čon dus-eš dār-am va tāqat-e did-an-e nārāhati-šo na-dār-am az taraf-i ham [ehsās mi-kon-am tu čand mored dar in bare eštebāh kard-am]Argument.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - PP
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+    - Conjunction
+  semantic_roles:
+    - ~
+  intonation:
+    - Declarative
+  usage_label:
+    - Informal
+    - Formal
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+4:
+  name: 'از این گذشته، CL'
+  name_transcription: 'az in gozašte, CL'
+  name_translation: 'Furthermore, CL'
+  illustration: 'از این گذشته، [موتور هوا را هم آلوده می‌کند]CL.'
+  illustration_transcription: 'az in gozašte, [motor havā rā ham ālude mi-kon-ad].'
+  cefr_level: 
+  definitions:
+    - persian: |
+         'این ساخت موضوع جدیدی را در تکمیل آنچه پیش از این گفته شده وارد گفتمان می‌کند.'
+    - english: |
+         'This construction introduces a new topic as added information for what has already been said.'
+  examples:
+    - example: 'ویتامین A برای سلامت پوست ضروری است. از این گذشته، [این ویتامین برای بینایی نیز مفید است]Argument.'
+      transcription: 'vitāmin-e A barāy-e salāmat-e pust zaruri ast. az in gozašte, [in vitāmin barāy-e bināyi niz mofid ast]Argument.'
+    - example: 'احساس خوبی در مورد خودتان پیدا می‌کنید. از این گذشته [لبخند زدن باعث ازاد شدن اندروفین در بدن می‌شود]Argument.'
+      transcription: 'ehsās-e xub-i dar mored-e xod-etān peydā mi-kon-id. az in gozašte, [labxand zad-an bāes-e āzād šod-an-e endorfin dar badan mi-šav-ad]Argument.'
+    - example: 'از این گذشته، [شاید او مایل به انتقال دانش خود به ما نباشد]Argument.'
+      transcription: 'az in gozašte, [šāyad u māyel be enteqāl-e dāneš-e xod be mā na-bāš-ad]Argument.'
+    - example: 'پاهام درد می‌کنه و نمی‌تونم راه برم. از اینها گذشته، [خودم هم حالم خوب نیست]Argument.'
+      transcription: 'pā-hā-m dard mi-kon-e va ne-mi-tun-am rāh be-r-am. az in-hā gozašte, [xod-am ham hāl-am xub nist]Argument.'
+    - example: 'چطور می‌توانستم باور کنم که او نمی‌تواند بشنود. از این گذشته، [یک گوش برای شنیدن کافی است]Argument.'
+      transcription: 'četor mi-tavān-est-am bāvar kon-am ke u ne-mi-tavān-ad be-šnav-ad. az in gozašte, [yek guš barāy-e šenid-an kāfi ast]Argument.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - Preposition
+    - Determiner
+    - Adjective
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - Formal
+  comment: 
+    - Persian: |
+        'همچنین به صورت «از اینها گذشته»، «گذشته از این» یا «گذشته از اینها».'
+    - English: |
+        'Also used as «az in-hā gozašte», «gozašte az in» or «gozašte az in-hā».'
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+5:
+  name: 'چرا راه دور رفتن؟ CL'
+  name_transcription: 'čerā rāh-e dur raft-an? CL'
+  name_translation: 'Case in point, CL'
+  illustration: 'چرا راه دور برویم؟ [همین ایرانِ خودمان]CL.'
+  illustration_transcription: 'cherā rāh-e dur beravim? [hamin irān-e xodemān].'
+  cefr_level: 
+  definitions:
+    - persian: |
+         'این ساخت سوالی زمانی استفاده می‌شود که گوینده قصد ارائه شاهد یا مثالی ملموس و آشنا در جهت تکمیل گفته پیشین خود دارد. عبارتی که پس از این سوال مطرح می‌شود همان شاهد یا مثال است.'
+    - english: |
+         'This interrogative construction is a way to give a tangible and familiar piece of evidence or an example for what has already been said. What comes after the question will be the example or evidence intended.'
+  examples:
+    - example: 'یا اصلاً چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام]Theme.'
+      transcription: 'yā aslan čerā rāh-e dur beravim? [hamin sāl-e gozašte va ejrā-ye foqolāde-ye kolbe-ye amu tām]Theme.'
+    - example: 'از اقتدار پدرها می شنویم که همه از کوچک و بزرگ از وی حساب می بردند. چرا راه دور برویم؟ [پدرها و مادرهای ما هم این گونه بودند]Theme.'
+      transcription: 'az eqtedār-e pedar-hā mišenavim ke hame az kučak o bozorg az vey hesāb mibordand. čerā rāh-e dur beravim? [pedar-hā va mādar-hā-ye mā ham in gune budand]Theme.'
+    - example: 'به وقت احتیاج و درماندگی فقط به من مراجعه کن. چرا راه دور می‌روی ؟ [من درکنار توام از خودت نیز به تو نزدیکتر]Theme.'
+      transcription: 'be vaqt-e ehtiāj va darmāndegi faqat be man morājee kon. čerā rāh-e dur miravi? [man dar kenār-e toam az xodat niz be to nazdiktar]Theme.'
+    - example: 'بگذارید قضیه را با یک مصداق شروع کنیم. اصلاً چرا راه دور برویم؟ [از اولین جمله رمان شما شروع می‌کنیم]Theme.'
+      transcription: 'bogzārid qazie rā bā yek mesdāq šoru konim. aslan čerā rāh-e dur beravim? [az avvalin jomle-ye roman-e šomā šoru mikonim]Theme.'
+    - example: 'دوست عزیز چرا راه دور بریم و با عاشورای پارسال مقایسه کنیم؟ [با همین 25 بهمن مقایسه کن]Theme.'
+      transcription: 'dust-e aziz čerā rāh-e dur berim o bā āšurā-ye pārsāl moqāyese konim? [bā hamin bist-o-panj-e bahman moqāyese kon]Theme.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+6:
+  name: 'NP/CL به NP چه ربطی داشتن؟'
+  name_transcription: 'NP/CL be NP če rabti dāšt-an?'
+  name_translation: 'What does NP/CL have to do with NP?'
+  illustration: 'آخه [درس‌های رشته برق]Theme به [من]Theme چه ربطی داره؟'
+  illustration_transcription: 'āxe [dars-hā-ye rešte-ye barq]Theme be [man]Theme če rabti dāre?'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: '[فرهنگ]Theme چه ربطی به [دروغِ سیاستمداران]Theme دارد؟'
+      transcription: '[farhang]Theme če rabti be [doruq-e siāsatmadār-ān]Theme dārad?'
+    - example: 'جناب آقای نماینده اینجا ایرانشهر است، [فرودگاه بوشهر]Theme به [ما]Theme چه ربطی داره؟'
+      transcription: 'jenāb-e āqā-ye namāyande injā irānšahr ast, [forudgāh-e bušehr]Theme be [mā]Theme če rabti dāre?'
+    - example: 'می‌شود شما بفرمایید که [این مساله]Theme به [ایران]Theme چه ربطی دارد و شما چه کاره هستید؟'
+      transcription: 'mišavad befarmāyid ke [in masale]Theme be [irān]Theme če rabti dārad va šomā če kāre hastid?'
+    - example: '[بحث من]Theme چه ربطی داشت به [حدود آزادی پوشش]Theme؟'
+      transcription: '[bahs-e man]Theme če rabti dāšt be [hodud-e āzādi-ye pušeš]Theme?'
+    - example: '[لالیگا]Theme چه ربطی به [لیگ قهرمانان]Theme دارد؟'
+      transcription: '[lāligā]Theme če rabti be [lig-e qahremān-ān]Theme dārad?'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+    - Persian: |
+        'همچنین به صورت «NP/CL چه ربطی به NP داشتن»، «به NP چه ربطی داشتن (که) CL».'
+    - English: |
+        'Also used as «NP/CL če rabti be NP dāšt-an», «be NP če rabti dāšt-an (ke) CL».'
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+7:
+  name: 'اگر خواستن CL، (باید/نباید) CL'
+  name_transcription: 'agar xāst-an CL, (bāyad/nabāyad) CL'
+  name_translation: 'If one wants to CL, (then) CL'
+  illustration: 'اگر می‌خواهید [دشمنان خود را تنبیه کنید]، [به دوستان خود محبت کنید].'
+  illustration_transcription: 'agar mixāhid [došman-ān-e xod rā tanbih konid], [be dust-ān-e xod mohabbat konid].'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'اگر می‌خواهید [لاغر شوید و از غذا بیزار]Role، [از این ترکیب رنگ استفاده کنید]Role.'
+      transcription: 'agar mixāhid [lāqar šavid va az qazā bizār]Role, [az in tarkib-e rang estefāde konid]Role.'
+    - example: 'اگر می‌خواهد [به قهر این ملت ایران دچار نشود]، [باید بعضی چیزها را بازگو و فسادهای اقتصادی را افشا کند].'
+      transcription: 'agar mixāhad [be qahr-e in mellat irān dočār našavad], [bāyad bazi čiz-hā rā bāzgu va fesād-hā-ye eqtesādi rā efšā konad].'
+    - example: 'اگر می‌خواهید [عزت نفس بیشتری پیدا کنید]Role، [نباید حقوق خود را نادیده بگیرید]Role.'
+      transcription: 'agar mixāhid [ezzat-e nafs-e bištari peydā konid]Role, [nabāyad hoquq-e xod rā nadide begirid]Role.'
+    - example: 'اگر می‌خواهیم [به المپیک صعود کنیم]Role، [نباید هیچ حریفی را دست کم بگیریم]Role.'
+      transcription: 'agar mixāhim [be olampik soud konim]Role, [nabāyad hič harifi rā dast-e kam begirim]Role.'
+    - example: 'اگر خواستی [کسی را بهتر بشناسی]Role، [با وی همسفر شو]Role.'
+      transcription: 'agar xāsti [kasi rā behtar bešenāsi]Role, [bā vey hamsafar šo]Role.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+8:
+  name: 'یک NP هم NEG-VP'
+  name_transcription: 'yek NP ham NEG-VP'
+  name_translation: 'Not even'
+  illustration: 'تیم صبا در نیمه دوم یک [موقعیت] هم [بر روی دروازه ما ایجاد نکرد].'
+  illustration_transcription: 'tim-e sabā dar nime-ye dovvom yek [moqeiyat] ham [bar ru-ye darvāze-ye mā ijād na-kard].'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'حتی یک [بار]Role هم [نپرسیدی]Role چرا چشم‌هایت همیشه بارانی است.'
+      transcription: 'hattā yek [bār]Role ham [na-porsidi]Role cerā češm-hā-yat hamiše bārāni ast.'
+    - example: 'ازش بخواه یک [لحظه]Role هم [فراموشت نکنه]Role و به تو نیرویی بده تا یک [لحظه]Role هم [فراموشش نکنی]Role.'
+      transcription: 'azaš bexāh yek [lahze]Role ham [farāmušet na-kone]Role va be to niruyi bede tā yek [lahze]Role ham [farāmušeš na-koni]Role.'
+    - example: 'بحث جالبی میشه اگه یه ذره از وقتتونو به عسل اختصاص بدین. قول میدم یک [دقیقه]Role هم [طول نکشه]Role.'
+      transcription: 'bahs-e jālebi miše age ye zarre az vaqtetun ro be asal extesās bedin. qol midam yek [daqiqe]Role ham [tul na-keše]Role.'
+    - example: 'در آسمان تاریک دلم حتی یک [ستاره]Role [نیست]Role. امشب کوچه‌های شادی حتی یک [عابر]Role هم [ندارد]Role.'
+      transcription: 'dar āsemān-e tārik-e delam hattā yek [setāre]Role [nist]Role. emšab kuče-hā-ye šādi yek [āber]Role ham [na-dārad]Role.'
+    - example: 'تا امروز حتی یک [ریال]Role هم از سوی سازمان تربیت بدنی [به باشگاه پرسپولیس تعلق نگرفت]Role.'
+      transcription: 'tā emruz hattā yek [riāl]Role ham az su-ye sāzmān-e tarbiat badani [be bāšgāh-e perspolis taalloq na-gereft]Role.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+9:
+  name: '(هنوز) CL/NP نگذشتن (که) CL'
+  name_transcription: '(hanuz) CL/NP NEG-gozašt-an (ke) CL'
+  name_translation: 'Barely, No sooner'
+  illustration: 'هنوز [چند لحظه] نگذشته بود که [شروع کرد به صحبت کردن].'
+  illustration_transcription: 'hanuz [čand lahze] na-gozašte bud ke [šoru kard be sohbat kardan].'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: '[یک هفته]Role از این ماجرا نگذشته بود که [اسب پیرمرد به همراه بیست اسب وحشی به خانه برگشت]Role.'
+      transcription: '[yek hafte]Role az in mājerā na-gozašte bud ke [asb-e piremard be hamrāh-e bist asb-e vahši be xāne bargašt]Role.'
+    - example: '[دو ثانیه]Role از گفتن اون نکته نگذشته که [یه نکته خیلی مهم ریاضی یادش میاد]Role.'
+      transcription: '[do sāniye]Role az goftan-e un nokte na-gzašte ke [ye nokte-ye xeyli mohemm-e riyāzi yādeš miyād]Role.'
+    - example: 'این مرد که [چند روزی]Role از ازدواج او نگذشته بود [زن خود را طلاق می‌دهد]Role.'
+      transcription: 'in mard ke [čand ruzi]Role az ezdevāj-e u na-gozašte bud ke [zan-e xod rā talāq midahad]Role.'
+    - example: '[چند دقیقه[Role بیشتر نگذشته بود که [صدای فریاد‌های یک زن را شنیدم]Role.'
+      transcription: '[čand daqiqe]Role bištar na-gozašte bud ke [sedā-ye faryād-hā-ye yek zan rā šenidam]Role.'
+    - example: '[روزی چند]Role از این ماجرا نگذشته بود که [حادثه دیگری رخ داد]Role.'
+      transcription: '[ruzi čand]Role az in mājerā na-gozašte bud ke [hādese-ye digari rox dād]Role.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+10:
+  name: 'نمی‌شه VP/CL؟'
+  name_transcription: 'nemiše VP/CL?'
+  name_translation: 'Is it possible to VP/CL?'
+  illustration: 'نمی‌شه [امشب نخوابیم]؟'
+  illustration_transcription: 'nemiše emšab naxābim?'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'نمی شه [اول در بزنید و بعد بیایید تو]Role؟'
+      transcription: 'nemiše [avval dar bezanid va bad biyayid tu]Role?'
+    - example: 'پدر می‌گفت نمیشه [امروز مرخصی بگیری]Role؟'
+      transcription: 'pedar migoft nemiše [emruz moraxasi begiri]Role?'
+    - example: 'نمیشد [تو امروز sms نمی‌دادی و نمیومدی دنبالم]Role؟'
+      transcription: 'nemišod [to emruz sms nemidadi o nemiyumadi dombālam]Role?'
+    - example: 'مهدی، نمیشه [یه بار دیگه ببینمت]Role؟'
+      transcription: 'mehdi, nemiše [ye bare dige bebinamet]Role?'
+    - example: 'حالا نمی‌شه [بی‌خیال حوله بشی]Role؟'
+      transcription: 'hālā nemiše [bixiyāl-e hole beši]Role?'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+    - Persian: |
+        'همچنین به صورت نمی‌شد VP/CL؟'
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+11:
+  name: 'نه XP نه XP'
+  name_transcription: 'na XP na XP'
+  name_translation: 'Neither XP, nor XP'
+  illustration: 'نه [امروز] نه [فردا].'
+  illustration_transcription: 'na [emruz] na [fardā].'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'من نه [اسطوره‌ام]Role نه [میخواهم به اسطوره‌های شما چنگ بیاندزام]Role.'
+      transcription: 'man na [osture-am]Role na [mixāham be osture-hā-ye šoma čang biyandāzam]Role.'
+    - example: 'دوچرخه اما بهانه بود. پدر نه [روحش]Role نه [جسمش]Role هیچوقت در خانه نبود.'
+      transcription: 'dočarxe ammā bahāne bud. pedar na [ruhaš]Role na [jesmaš]Role hičvaqt dar xāne nabud.'
+    - example: 'خانومم حق نداره ازم دل بکنه، نه [میتونه]Role نه [اجازشو داره]Role.'
+      transcription: 'xānomam haq nadāre azam del bekane, na [mitun-e]Role na [ejāzašo dāre]Role.'
+    - example: 'بهش میگم دوست داری مامان چاق باشه یا لاغر؟ میگه نه [چاق]Role نه [لاغر]Role، معمولی.'
+      transcription: 'beheš migam dust dāri māmān čāq bāše yā lāqar? mige na [čāq]Role na [lāqar]Role, mamuli.'
+    - example: 'یه حالی دارم این روزا نه [آرومم]Role نه [آشوبم]Role.'
+      transcription: 'ye hāli dāram in ruzā; na [ārum-am]Role na [āšub-am]Role.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+12:
+  name: 'هم XP هم XP'
+  name_transcription: 'ham XP ham XP'
+  name_translation: 'Both XP and XP'
+  illustration: 'هم [ما] هم [شما].'
+  illustration_transcription: 'ham [mā] ham [šomā]'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'رشته تحصیلی او معماری بود. هم [درس می‌خواند]ROLE و هم [کار می‌کرد]ROLE.'
+      transcription: 'rešte-ye tahsili-e u memāri bud. ham [dars mixānd]ROLE va ham [kār mikard]ROLE.'
+    - example: 'زندگی هم [شادی]ROLE داره هم [غم]ROLE، هم [خنده]ROLE داره هم [گریه]ROLE.'
+      transcription: 'zendegi ham [šādi]ROLE dāre ham [qam]ROLE, ham [xande]ROLE dāre ham [gerye]ROLE.'
+    - example: 'هم [سوالاش خیلی سخته]ROLE هم [بد تصحیح میکنه]ROLE.'
+      transcription: 'ham [soālāš xeyli saxte]ROLE ham [bad tashih mikone]ROLE.'
+    - example: 'به سلامتی پل عابر پیاده که هم [مردا]ROLE از روش رد می‌شن هم [نامردا]ROLE!'
+      transcription: 'be salāmati-e pol-e āber-e piyade ke ham [mardā]ROLE az ruš rad mišan ham [nāmardā]ROLE!'
+    - example: 'از این درخواست‌ها هم [شاد]ROLE شدم و هم کمی [عصبی]ROLE.'
+      transcription: 'az in darxāst-hā ham [šād]ROLE šodam va ham kami [asabi]ROLE.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+13:
+  name: 'اگه راست گفتن، CL'
+  name_transcription: 'age rāst goftan, CL'
+  name_translation: 'If you dare, CL'
+  illustration: 'اگه راست میگی [جواب بده]!'
+  illustration_transcription: 'age rāst migi [javāb bede]!'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'اگه راست می‌گین [از خودتون مایه بذارین]ROLE.'
+      transcription: 'age rāst migin [az xodetun māye bezārin]ROLE.'
+    - example: 'اگه راست میگی [نظر من رو هم بذارید بقیه بخونند]ROLE.'
+      transcription: 'age rāst migi [nazar-e man ro ham bezārid baqiye bexunand]ROLE.'
+    - example: 'اگه راست میگی [برو توپ را بردار و بازی کن]ROLE.'
+      transcription: 'age rāst migi [boro tup ro bardār o bāzi kon]ROLE.'
+    - example: 'بگو اگه راست میگه [خودش اینا رو بهم بگه]ROLE.'
+      transcription: 'begu age rāst mige [xodeš inā ro behem bege]ROLE.'
+    - example: 'ایشون اگه راست میگه [بره تو مسکن مهر بشینه]ROLE.'
+      transcription: 'išun age rāst mige [bere tu maskan-e mehr bešine]ROLE.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+14:
+  name: 'اگه راست گفتن، CL؟'
+  name_transcription: 'age rāst goftan, CL?'
+  name_translation: 'If you are right, then CL?'
+  illustration: 'اگه راست میگی [اسمش چی بود؟]'
+  illustration_transcription: 'age rāst migi [esmeš či bud?]'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'اگه راست میگه [چرا خودشو قایم کرده؟]ROLE'
+      transcription: 'age rāst mige [čerā xodešo qāyem karde?]ROLE'
+    - example: '[چرا شما فیلم این مراسم رو نمیذاری]ROLE اگه راست میگی؟'
+      transcription: '[čerā šomā film-e in marāsem ro nemizāri]ROLE age rāst migi?'
+    - example: 'اگه راست میگفتین که دیگه [چرا کار توی اصفهان تکرار شد؟]ROLE'
+      transcription: 'age rāst migoftin ke dige [čerā kar-e tu-ye esfahān tekrār šod?]ROLE'
+    - example: 'اگه راست میگی [چرا وقتی سر پست سابقت بودی چیزی نگفتی؟]ROLE'
+      transcription: 'age rāst migi [čerā vaqti sar-e post-e sābeqet budi čizi nagofti?]ROLE'
+    - example: 'همه این ادمهایی که می‌گن خونه ندارن الکی میگن، اگه راست میگن [پس شب‌ها کجا می‌خوابن؟]ROLE'
+      transcription: 'hame-ye in ādam-hāyi ke migan xune nadāran alaki migan, age rāst migan [pas šab-hā kojā mixāban?]'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+15:
+  name: 'این کجاش XP؟'
+  name_transcription: 'in kojāš XP?'
+  name_translation: 'How is it XP?'
+  illustration: 'این کجاش [شبیه میمونه]؟'
+  illustration_transcription: 'in kojāš [šabih-e meymune]?'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'من به یه احمق گفتم احمق. این کجاش [توهینه]ROLE؟'
+      transcription: 'man be ye ahmaq goftam ahmaq. in kojāš [tohine]ROLE?'
+    - example: 'تو رو خدا این کجاش [به پسرا میخوره]ROLE؟ خیلی شبیه دختراست.'
+      transcription: 'to ro xodā in kojāš [be pesar-ā mixore]ROLE? xeyli šabih-e doxtar-āst.'
+    - example: 'این کجاش [سرگرمی بود]ROLE؟'
+      transcription: 'in kojāš [sargarmi bud]ROLE?'
+    - example: 'بهش گفتم خوشمزست. برگشته بمن میگه این کجاش [خوشمزست]ROLE؟'
+      transcription: 'beheš goftam xošmazast. bargašte be man mige in kojāš [xošmazast]ROLE?'
+    - example: 'حرف دهنتو بفهم مرد حسابی! این کجاش [شبیه ما ادماست]ROLE؟'
+      transcription: 'harf-e dahaneto befahm mard-e hesābi! in kojāš [šabih-e mā ādam-āst]ROLE?'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+16:
+  name: 'این که میگن CL، CL'
+  name_transcription: 'in ke migan CL, CL'
+  name_translation: 'What they say about CL, CL'
+  illustration: 'این که میگن [دل به دل راه داره] [همینه].'
+  illustration_transcription: 'in ke migan [del be del rāh dāre] [hamine].'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'این که میگن [آدم نمیتونه به چشم خودش هم اعتماد کنه]ROLE [راسته]ROLE!'
+      transcription: 'in ke migan [ādam nemitune be češme-e xodeš ham etemād kone]ROLE [rāste]ROLE!'
+    - example: 'ولی این که میگن [مردان مریخی و زنان ونوسی]ROLE [شعر نیست]ROLE!'
+      transcription: 'in ke migan [mardān-e merixi va zanān-e venusi]ROLE [šer nist]ROLE!'
+    - example: 'حالا این که میگن [به افتخار فلانی دس بزنین]ROLE [دقیقا باید به کجاش دست بزنیم]ROLE؟'
+      transcription: 'in ke migan [be eftexār-e folāni dast bezanid]ROLE [daqiqan bāyad be kojāš dast bezanim]ROLE?'
+    - example: 'حکایت این که میگن [گهی پشت به زین و گهی زین به پشت]ROLE [همینه]ROLE.'
+      transcription: 'in ke migan [gahi pošt be zin o gahi zin be pošt]ROLE [hamine]ROLE.'
+    - example: 'این که میگن [خوشگلی و خوشتیپی دردسر داره]ROLE [واقعا راسته]ROLE!'
+      transcription: 'in ke migan [xošgeli o xoštipi dardesar dāre]ROLE [vāqean rāse]ROLE!'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+17:
+  name: 'حواس-POSS باشه NEG-VP-PRS'
+  name_transcription: 'havās-POSS bāše NEG-VP-PRS'
+  name_translation: 'Be careful not to'
+  illustration: 'حواست باشه که [دیرت نشه].'
+  illustration_transcription: 'havāset bāše [ke diret naše].'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'یه دو روزی میری خونه حواست باشه [توی این دو روز کار سنگین نکنی]ROLE.'
+      transcription: 'ye do ruz miri xune havāset bāše [tu-ye in do ruz kār-e sangin nakoni]ROLE.'
+    - example: 'بچه‌ها حواستون باشه [که شکلاتی که میخرید بیش از 70 درصد کاکائو نداشته باشه]ROLE.'
+      transcription: 'bače-hā havāsetun bāše [ke šokolāti ke mixarid biš az 70 darsad kākāu nadāšte bāše]ROLE.'
+    - example: 'موقع مسواک زدن، حواستون باشه [که خمیر دندون زیادی از تو تیوپ بیرون نیاد]ROLE.'
+      transcription: 'moqe-e mesvāk zadan, havāsetun bāše [ke xamir dandun-e ziādi az tu tiyup birun nayād]ROLE.'
+    - example: 'فقط باید حواسمون باشه [این بنده خدا تا آخر ترم نفهمه ما کرمانی هستیم]ROLE.'
+      transcription: 'faqat bāyad havāsemun bāše [in bande xodā tā āxar-e term nafahme mā kermāni hastim]ROLE.'
+    - example: 'باید حواسمون باشه [که آبش خشک نشه]ROLE.'
+      transcription: 'bāyad havāsemun bāše [ke ābeš xonak naše]ROLE.'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
+18:
+  name: 'دیگه/دیگر باید CL'
+  name_transcription: 'dige/digar bāyad CL'
+  name_translation: 'It is time to, from now on'
+  illustration: 'دیگه باید [برم شام درست کنم.]CL'
+  illustration_transcription: 'dige bāyad [beram šām dorost konam.]CL'
+  cefr_level: 
+  definitions:
+  examples:
+    - example: 'فوتبال ایرانی رو دیگه باید [از دست رفته بدونیم.]CL'
+      transcription: 'futbāl-e irāni ro dige bāyad [az dast rafte bedunim.]CL'
+    - example: 'مادر که پرده اتاق را می‌کشد دیگر باید [دل از امروز کند.]CL'
+      transcription: 'mādar ke parde-ye otāq rā mikšad digar bāyad [del az emruz kand.]CL'
+    - example: 'این بار دیگر باید [حرفی بزنم.]CL'
+      transcription: 'in bār digar bāyad [harfi bezanam.]CL'
+    - example: 'کوهنورد‌ها را دیگر باید [با کاپشن‌های نورث فیس بشناسی.]CL'
+      transcription: 'kuhnavard-hā rā digar bāyad [bā kāpšan-hā-ye North face bešenāsi.]CL'
+    - example: 'اینجا دیگه باید [به خودت اطمینان داشته باشی.]CL'
+      transcription: 'injā dige bāyad [be xodet etminān dāšte bāši.]CL'
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label:
+    - ~
+  comment: 
+  common_fillers:
+    - ~
+  semantic_types:
+  family:
+    - |
+      ""
