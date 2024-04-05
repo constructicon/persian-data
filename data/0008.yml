@@ -4,20 +4,20 @@ name: 'یک NP هم NEG-VP'
 name_transcription: 'yek NP ham NEG-VP'
 name_translation: 'Not even'
 illustration: 'تیم صبا در نیمه دوم یک [موقعیت] هم [بر روی دروازه ما ایجاد نکرد].'
-illustration_transcription: 'tim-e sabā dar nime-ye dovvom yek [moqeiyat] ham [bar ru-ye darvāze-ye mā ijād na-kard].'
+illustration_transcription: 'time sabā dar nimeye dovvom yek [moqeiyat] ham [bar ruye darvāzeye mā ijād nakard].'
 cefr_level: 
 definitions:
 examples:
   - example: 'حتی یک [بار]Role هم [نپرسیدی]Role چرا چشم‌هایت همیشه بارانی است.'
-    transcription: 'hattā yek [bār]Role ham [na-porsidi]Role cerā češm-hā-yat hamiše bārāni ast.'
+    transcription: 'hattā yek [bār]Role ham [naporsidi]Role cerā češmhāyat hamiše bārāni ast.'
   - example: 'ازش بخواه یک [لحظه]Role هم [فراموشت نکنه]Role و به تو نیرویی بده تا یک [لحظه]Role هم [فراموشش نکنی]Role.'
-    transcription: 'azaš bexāh yek [lahze]Role ham [farāmušet na-kone]Role va be to niruyi bede tā yek [lahze]Role ham [farāmušeš na-koni]Role.'
+    transcription: 'azaš bexāh yek [lahze]Role ham [farāmušet nakone]Role va be to niruyi bede tā yek [lahze]Role ham [farāmušeš nakoni]Role.'
   - example: 'بحث جالبی میشه اگه یه ذره از وقتتونو به عسل اختصاص بدین. قول میدم یک [دقیقه]Role هم [طول نکشه]Role.'
-    transcription: 'bahs-e jālebi miše age ye zarre az vaqtetun ro be asal extesās bedin. qol midam yek [daqiqe]Role ham [tul na-keše]Role.'
+    transcription: 'bahse jālebi miše age ye zarre az vaqtetun ro be asal extesās bedin. qol midam yek [daqiqe]Role ham [tul nakeše]Role.'
   - example: 'در آسمان تاریک دلم حتی یک [ستاره]Role [نیست]Role. امشب کوچه‌های شادی حتی یک [عابر]Role هم [ندارد]Role.'
-    transcription: 'dar āsemān-e tārik-e delam hattā yek [setāre]Role [nist]Role. emšab kuče-hā-ye šādi yek [āber]Role ham [na-dārad]Role.'
+    transcription: 'dar āsemāne tārike delam hattā yek [setāre]Role [nist]Role. emšab kučehāye šādi yek [āber]Role ham [nadārad]Role.'
   - example: 'تا امروز حتی یک [ریال]Role هم از سوی سازمان تربیت بدنی [به باشگاه پرسپولیس تعلق نگرفت]Role.'
-    transcription: 'tā emruz hattā yek [riāl]Role ham az su-ye sāzmān-e tarbiat badani [be bāšgāh-e perspolis taalloq na-gereft]Role.'
+    transcription: 'tā emruz hattā yek [riāl]Role ham az suye sāzmāne tarbiat badani [be bāšgāhe perspolis taalloq nagereft]Role.'
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -4,18 +4,18 @@ name: 'اگر خواستن CL، (باید/نباید) CL'
 name_transcription: 'agar xāst-an CL, (bāyad/nabāyad) CL'
 name_translation: 'If one wants to CL, (then) CL'
 illustration: 'اگر می‌خواهید [دشمنان خود را تنبیه کنید]، [به دوستان خود محبت کنید].'
-illustration_transcription: 'agar mixāhid [došman-ān-e xod rā tanbih konid], [be dust-ān-e xod mohabbat konid].'
+illustration_transcription: 'agar mixāhid [došmanāne xod rā tanbih konid], [be dustāne xod mohabbat konid].'
 cefr_level: 
 definitions:
 examples:
   - example: 'اگر می‌خواهید [لاغر شوید و از غذا بیزار]Role، [از این ترکیب رنگ استفاده کنید]Role.'
-    transcription: 'agar mixāhid [lāqar šavid va az qazā bizār]Role, [az in tarkib-e rang estefāde konid]Role.'
+    transcription: 'agar mixāhid [lāqar šavid va az qazā bizār]Role, [az in tarkibe rang estefāde konid]Role.'
   - example: 'اگر می‌خواهد [به قهر این ملت ایران دچار نشود]، [باید بعضی چیزها را بازگو و فسادهای اقتصادی را افشا کند].'
-    transcription: 'agar mixāhad [be qahr-e in mellat irān dočār našavad], [bāyad bazi čiz-hā rā bāzgu va fesād-hā-ye eqtesādi rā efšā konad].'
+    transcription: 'agar mixāhad [be qahre in mellat irān dočār našavad], [bāyad bazi čizhā rā bāzgu va fesādhāye eqtesādi rā efšā konad].'
   - example: 'اگر می‌خواهید [عزت نفس بیشتری پیدا کنید]Role، [نباید حقوق خود را نادیده بگیرید]Role.'
-    transcription: 'agar mixāhid [ezzat-e nafs-e bištari peydā konid]Role, [nabāyad hoquq-e xod rā nadide begirid]Role.'
+    transcription: 'agar mixāhid [ezzate nafse bištari peydā konid]Role, [nabāyad hoquqe xod rā nadide begirid]Role.'
   - example: 'اگر می‌خواهیم [به المپیک صعود کنیم]Role، [نباید هیچ حریفی را دست کم بگیریم]Role.'
-    transcription: 'agar mixāhim [be olampik soud konim]Role, [nabāyad hič harifi rā dast-e kam begirim]Role.'
+    transcription: 'agar mixāhim [be olampik soud konim]Role, [nabāyad hič harifi rā daste kam begirim]Role.'
   - example: 'اگر خواستی [کسی را بهتر بشناسی]Role، [با وی همسفر شو]Role.'
     transcription: 'agar xāsti [kasi rā behtar bešenāsi]Role, [bā vey hamsafar šo]Role.'
 morphology:

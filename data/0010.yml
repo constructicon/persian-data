@@ -17,7 +17,7 @@ examples:
   - example: 'مهدی، نمیشه [یه بار دیگه ببینمت]Role؟'
     transcription: 'mehdi, nemiše [ye bare dige bebinamet]Role?'
   - example: 'حالا نمی‌شه [بی‌خیال حوله بشی]Role؟'
-    transcription: 'hālā nemiše [bixiyāl-e hole beši]Role?'
+    transcription: 'hālā nemiše [bixiyāle hole beši]Role?'
 morphology:
   - ~
 syntactic_type_of_construction:

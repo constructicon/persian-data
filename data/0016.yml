@@ -9,11 +9,11 @@ cefr_level:
 definitions:
 examples:
   - example: 'این که میگن [آدم نمیتونه به چشم خودش هم اعتماد کنه]ROLE [راسته]ROLE!'
-    transcription: 'in ke migan [ādam nemitune be češme-e xodeš ham etemād kone]ROLE [rāste]ROLE!'
+    transcription: 'in ke migan [ādam nemitune be češmee xodeš ham etemād kone]ROLE [rāste]ROLE!'
   - example: 'ولی این که میگن [مردان مریخی و زنان ونوسی]ROLE [شعر نیست]ROLE!'
-    transcription: 'in ke migan [mardān-e merixi va zanān-e venusi]ROLE [šer nist]ROLE!'
+    transcription: 'in ke migan [mardāne merixi va zanāne venusi]ROLE [šer nist]ROLE!'
   - example: 'حالا این که میگن [به افتخار فلانی دس بزنین]ROLE [دقیقا باید به کجاش دست بزنیم]ROLE؟'
-    transcription: 'in ke migan [be eftexār-e folāni dast bezanid]ROLE [daqiqan bāyad be kojāš dast bezanim]ROLE?'
+    transcription: 'in ke migan [be eftexāre folāni dast bezanid]ROLE [daqiqan bāyad be kojāš dast bezanim]ROLE?'
   - example: 'حکایت این که میگن [گهی پشت به زین و گهی زین به پشت]ROLE [همینه]ROLE.'
     transcription: 'in ke migan [gahi pošt be zin o gahi zin be pošt]ROLE [hamine]ROLE.'
   - example: 'این که میگن [خوشگلی و خوشتیپی دردسر داره]ROLE [واقعا راسته]ROLE!'

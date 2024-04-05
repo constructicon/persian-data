@@ -3,8 +3,8 @@ record: 1
 name: 'پس NP چی (شدن)؟ / پس NP؟'
 name_transcription: 'pas NP či (šod-an) / pas NP'
 name_translation: 'What about NP then?'
-illustration: 'پس [نظر جمع]NP چی می‌شه؟'
-illustration_transcription: 'pas [nazar-e jam] či mi-š-e?'
+illustration: 'پس [نظر جمع]چی می‌شه؟'
+illustration_transcription: 'pas [nazare jam] či miše?'
 cefr_level: 
 definitions:
   - persian: |
@@ -13,15 +13,15 @@ definitions:
        'This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional.'
 examples:
   - example: 'من دیگه میخوام طلاق بگیرم! گفت پس [سوگل]Theme چی می‌شه این وسط؟'
-    transcription: 'man dige mi-xām talāq be-gir-am! goft pas [sogol]Theme či mi-š-e?'
+    transcription: 'man dige mixām talāq begiram! goft pas [sogol]Theme či miše?'
   - example: 'پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟'
-    transcription: 'pas [qol o qarār-emun]Theme či mi-š-e? ham-aš-o yād-et raft?'
+    transcription: 'pas [qol o qarāremun]Theme či miše? hamašo yādet raft?'
   - example: 'با گریه گفت پس [خانواده من]Theme چه می‌شود؟'
-    transcription: 'bā gerye goft pas [xānevāde-ye man]Theme če mi-šav-ad?'
+    transcription: 'bā gerye goft pas [xānevādeye man]Theme če mišavad?'
   - example: 'گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟'
-    transcription: 'goft-am āxe man tanhām. goft pas [man]Theme či rafiq?'
+    transcription: 'goftam āxe man tanhām. goft pas [man]Theme či rafiq?'
   - example: 'مگه من جلبکم؟ پس [من]Theme چی؟'
-    transcription: 'mage man jolbak-am? pas [man]Theme či?'
+    transcription: 'mage man jolbakam? pas [man]Theme či?'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -42,7 +42,7 @@ usage_label:
   - Formal
 comment: 
   - Persian: |
-      ''بسط استعاری از همین ساخت به معنی "لمس کردن"''
+      'بسط استعاری از همین ساخت به معنی "لمس کردن"'
   - English: |
       'A metaphorical extension of the same construction that means "to touch something".'
 common_fillers:
