@@ -1,0 +1,43 @@
+---
+record: 22
+name: 'NEG-CL (و) نباید هم CL'
+name_transcription: 'NEG-CL (va) nabāyad ham CL'
+name_translation: 'Why should one CL?'
+illustration: '[راضی نیستم] و نباید هم [راضی باشم.]'
+illustration_transcription: '[rāzi nistam] va nabāyad ham [rāzi bāšam.]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'شمارمو عوض میکنم آره [باورت نمیشه.]role نباید هم [باورت شه.]role'
+    transcription: 'šomāramo avaz mikonam āre [bāvaret nemiše.]role nabāyad ham [bāvaret beše.]role'
+  - example: '[آنها در انتخابات نیستند]role و نباید هم [باشند.]role'
+    transcription: '[ānhā dar entexābāt nistand]role va nabāyad ham [bāšand.]role'
+  - example: '[تو مثل قبل نخواهی بود.]role نباید هم [باشی.]role'
+    transcription: '[to mesle qabl naxāhi bud.]role nabāyad ham [bāši.]role'
+  - example: '[من هم نمی‌دانم]role که البته نباید هم [بدانم.]role'
+    transcription: '[man ham nemidānam]role ke albate nabāyad ham [bedānam.]role'
+  - example: '[بزرگترین ظلمی است که در درگاه خداوند بخشیده نمی‌شود]role و نباید هم [بخشیده شود.]role'
+    transcription: '[bozorgtarin zolmi ast ke dar dargāhe xodāvand baxšide nemišavad]role va nabāyad ham [baxšide šavad.]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

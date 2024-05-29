@@ -1,0 +1,43 @@
+---
+record: 21
+name: 'اگه/اگر NP جای NP بودن، CL'
+name_transcription: 'age/agar NP jāye NP bud-an, CL'
+name_translation: 'If NP were NP, CL'
+illustration: 'اگه [من] جای [تو] بودم [خونه می‌خوابیدم.]'
+illustration_transcription: 'age [man] jāye [to] budam [xune mixābidam.]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'خوب [شما]ROLE اگه جای [او]ROLE بودید [چه کار می‌کردید؟]ROLE'
+    transcription: 'xob [šomā]role age jāye [u]role budid če kār [mikardid?]role'
+  - example: 'اگر [هرکس دیگری]role جای [من]role بود [شاید با وجود همین یک افتخار از استقلال می‌رفت.]role'
+    transcription: 'agar [har kase digari]role jāye [man]role bud [šāyad bā vojude hamin yek eftexār az esteqlāl miraft.]role'
+  - example: 'اگر قرار باشد [شما]role به جای [مولکول‌های سطح مایع]role باشید [چه می‌کردید؟]role'
+    transcription: 'agar qarār bāšad [šomā]role be jāye [molokulhāye sathe māye]role bāšid [če mikardid?]role'
+  - example: 'اگر [من]role جای [تو]role بودم [گردن او را می ‌زدم.]role'
+    transcription: 'agar [man]role jāye [to]role budam [gardane u rā mizadam.]role'
+  - example: 'اما [شما]role اگر جای [مادرش]role باشید [چه می‌گویید؟]role'
+    transcription: 'ammā [šomā]role agar jāye [mādaraš]role bāšid [če miguid?]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
