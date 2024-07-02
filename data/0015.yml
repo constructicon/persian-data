@@ -1,23 +1,23 @@
 ---
 record: 15
-name: 'این کجاش XP؟'
-name_transcription: 'in kojāš XP?'
-name_translation: 'How is it XP?'
-illustration: 'این کجاش [شبیه میمونه]؟'
-illustration_transcription: 'in kojāš [šabihe meymune]?'
+name: 'NP کجاش CL؟'
+name_transcription: 'NP kojāš CL?'
+name_translation: 'How on earth is NP X?'
+illustration: '[خر] کجاش [فحشه]؟'
+illustration_transcription: '[xar] kojāš [fohše]?'
 cefr_level: 
 definitions:
 examples:
-  - example: 'من به یه احمق گفتم احمق. این کجاش [توهینه]ROLE؟'
-    transcription: 'man be ye ahmaq goftam ahmaq. in kojāš [tohine]ROLE?'
-  - example: 'تو رو خدا این کجاش [به پسرا میخوره]ROLE؟ خیلی شبیه دختراست.'
-    transcription: 'to ro xodā in kojāš [be pesarā mixore]ROLE? xeyli šabihe doxtarāst.'
-  - example: 'این کجاش [سرگرمی بود]ROLE؟'
-    transcription: 'in kojāš [sargarmi bud]ROLE?'
-  - example: 'بهش گفتم خوشمزست. برگشته بمن میگه این کجاش [خوشمزست]ROLE؟'
-    transcription: 'beheš goftam xošmazast. bargašte be man mige in kojāš [xošmazast]ROLE?'
-  - example: 'حرف دهنتو بفهم مرد حسابی! این کجاش [شبیه ما ادماست]ROLE؟'
-    transcription: 'harfe dahaneto befahm marde hesābi! in kojāš [šabihe mā ādamāst]ROLE?'
+  - example: '[اون مدل بیچاره]role کجاش [شبیه منه؟]role'
+    transcription: '[un modele bičāre]role kojāš [šabihe mane?]role'
+  - example: '[خیار]role کجاش [شیرین و آبداره؟]role'
+    transcription: '[xiār]role kojāš [širin o ābdāre?]role'
+  - example: '[این]role کجاش [شبیه میمونه؟]role'
+    transcription: '[in]role kojāš [šabihe meymune?]role'
+  - example: 'شما بگید [این]role کجاش [توهین به هنره؟]role'
+    transcription: 'šomā begid [in]role kojāš [tohin be honare?]role'
+  - example: '[این خبر]role کجاش [خوش بود؟]role'
+    transcription: '[in xabar]role kojāš [xoš bud?]role'
 morphology:
   - ~
 syntactic_type_of_construction:
