@@ -1,7 +1,7 @@
 ---
 record: 32
-name: 'NP از کجا IPFV-آوردن؟'
-name_transcription: 'NP az kojā IPFV-āvardan?'
+name: 'NP-OBJ از کجا IPFV-آوردن؟'
+name_transcription: 'NP-OBJ az kojā IPFV-āvardan?'
 name_translation: 'Where does one get NP from?'
 illustration: '[این قصه‌ها] رو از کجا میارید؟'
 illustration_transcription: '[in qessehā] ro az kojā miyārid?'

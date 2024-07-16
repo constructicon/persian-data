@@ -1,7 +1,7 @@
 ---
 record: 31
-name: 'NP از کجا (گیر) SUBJ-آوردن؟'
-name_transcription: 'NP az kojā (gir) SUBJ-āvardan?'
+name: 'NP-OBJ از کجا (گیر) SUBJ-آوردن؟'
+name_transcription: 'NP-OBJ az kojā (gir) SUBJ-āvardan?'
 name_translation: 'How should one get NP?'
 illustration: '[پول] از کجا بیارم؟'
 illustration_transcription: '[pul] az kojā biyāram?'
