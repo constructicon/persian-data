@@ -1,0 +1,43 @@
+---
+record: 31
+name: 'NP از کجا (گیر) SUBJ-آوردن؟'
+name_transcription: 'NP az kojā (gir) SUBJ-āvardan?'
+name_translation: 'How should one get NP?'
+illustration: '[پول] از کجا بیارم؟'
+illustration_transcription: '[pul] az kojā biyāram?'
+cefr_level: 
+definitions:
+examples:
+  - example: 'مگر حساب و کتاب بودجه دستت نیست؟ [بودجه‌اش]role را از کجا بیاوریم؟'
+    transcription: 'magar hesāb o ketāb dastet nist? [budjeaš]role rā az kojā biyāvarim?'
+  - example: '[پول بلیط استخر]role را از کجا می‌آوری؟'
+    transcription: '[pule bilite estaxr]role rā az kojā miyāvari?'
+  - example: 'از کجا [ضامن کارمند]role گیر بیاوریم؟'
+    transcription: 'az kojā [zāmene kārmand]role gir biyāvarim?'
+  - example: 'این فرشته مهربون بیچاره از کجا [کادو]role بیاره؟'
+    transcription: 'in ferešteye mehrabun bičāre az kojā [kādo]role biyāre?'
+  - example: 'وقتی از 10 هزار تومن شده 90 هزار تومن دیگه از کجا [پول]role بیارن؟'
+    transcription: 'vaqti az 10 hezār toman šode 90 hezār toman dige az kojā [pul]role biyāran?'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

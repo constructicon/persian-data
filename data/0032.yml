@@ -1,0 +1,43 @@
+---
+record: 32
+name: 'NP از کجا IPFV-آوردن؟'
+name_transcription: 'NP az kojā IPFV-āvardan?'
+name_translation: 'Where does one get NP from?'
+illustration: '[این قصه‌ها] رو از کجا میارید؟'
+illustration_transcription: '[in qessehā] ro az kojā miyārid?'
+cefr_level: 
+definitions:
+examples:
+  - example: 'مامانم می‌گفت تو [این اشکا]role رو از کجا میاری؟'
+    transcription: 'māmānam migoft to [in aškā]role ro az kojā miyāri?'
+  - example: '[این حرفای قلمبه سلمبه]role رو از کجا میاری؟'
+    transcription: '[in harfāye qolombe solombe]role ro az kojā miyāri?'
+  - example: 'فرزین تو [این همه شالای رنگارنگ و خوشگل]role رو از کجا میاری؟'
+    transcription: 'farzin to [in hame šālāye rangārang o xošgel]role ro az kojā miyāri?'
+  - example: 'من موندم این موجوداتی که بلاگ می‌نویسن از کجا [حرف]role میارن؟'
+    transcription: 'man mundam in mojodāti ke belāg minevisan az kojā [harf]role miyāran?'
+  - example: 'حالا این [اصطلاحات]role رو از کجا میاره نمی‌دونم.'
+    transcription: 'hālā in [estelāhāt]role az kojā miyāre nemidunam.'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
