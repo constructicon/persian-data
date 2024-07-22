@@ -1,0 +1,43 @@
+---
+record: 39
+name: 'خوشحال می‌شم/می‌شوم (اگه/اگر) SUBJ-CL'
+name_transcription: 'xošhāl mišam/mišavam (age/agar) SUBJ-CL'
+name_translation: 'I would like to/ I would be happy to CL'
+illustration: 'اسم این فیلمو چی میذارید؟ خوشحال میشم [جوابتون رو ببینم.]'
+illustration_transcription: 'esme in filmo či mizārid? xošhāl mišam [javābetun ro bebinam.]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'اگه جوابشو بدونم خوشحال می‌شم [بتونم کمکتون کنم.]role'
+    transcription: 'age javābešo bedunam xošhāl mišam [betunam komaketun konam.]role'
+  - example: '[اگه نظری یا حتی انتقادی از کارام هست حتما بگید]role خوشحال میشم.'
+    transcription: '[age nazari yā hattā enteqādi az kārām hast hatman begid]role xošhāl mišam.'
+  - example: 'خیلی خوشحال میشم اگه [نقایصم رو بدونم تا تو اثار بعدی رفعشون کنم.]role'
+    transcription: 'xeyli xošhāl mišam age [naqāyesam ro bedunam tā tu āsāre badi rafešun konam.]role'
+  - example: 'سعی کرده‌ام با او تماس بگیرم و بگویم خوشحال می‌شوم اگر [با او صحبت کنم.]role'
+    transcription: 'say kardeam bā u tamās begiram va beguyam xošhāl mišavam agar [bā u sohbat konam.]role'
+  - example: 'خوشحال می‌شوم اگر [به وبلاگ من هم سر بزنید.]role'
+    transcription: 'xošhāl mišavam agar [be veblāge man ham sar bezanid.]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
