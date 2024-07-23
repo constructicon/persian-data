@@ -1,0 +1,43 @@
+---
+record: 41
+name: 'NP به نظرم ADJ آمدن'
+name_transcription: 'NP be nazaram ADJ āmadan'
+name_translation: 'NP seems ADJ'
+illustration: 'امروز [همه چیز] به نظرم [قشنگ] میومد.'
+illustration_transcription: 'emruz [hame čiz] be nazaram [qašang] miyumad.'
+cefr_level: 
+definitions:
+examples:
+  - example: '[هر چیزی]role به نظرم [خوشگل]role بیاد رو میخرم.'
+    transcription: '[har čizi] be nazaram [xošgel]role biyād ro mixaram.'
+  - example: 'من [چیزی]role به نظرم [شیک یا قشنگ]role بیاد به طرف میگم.'
+    transcription: 'man [čizi]role be nazaram [šik yā qašang]role biyād be taraf migam.'
+  - example: 'به نظرم [غیر‌منطقی]role میومد [اختصاص این همه جا به یک محصول.]role'
+    transcription: 'be nazaram [qeyre manteqi]role miyumad [extesāse in hame jā be yek mahsul.]role'
+  - example: '[حرفاش]role به نظرم [ضد و نقیض]role میومد اما دوسش دارم.'
+    transcription: '[harfāš]role be nazaram [zedd o naqiz]role miyumad ammā duseš dāram.'
+  - example: 'اینقد واسم دوست خوبیه که [احساس اون اوایلم]role به نظرم [مسخره]role میاد.'
+    transcription: 'inqad vāsam duste xubie ke [ehsāse un avāyelam]role be nazaram [masxare]role miyād.'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

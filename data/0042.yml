@@ -1,0 +1,43 @@
+---
+record: 42
+name: 'به فرض هم CL CL'
+name_transcription: 'be farz ham CL CL'
+name_translation: 'Let us say'
+illustration: 'به فرض هم [بگم آره] [کمی بگذره خودت متوجه میشی که نمی‌تونی.]'
+illustration_transcription: 'be farz ham [begam āre] [kami begzare xodet motavaje miši ke nemituni.]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'حالا به فرض هم [دیوار کشیدید و جسم آنها را زندانی کردید.]role [با فکر و عقیده چه می‌کنید.]role'
+    transcription: 'hālā be farz ham [divār kešidid va jesme ānhā rā zendāni kardid.]role [bā fekr va aqide če mikonid?]role'
+  - example: 'به فرض هم [که در راس مسئولیت نباشند]role [اما حضور و وجودشان در کارها همواره محسوس خواهد بود.]role'
+    transcription: 'be farz ham [ke dar rase masuliat nabāšand]role [ammā hozur va vojudešān dar kārhā hamvāre mahsus xāhad bud.]role'
+  - example: 'به فرض هم [یک قدم عقب رفت، یک جا هم پایش لغزید.]role [مراقب خودش است.]role'
+    transcription: 'be farz ham [yek qadam aqab raft, yek jā ham pāyaš laqzid.]role [morāqebe xodāš ast.]role'
+  - example: 'و به فرض هم [کار به جاهای حیثیتی بکشد.]role [کدام حیثیت؟]role'
+    transcription: 'va be farz ham [kār be jāhāye heysiyati bekešad.]role [kodām heysiyat?]role'
+  - example: '[خودش باید کاری بکند.]role حتی به فرض هم [که در قفل باشد.]role'
+    transcription: '[xodaš bāyad kāri bokonad.]role hattā be farz ham [ke dar qofl bāšad.]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
