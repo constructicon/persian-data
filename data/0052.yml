@@ -1,0 +1,43 @@
+---
+record: 52
+name: 'هیچ NP-INDF CPR-ADJ از این نیست که CL'
+name_transcription: 'hič NP-IND CPR-ADJ az in nist ke CL'
+name_translation: '-'
+illustration: 'هیچ [چیز] [شادی بخش‌تر] از این نیست که [درس نخونده باشی و امتحان لغو بشه.]'
+illustration_transcription: 'hič [čiz] [šādi baxštar] az in nist ke [dars naxunde bāši o emtehān laqv beše.]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'در زندگی [(هیچ [چیز]role ) [شیرین‌تر]role از این نیست که [کسی انسان را دوست بدارد.]role'
+    transcription: 'dar zendegi [(hič čiz)]role [širintar]role az in nist ke [kasi ensān rā dust bedārad.]role'
+  - example: '(هیچ) [گناهی]role [بالاتر]role از این نیست که [از گناه دیگران پرده برداریم.]role'
+    transcription: '(hič) [gonāhi]role [bālātar]role az in nist ke [az gonāhe digarān parde bardārim.]role'
+  - example: 'هیچ [لذتی]role [بالاتر]role از این نیست که [جواب تلفن‌های کسی رو ندی که قبلا جوابتو نمی‌داده.]role'
+    transcription: 'hič [lezzati]role [bālātar]role az in nist ke [javābe telefone kasi ro nadi ke qablan javābeto nemidāde.]role'
+  - example: 'هیچ [کاری]role [مشکل‌تر]role از این نیست که [آدم بخواهد بفهمد ته دل مردم چه می‌گذرد.]role'
+    transcription: 'hič [kāri]role [moškeltar]role az in nist ke [ādam bexāhad befahmad tahe dele mardom če migozarad.]role'
+  - example: 'هیچ [چیز]role [خسته‌کننده‌تر]role از این نیست که [احساس کنید طرفتان به شما گوش نمی‌دهد.]role'
+    transcription: 'hič [čiz]role [xaste konandetar]role az in nist ke [ehsās konid tarafetān be šomā guš nemidadhad.]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
