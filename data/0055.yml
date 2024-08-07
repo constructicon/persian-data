@@ -1,0 +1,43 @@
+---
+record: 55
+name: '[CL] ولی / اما (این) دلیل نمی‌شه (که) [SUBJ-CL]'
+name_transcription: '[CL] vali / ammā (in) dalil nemiše (ke) [SUBJ-CL]'
+name_translation: 'This does not mean that, This is no reason to'
+illustration: '[من خودم از مسی خوشم میاد] اما این دلیل نمی‌شه که [عاشق اون باشم.]'
+illustration_transcription: '[man xodam az mesi xošam miyād] ammā in dalil nemiše ke [āšeqe un bāšam.]'
+cefr_level: 
+definitions:
+examples:
+  - example: '[با این که جام جهانی تموم شده]role ولی دلیل نمی‌شه [پاتوق شب‌های تابستونی رو فراموش کنیم.]role'
+    transcription: '[bā in ke jāme jahāni tamum šode]role vali dalil nemiše [pātoqe šabhāye tābestuni ro farāmuš konim.]role'
+  - example: '[درسته که رفیقیم]role اما دلیل نمی‌شه که [حتما جزیی از سازمان گسترده‌شون باشم.]role'
+    transcription: '[doroste ke rafiqim]role ammā dalil nemiše ke [hatman jozi az sāzmāne gostardan bāšam.]role'
+  - example: '[هر چند از شهناز خوشم نمیاد]role اما دلیل نمی‌شه که [دلش رو بشکونم.]role'
+    transcription: '[har čand az šahnāz xošam nemiyād]role ammā dalil nemiše ke [deleš ro beškanam.]role'
+  - example: '[این خانم محترم و معقول]role اما این دلیل نمی‌شه که [اخبارشون موثق باشه.]role'
+    transcription: '[in xānum mohtaram o maqul]role ammā in dalil nemiše ke [axbārešun movassaq bāše.]role'
+  - example: '[سیب فوق‌العادست]role اما این دلیل نمی‌شه که [بیخیال میوه‌های دیگه بشیم.]role'
+    transcription: '[sib foqolādast]role ammā in dalil nemiše ke [bixiyāle mivehāye dige bešim.]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

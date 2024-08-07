@@ -1,0 +1,45 @@
+---
+record: 54
+name: 'غیر از این است / بود / اینه که [CL] ؟'
+name_transcription: 'qeyr az in ast / bud / ine ke [CL] ?'
+name_translation: 'Is it not that CL ?'
+illustration: 'غیر از این بود که [ناب‌ترین عشق را نثارت کردم؟]'
+illustration_transcription: 'qeyr az in bud ke [nābtarin ešq rā nesārat kardam?]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'غیر از اینه که [توی دانشگاه فقط نظریه‌های آرمان گرایانه رو به دانشجو تلقین میکنن؟]role'
+    transcription: 'qeyr az ine ke [tuye dānešgāh faqat nazariyehāye ārmān garāyāne ro be dānešju talqin mikonan?]role'
+  - example: 'غیر از این است که [ریزش و رویش یک حقیقت است و ما نمی‌توانیم جلوی آن را بگیریم؟]role'
+    transcription: 'qeyr az in ast ke [rizeš va ruyeš yek haqiqat ast va mā nemitavānim jeloye ān rā begirim?]role'
+  - example: 'غیر از این است که [با ایستادگی مردم در مقابل آنان، یا فراری شدند یا واصل به درک؟]role'
+    transcription: 'qeyr az in ast ke [bā istādegie mardom dar moqābele ānān, yā farāi šodand yā vasel be darak?]role'
+  - example: 'غیر از این بود که [تمام محاسبات آمریکا غلط اندر غلط درآمد؟]role'
+    transcription: 'qeyr az in bud ke [tamāme mohāsebāte āmrikā qlat andar qalat dar āmad?]role'
+  - example: 'غیر از این است که [عمر این برج‌ها به سر آمده و باید تخریب شود؟]role'
+    transcription: 'qeyr az in ast ke [more in borjhā be sar āmade va bāyad taxrib šavad?]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+  - Persian: |
+      'در کاربرد رسمی‌تر، «جز» می‌تواند جایگزین «غیر» شود.'
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

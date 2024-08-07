@@ -1,0 +1,43 @@
+---
+record: 53
+name: 'چطور(ی) دل[POSS] اومد / میاد [SUBJ-CL] ؟'
+name_transcription: 'četor[i] del[POSS] umad / miyād [SUBJ-CL] ?'
+name_translation: 'How could one do CL?'
+illustration: 'چطور دلش اومد [به من اینجوری بگه؟]'
+illustration_transcription: 'četor deleš umad [be man injuri bege?]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'چطور دلت میاد [بذاری دخترت گریه کنه؟]role'
+    transcription: 'četor delet miyād [bezāri doxtaret gerye kone?]role'
+  - example: 'چطوری دلمون اومد [با آبروی یه دختر ما بازی کنیم؟]role'
+    transcription: 'četori delemun umad [bā āberuye ye doxtar mā bāzi konim?]role'
+  - example: 'چطور دلتون اومد [این چک و از دست اونها بگیرین؟]role'
+    transcription: 'četor deletun umad [in ček o az daste unhā begirin?]role'
+  - example: 'چطور دلشون میاد [منو تنها بزارن؟]role'
+    transcription: 'četor delešun miyād [mano tanhā bezāran?]'
+  - example: 'چطور دلم اومد [اون حرف‌ها رو بزنم و اونو ناراحت کنم؟]role'
+    transcription: 'četor delam umad [un harfhā ro bezanam o uno nārāhat konam?]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

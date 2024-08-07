@@ -1,7 +1,7 @@
 ---
 record: 52
-name: 'هیچ CPR-ADJ NP-INDF از این نیست که CL'
-name_transcription: 'hič NP-IND CPR-ADJ az in nist ke CL'
+name: 'هیچ CPR-ADJ NP-INDF از این نیست که SUBJ-CL'
+name_transcription: 'hič NP-IND CPR-ADJ az in nist ke SUBJ-CL'
 name_translation: '-'
 illustration: 'هیچ [چیز] [شادی بخش‌تر] از این نیست که [درس نخونده باشی و امتحان لغو بشه.]'
 illustration_transcription: 'hič [čiz] [šādi baxštar] az in nist ke [dars naxunde bāši o emtehān laqv beše.]'
