@@ -1,0 +1,45 @@
+---
+record: 59
+name: 'بحث این نیست که [CL]'
+name_transcription: 'bahs in nist ke [CL]'
+name_translation: 'I do not say that, it is not that, it does not matter that'
+illustration: 'بحث این نیست که [اروپا بهشته.]'
+illustration_transcription: 'bahs in nist ke [orupā behešte.]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'بحث این نیست که [امکانات خود را به دیگران بدهیم یا ندهیم.]role'
+    transcription: 'bahs in nist ke [emkānāte xod rā be digarān bedahim yā nadahim]role'
+  - example: 'بحث این نیست که [معلمان حتما افزایش حقوق می‌خواهند.]role'
+    transcription: 'bahs in nist ke [moalemān hatman afzāyeše hoquq mixāhand.]role'
+  - example: 'اینجا بحث این نیست که [شما اقا باشید یا خانم.]role'
+    transcription: 'injā bahs in nist ke [šomā āqā bāšid yā xānom.]role'
+  - example: 'اما بحث این نیست که [این خواست‌ها بری از خطا نیستند.]role'
+    transcription: 'ammā bahs in nist ke [in xāsthā bari az xatā nistand.]role'
+  - example: 'بحث این نیست که [انرژی هسته‌ای سودمندتر بود یا این!]role'
+    transcription: 'bahs in nist ke [eneržie hastei sudmandtar bud yā in!]role'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+  - Persian: |
+      '«موضوع» و «بحث» را می‌توان به جای یکدیگر به کاربرد.'
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""

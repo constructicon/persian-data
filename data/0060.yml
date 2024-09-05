@@ -1,0 +1,45 @@
+---
+record: 60
+name: 'مگه می‌شه [CL؟]'
+name_transcription: 'mage miše [CL?]'
+name_translation: 'It is not possible'
+illustration: 'مگه می‌شه [ماه بود و خورشید و ندید؟]'
+illustration_transcription: 'mage miše [māh bud o xoršid o nadid?]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'همه آدم‌ها خدا رو دوست دارند. مگه می‌شه [کسی دوست نداشته باشه؟]role'
+    transcription: 'hameye ādamhā xodā ro dust dārand. mage miše [kasi dust nadāšte bāše?]role'
+  - example: 'آخه مگه می‌شه [هیچ وقت افسرده نشی؟]role'
+    transcription: 'āxe mage miše [hič vaqt afsorde naši?]role'
+  - example: 'مثل روز اول دوست دارم، مگه می‌شه [آدم عشقشو دوست نداشته باشه؟]role'
+    transcription: 'mesle ruze avval duset dāram, mage miše [ādam ešqešo dust nadāšte bāše?]role'
+  - example: 'اصلا مگه می‌شه [ایشون یه روز بیاد دانشگاه و من نرم سر کلاسش؟]role'
+    transcription: 'aslan mage miše [išun ye ruz biyād dānešgāh o man naram sare kelāseš?]role'
+  - example: 'ولی مادر شما اشتباه می‌کنید، مگه می‌شه [شما پارمیدا رو نبینید؟]role اون اینجاست کنار من.'
+    transcription: 'vali mādar šomā eštebāh mikonid, mage miše [šomā pārmidā ro nabinid?]role un injāst kenāre man.'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+  - Persian: |
+      'تاکید و تکیه بر ابتدای واژه «می‌شه»'
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
