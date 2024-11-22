@@ -1,0 +1,43 @@
+---
+record: 68
+name: 'این دیگه چه [NP] استن/بودن؟'
+name_transcription: 'in dige če [NP] astan/budan?'
+name_translation: 'What kind of NP is this?'
+illustration: 'این دیگه چه [رسمی] است؟'
+illustration_transcription: 'in dige če [rasmi] ast?'
+cefr_level: 
+definitions:
+examples:
+  - example: 'بابا این دیگه چه [تولدیه؟]role نه یه موسیقی نه یه کف و سوتی.'
+    transcription: 'bābā in dige če [tavalodiye?]role na ye musiqi na ye kafo suti.'
+  - example: 'این دیگه چه [موجودی]role است؟'
+    transcription: 'in dige če [mojudi]role ast?'
+  - example: 'این دیگه چه [مدلشه؟]role من موندم روش! بچه‌های دیگه هم این مدلی هستند؟'
+    transcription: 'in dige če [modeleše?]role man mundam ruš! bačehāye dige ham in modeli hastand?'
+  - example: 'یک دفعه یک جفت کفش بدقواره و زمخت کنارش افتاد. روباه گفت: اما این دیگه چه [کفش رقصی]role است؟'
+    transcription: 'yek dafe yek joft kafāe badqavāre va zomoxt kenraš oftād. rubāh goft: ammā in dige če [kafše raqsi]role ast?'
+  - example: 'خدایا این دیگه چه [مسافرتی]role بود؟ پام فقط به کلانتری باز نشده بود.'
+    transcription: 'xodāyā in dige če [mosāferati]role bud? pām faqat be kalāntari bāz našode bud.'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
