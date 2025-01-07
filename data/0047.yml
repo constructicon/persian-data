@@ -2,22 +2,22 @@
 record: 47
 name: 'یکی پیدا نمی‌شه SUBJ-CL ؟'
 name_transcription: 'yeki peydā nemiše SUBJ-CL ?'
-name_translation: "Isn't there anybody"
+name_translation: 'Is there anybody'
 illustration: 'یعنی یکی پیدا نمی‌شه [که این دین خدا رو برای ما تفسیر کنه؟]'
 illustration_transcription: 'yani yeki peydā nemiše [ke in dine xodā ro barāye mā tafsir kone?]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'من دارم روانی میشم یکی پیدا نمی‌شه [که جواب این سوال منو بدونه؟]role'
-    transcription: 'man dāram ravāni mišam yeki peydā nemiše [ke javābe in soāle mano bedune?]role'
-  - example: 'آخه یکی پیدا نمی‌شه [بگه لامصب! بازی بازی با عزراییل هم بازی؟]role'
-    transcription: 'āxe yeki peydā nemiše [bege lāmassab! bāzi bāzi bā ezrāeil ham bāzi?]role'
-  - example: 'بابا یکی پیدا نمی‌شه [بگه همین روزهایی که تعطیل نیست چقدر استفاده مفید ازشون می‌شه؟]role'
-    transcription: 'bābā yeki peydā nemiše [bege hamin ruzhāyi ke tatil nist čeqadr estefādeye mofid azašun miše?]role'
-  - example: 'اگه من مریض باشم و به این وبلاگ سر نزنم، یکی پیدا نمیشه [که یه پیام تبریک عید اینجا بنویسه؟]role'
-    transcription: 'age man mariz bāšam va be in veblāg sar nazanam, yeki peydā nemiše [ke ye payāme tabrike eyd injā benevise?]role'
-  - example: 'وسط این همه مرد، یکی پیدا نمی‌شه [خودتو ببندی به ریشش نونشم خودت بدی؟]role'
-    transcription: 'vasate in hame mard, yeki peydā nemiše [xodeto bebandi be rišeš nunešam xodet bedi?]role'
+  - example: 'من دارم روانی میشم یکی پیدا نمی‌شه [که جواب این سوال منو بدونه؟]'
+    transcription: 'man dāram ravāni mišam yeki peydā nemiše [ke javābe in soāle mano bedune?]'
+  - example: 'آخه یکی پیدا نمی‌شه [بگه لامصب! بازی بازی با عزراییل هم بازی؟]'
+    transcription: 'āxe yeki peydā nemiše [bege lāmassab! bāzi bāzi bā ezrāeil ham bāzi?]'
+  - example: 'بابا یکی پیدا نمی‌شه [بگه همین روزهایی که تعطیل نیست چقدر استفاده مفید ازشون می‌شه؟]'
+    transcription: 'bābā yeki peydā nemiše [bege hamin ruzhāyi ke tatil nist čeqadr estefādeye mofid azašun miše?]'
+  - example: 'اگه من مریض باشم و به این وبلاگ سر نزنم، یکی پیدا نمیشه [که یه پیام تبریک عید اینجا بنویسه؟]'
+    transcription: 'age man mariz bāšam va be in veblāg sar nazanam, yeki peydā nemiše [ke ye payāme tabrike eyd injā benevise?]'
+  - example: 'وسط این همه مرد، یکی پیدا نمی‌شه [خودتو ببندی به ریشش نونشم خودت بدی؟]'
+    transcription: 'vasate in hame mard, yeki peydā nemiše [xodeto bebandi be rišeš nunešam xodet bedi?]'
 morphology:
   - ~
 syntactic_type_of_construction:

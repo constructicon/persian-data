@@ -8,16 +8,16 @@ illustration_transcription: '[rāzi nistam] va nabāyad ham [rāzi bāšam.]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'شمارمو عوض میکنم آره [باورت نمیشه.]role نباید هم [باورت شه.]role'
-    transcription: 'šomāramo avaz mikonam āre [bāvaret nemiše.]role nabāyad ham [bāvaret beše.]role'
-  - example: '[آنها در انتخابات نیستند]role و نباید هم [باشند.]role'
-    transcription: '[ānhā dar entexābāt nistand]role va nabāyad ham [bāšand.]role'
-  - example: '[تو مثل قبل نخواهی بود.]role نباید هم [باشی.]role'
-    transcription: '[to mesle qabl naxāhi bud.]role nabāyad ham [bāši.]role'
-  - example: '[من هم نمی‌دانم]role که البته نباید هم [بدانم.]role'
-    transcription: '[man ham nemidānam]role ke albate nabāyad ham [bedānam.]role'
-  - example: '[بزرگترین ظلمی است که در درگاه خداوند بخشیده نمی‌شود]role و نباید هم [بخشیده شود.]role'
-    transcription: '[bozorgtarin zolmi ast ke dar dargāhe xodāvand baxšide nemišavad]role va nabāyad ham [baxšide šavad.]role'
+  - example: 'شمارمو عوض میکنم آره [باورت نمیشه.] نباید هم [باورت شه.]'
+    transcription: 'šomāramo avaz mikonam āre [bāvaret nemiše.] nabāyad ham [bāvaret beše.]'
+  - example: '[آنها در انتخابات نیستند] و نباید هم [باشند.]'
+    transcription: '[ānhā dar entexābāt nistand] va nabāyad ham [bāšand.]'
+  - example: '[تو مثل قبل نخواهی بود.] نباید هم [باشی.]'
+    transcription: '[to mesle qabl naxāhi bud.] nabāyad ham [bāši.]'
+  - example: '[من هم نمی‌دانم] که البته نباید هم [بدانم.]'
+    transcription: '[man ham nemidānam] ke albate nabāyad ham [bedānam.]'
+  - example: '[بزرگترین ظلمی است که در درگاه خداوند بخشیده نمی‌شود] و نباید هم [بخشیده شود.]'
+    transcription: '[bozorgtarin zolmi ast ke dar dargāhe xodāvand baxšide nemišavad] va nabāyad ham [baxšide šavad.]'
 morphology:
   - ~
 syntactic_type_of_construction:

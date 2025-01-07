@@ -8,16 +8,16 @@ illustration_transcription: 'age [bāyad hamiše injā mimundam] či?'
 cefr_level: 
 definitions:
 examples:
-  - example: 'با ناامیدی گفتم اگه [نتونی]role چی؟'
-    transcription: 'bā nāomidi goftam age [natuni]role či?'
-  - example: 'باید بهش بگی این کار خوبی نیست. پرسید اگه [روم نشه بهش بگم]role چی؟'
-    transcription: 'bāyad beheš begi in kāre xubi nist. porsid age [rum našod beheš begam]role či?'
-  - example: 'یه شعاری هست که می‌گه من فکر می‌کنم پس هستم ولی اگر [من فکر کنم که فکر می‌کنم]role اونوقت چی؟'
-    transcription: 'ye šoāri hast ke mige man fekr mikonam pas hastam vali agar [man fekr konam ke fekr mikonam]role unvaqt či?'
-  - example: 'نه آبی نه بارانی و نه هیچ چیز دیگری. به راستی اگر [باران نیاید]role آن وقت چه؟'
-    transcription: 'na ābi na bārāni v na hič čize digari. be rāsti agar [bārān nayāyad]role ān vaqt če?'
-  - example: 'اگر [این گرمای سخت و این تشنگی فراوان با باران فرو ننشیند]role چه؟'
-    transcription: 'agar [in garmāye saxt va in tešnegi farāvān bā bāran foru nanešinad]role ān vaqt če?'
+  - example: 'با ناامیدی گفتم اگه [نتونی] چی؟'
+    transcription: 'bā nāomidi goftam age [natuni] či?'
+  - example: 'باید بهش بگی این کار خوبی نیست. پرسید اگه [روم نشه بهش بگم] چی؟'
+    transcription: 'bāyad beheš begi in kāre xubi nist. porsid age [rum našod beheš begam] či?'
+  - example: 'یه شعاری هست که می‌گه من فکر می‌کنم پس هستم ولی اگر [من فکر کنم که فکر می‌کنم] اونوقت چی؟'
+    transcription: 'ye šoāri hast ke mige man fekr mikonam pas hastam vali agar [man fekr konam ke fekr mikonam] unvaqt či?'
+  - example: 'نه آبی نه بارانی و نه هیچ چیز دیگری. به راستی اگر [باران نیاید] آن وقت چه؟'
+    transcription: 'na ābi na bārāni v na hič čize digari. be rāsti agar [bārān nayāyad] ān vaqt če?'
+  - example: 'اگر [این گرمای سخت و این تشنگی فراوان با باران فرو ننشیند] چه؟'
+    transcription: 'agar [in garmāye saxt va in tešnegi farāvān bā bāran foru nanešinad] ān vaqt če?'
 morphology:
   - ~
 syntactic_type_of_construction:

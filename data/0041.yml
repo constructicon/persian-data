@@ -8,16 +8,16 @@ illustration_transcription: 'emruz [hame čiz] be nazaram [qašang] miyumad.'
 cefr_level: 
 definitions:
 examples:
-  - example: '[هر چیزی]role به نظرم [خوشگل]role بیاد رو میخرم.'
-    transcription: '[har čizi] be nazaram [xošgel]role biyād ro mixaram.'
-  - example: 'من [چیزی]role به نظرم [شیک یا قشنگ]role بیاد به طرف میگم.'
-    transcription: 'man [čizi]role be nazaram [šik yā qašang]role biyād be taraf migam.'
-  - example: 'به نظرم [غیر‌منطقی]role میومد [اختصاص این همه جا به یک محصول.]role'
-    transcription: 'be nazaram [qeyre manteqi]role miyumad [extesāse in hame jā be yek mahsul.]role'
-  - example: '[حرفاش]role به نظرم [ضد و نقیض]role میومد اما دوسش دارم.'
-    transcription: '[harfāš]role be nazaram [zedd o naqiz]role miyumad ammā duseš dāram.'
-  - example: 'اینقد واسم دوست خوبیه که [احساس اون اوایلم]role به نظرم [مسخره]role میاد.'
-    transcription: 'inqad vāsam duste xubie ke [ehsāse un avāyelam]role be nazaram [masxare]role miyād.'
+  - example: '[هر چیزی] به نظرم [خوشگل] بیاد رو میخرم.'
+    transcription: '[har čizi] be nazaram [xošgel] biyād ro mixaram.'
+  - example: 'من [چیزی] به نظرم [شیک یا قشنگ] بیاد به طرف میگم.'
+    transcription: 'man [čizi] be nazaram [šik yā qašang] biyād be taraf migam.'
+  - example: 'به نظرم [غیر‌منطقی] میومد [اختصاص این همه جا به یک محصول.]'
+    transcription: 'be nazaram [qeyre manteqi] miyumad [extesāse in hame jā be yek mahsul.]'
+  - example: '[حرفاش] به نظرم [ضد و نقیض] میومد اما دوسش دارم.'
+    transcription: '[harfāš] be nazaram [zedd o naqiz] miyumad ammā duseš dāram.'
+  - example: 'اینقد واسم دوست خوبیه که [احساس اون اوایلم] به نظرم [مسخره] میاد.'
+    transcription: 'inqad vāsam duste xubie ke [ehsāse un avāyelam] be nazaram [masxare] miyād.'
 morphology:
   - ~
 syntactic_type_of_construction:

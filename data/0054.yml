@@ -8,16 +8,16 @@ illustration_transcription: 'qeyr az in bud ke [nābtarin ešq rā nesārat kard
 cefr_level: 
 definitions:
 examples:
-  - example: 'غیر از اینه که [توی دانشگاه فقط نظریه‌های آرمان گرایانه رو به دانشجو تلقین میکنن؟]role'
-    transcription: 'qeyr az ine ke [tuye dānešgāh faqat nazariyehāye ārmān garāyāne ro be dānešju talqin mikonan?]role'
-  - example: 'غیر از این است که [ریزش و رویش یک حقیقت است و ما نمی‌توانیم جلوی آن را بگیریم؟]role'
-    transcription: 'qeyr az in ast ke [rizeš va ruyeš yek haqiqat ast va mā nemitavānim jeloye ān rā begirim?]role'
-  - example: 'غیر از این است که [با ایستادگی مردم در مقابل آنان، یا فراری شدند یا واصل به درک؟]role'
-    transcription: 'qeyr az in ast ke [bā istādegie mardom dar moqābele ānān, yā farāi šodand yā vasel be darak?]role'
-  - example: 'غیر از این بود که [تمام محاسبات آمریکا غلط اندر غلط درآمد؟]role'
-    transcription: 'qeyr az in bud ke [tamāme mohāsebāte āmrikā qlat andar qalat dar āmad?]role'
-  - example: 'غیر از این است که [عمر این برج‌ها به سر آمده و باید تخریب شود؟]role'
-    transcription: 'qeyr az in ast ke [more in borjhā be sar āmade va bāyad taxrib šavad?]role'
+  - example: 'غیر از اینه که [توی دانشگاه فقط نظریه‌های آرمان گرایانه رو به دانشجو تلقین میکنن؟]'
+    transcription: 'qeyr az ine ke [tuye dānešgāh faqat nazariyehāye ārmān garāyāne ro be dānešju talqin mikonan?]'
+  - example: 'غیر از این است که [ریزش و رویش یک حقیقت است و ما نمی‌توانیم جلوی آن را بگیریم؟]'
+    transcription: 'qeyr az in ast ke [rizeš va ruyeš yek haqiqat ast va mā nemitavānim jeloye ān rā begirim?]'
+  - example: 'غیر از این است که [با ایستادگی مردم در مقابل آنان، یا فراری شدند یا واصل به درک؟]'
+    transcription: 'qeyr az in ast ke [bā istādegie mardom dar moqābele ānān, yā farāi šodand yā vasel be darak?]'
+  - example: 'غیر از این بود که [تمام محاسبات آمریکا غلط اندر غلط درآمد؟]'
+    transcription: 'qeyr az in bud ke [tamāme mohāsebāte āmrikā qlat andar qalat dar āmad?]'
+  - example: 'غیر از این است که [عمر این برج‌ها به سر آمده و باید تخریب شود؟]'
+    transcription: 'qeyr az in ast ke [more in borjhā be sar āmade va bāyad taxrib šavad?]'
 morphology:
   - ~
 syntactic_type_of_construction:

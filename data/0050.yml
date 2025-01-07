@@ -1,23 +1,23 @@
 ---
 record: 50
-name: 'دیگه نبینم CL-(SUBJ)'
+name: 'دیگه نبینم (SUBJ)-CL'
 name_transcription: 'dige nabinam (SUBJ)-CL'
-name_translation: ''
+name_translation: '-'
 illustration: 'دیگه نبینم [نظر بدیا.]'
 illustration_transcription: 'dige nabinam [nazar bediyā]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'دیگه نبینم [به من زنگ بزنیا!]role'
-    transcription: 'dige nabinam [be man zang bezaniyā!]role'
-  - example: 'دیگه نبینم [از این کلمات غربی استفاده کنی.]role'
-    transcription: 'dige nabinam [az in kalamāte qarbi estefāde koni.]role'
-  - example: 'دیگه نبینم [ازدواج فامیلی انجام بدهی.]role'
-    transcription: 'dige nabinam [ezdevāje fāmili anjām bedahi.]role'
-  - example: 'داد کشید سرم که دیگه نبینم [تو کوچه می‌گردی.]role'
-    transcription: 'dād kešid saram ke dige nabinam [tu kuče migardi.]role'
-  - example: 'دیگه نبینم [سیگار می‌کشی‌ها!]role'
-    transcription: 'dige nabinam [sigār mikšiha!]role'
+  - example: 'دیگه نبینم [به من زنگ بزنیا!]'
+    transcription: 'dige nabinam [be man zang bezaniyā!]'
+  - example: 'دیگه نبینم [از این کلمات غربی استفاده کنی.]'
+    transcription: 'dige nabinam [az in kalamāte qarbi estefāde koni.]'
+  - example: 'دیگه نبینم [ازدواج فامیلی انجام بدهی.]'
+    transcription: 'dige nabinam [ezdevāje fāmili anjām bedahi.]'
+  - example: 'داد کشید سرم که دیگه نبینم [تو کوچه می‌گردی.]'
+    transcription: 'dād kešid saram ke dige nabinam [tu kuče migardi.]'
+  - example: 'دیگه نبینم [سیگار می‌کشی‌ها!]'
+    transcription: 'dige nabinam [sigār mikšiha!]'
 morphology:
   - ~
 syntactic_type_of_construction:

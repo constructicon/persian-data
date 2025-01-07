@@ -8,16 +8,16 @@ illustration_transcription: 'qalat nakonam [ādame āb zire kāhi hast.]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'دشمن برایش نقشه کشیده بود و شما غلط نکنم [آن شب خواب بودید.]role'
-    transcription: 'došman barāyaš naqše kešide bud va šomā qalat nakonam [ān šab xāb budid.]role'
-  - example: 'این رو دیگه از خودش بپرس اما غلط نکنم [باید کار یه موجود خبیث باشه!]role'
-    transcription: 'in ro dige az xodaš bepors ammā qalat nakonam [bāyad kāre ye mojude xabis bāše!]role'
-  - example: 'باورم نمیشد که به این راحتی همه چیو قبول کنه. غلط نکنم [یه کاسه‌ای زیر نیم کاسه هست!]role'
-    transcription: 'bāvaram nemišod ke be in rāhati hame čio qabul kone. qalat nakonam [ye kāsei zire nim kšse hast.]role'
-  - example: 'ثریا مکثی کرد و گفت: غلط نکنم [گلوت حسابی گیر کرده.]role'
-    transcription: 'sorayyā maksi kardo o goft: qalat nakonam [galut hesābi gir karde.]role'
-  - example: 'غلط نکنم [این یارو دیوونه شده!]role'
-    transcription: 'qalat nakonam [in yāru divune šode!]role'
+  - example: 'دشمن برایش نقشه کشیده بود و شما غلط نکنم [آن شب خواب بودید.]'
+    transcription: 'došman barāyaš naqše kešide bud va šomā qalat nakonam [ān šab xāb budid.]'
+  - example: 'این رو دیگه از خودش بپرس اما غلط نکنم [باید کار یه موجود خبیث باشه!]'
+    transcription: 'in ro dige az xodaš bepors ammā qalat nakonam [bāyad kāre ye mojude xabis bāše!]'
+  - example: 'باورم نمیشد که به این راحتی همه چیو قبول کنه. غلط نکنم [یه کاسه‌ای زیر نیم کاسه هست!]'
+    transcription: 'bāvaram nemišod ke be in rāhati hame čio qabul kone. qalat nakonam [ye kāsei zire nim kšse hast.]'
+  - example: 'ثریا مکثی کرد و گفت: غلط نکنم [گلوت حسابی گیر کرده.]'
+    transcription: 'sorayyā maksi kardo o goft: qalat nakonam [galut hesābi gir karde.]'
+  - example: 'غلط نکنم [این یارو دیوونه شده!]'
+    transcription: 'qalat nakonam [in yāru divune šode!]'
 morphology:
   - ~
 syntactic_type_of_construction:

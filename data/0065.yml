@@ -8,16 +8,16 @@ illustration_transcription: 'doruq nagam [kami xošhālam kard.]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'البته دروغ نگم [این چن سال دلم پیش علم کوه بود.]role'
-    transcription: 'albate duruq nagam [in čan sāl delam piše alam kuh bud.]role'
-  - example: 'خیلی دلم گرفته چون چند روزی، دروغ نگم [چند ماهی بود که او را فراموش کرده بودم.]role'
-    transcription: 'xeyli delam gerefte čon čand ruzi, duruq nagam [čand māhi bud ke u rā farāmuš karde budam.]role'
-  - example: 'از حرص می‌خواستم جیغ بزنم! دروغ نگم [گریه هم کردم.]role'
-    transcription: 'az hers mixāstam jiq bezanam. duruq nagam [gerye ham kardam.]role'
-  - example: 'خونه‌ای رو که یه عمر بابام کار کرده بود تا تونسته بودیم بخریم از دستمون رفت. دروغ نگم [دلم خیلی گرفت.]role'
-    transcription: 'xunei ro ke ye omr bābām kār karde bud tā tuneste budim bexarim az dastemun raft. duruq nagam [delam xeyli gereft.]role'
-  - example: 'دروغ نگم [داشتم سکته می‌کردم]role اما با اعتماد به نفس کامل زل زده بودم بهش.'
-    transcription: 'duruq nagam [dāštam sekte mikardam]role ammā bā etemād be nafse kāmel zol zade budam beheš.'
+  - example: 'البته دروغ نگم [این چن سال دلم پیش علم کوه بود.]'
+    transcription: 'albate duruq nagam [in čan sāl delam piše alam kuh bud.]'
+  - example: 'خیلی دلم گرفته چون چند روزی، دروغ نگم [چند ماهی بود که او را فراموش کرده بودم.]'
+    transcription: 'xeyli delam gerefte čon čand ruzi, duruq nagam [čand māhi bud ke u rā farāmuš karde budam.]'
+  - example: 'از حرص می‌خواستم جیغ بزنم! دروغ نگم [گریه هم کردم.]'
+    transcription: 'az hers mixāstam jiq bezanam. duruq nagam [gerye ham kardam.]'
+  - example: 'خونه‌ای رو که یه عمر بابام کار کرده بود تا تونسته بودیم بخریم از دستمون رفت. دروغ نگم [دلم خیلی گرفت.]'
+    transcription: 'xunei ro ke ye omr bābām kār karde bud tā tuneste budim bexarim az dastemun raft. duruq nagam [delam xeyli gereft.]'
+  - example: 'دروغ نگم [داشتم سکته می‌کردم] اما با اعتماد به نفس کامل زل زده بودم بهش.'
+    transcription: 'duruq nagam [dāštam sekte mikardam] ammā bā etemād be nafse kāmel zol zade budam beheš.'
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -8,16 +8,16 @@ illustration_transcription: 'ye hessi behem migoft [ye ettfāqi barāt oftāde.]
 cefr_level: 
 definitions:
 examples:
-  - example: 'الانم دیر نشده که بخوام تمومش کنم. ولی یه حسی بهم می‌گه که [این دفعه عقلانی فک کنم.]role'
-    transcription: 'alānam dir našode ke bexām tamumeš konam. vali ye hessi behem mige ke [in dafe aqlāni fek konam.]role'
-  - example: 'یه حسی بهم می‌گفت [اون امروز میاد و میتونم ببینمش.]role'
-    transcription: 'ye hessi behem migoft [un emruz miyād o mitunam bebinameš.]role'
-  - example: 'قبل از کنکور یه حسی بهت میگه که [امسال حتما یه تست از انرژی نوسانگر میاد.]role'
-    transcription: 'qabl az konkur ye hessi behet mige ke [emsāl hatman ye test az eneržie navasāngar miyād.]role'
-  - example: 'از اول صبح حسی به او می‌گفت که [منتظر حادثه‌ای باش.]role'
-    transcription: 'az avvale sobh hessi be u migoft ke [montazere hādesei bāš.]role'
-  - example: 'از لحظه‌ای که با زن وداع کرده بود حسی به او می‌گفت که [زن موضوعی را از او پنهان کرده است.]role'
-    transcription: 'az lahzei ke bā zan vedā karde bud hessi be u migoft ke [zan mozuyi rā penhān karde ast.]role'
+  - example: 'الانم دیر نشده که بخوام تمومش کنم. ولی یه حسی بهم می‌گه که [این دفعه عقلانی فک کنم.]'
+    transcription: 'alānam dir našode ke bexām tamumeš konam. vali ye hessi behem mige ke [in dafe aqlāni fek konam.]'
+  - example: 'یه حسی بهم می‌گفت [اون امروز میاد و میتونم ببینمش.]'
+    transcription: 'ye hessi behem migoft [un emruz miyād o mitunam bebinameš.]'
+  - example: 'قبل از کنکور یه حسی بهت میگه که [امسال حتما یه تست از انرژی نوسانگر میاد.]'
+    transcription: 'qabl az konkur ye hessi behet mige ke [emsāl hatman ye test az eneržie navasāngar miyād.]'
+  - example: 'از اول صبح حسی به او می‌گفت که [منتظر حادثه‌ای باش.]'
+    transcription: 'az avvale sobh hessi be u migoft ke [montazere hādesei bāš.]'
+  - example: 'از لحظه‌ای که با زن وداع کرده بود حسی به او می‌گفت که [زن موضوعی را از او پنهان کرده است.]'
+    transcription: 'az lahzei ke bā zan vedā karde bud hessi be u migoft ke [zan mozuyi rā penhān karde ast.]'
 morphology:
   - ~
 syntactic_type_of_construction:

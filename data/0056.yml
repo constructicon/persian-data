@@ -8,16 +8,16 @@ illustration_transcription: 'mage dārai [čikār mikoni] ke [mitarsi?]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'مگه دارند [چه مشکلی از دنیا را حل می‌کنند]role که [وقت ندارن؟]role'
-    transcription: 'mage dārand [če moškeli az donyā ra hal mikonand]role ke [vaqt nadārand?]role'
-  - example: 'مگه داری [با پسر خالت صحبت می‌کنی]role که [نقی نقی میکنی؟]role'
-    transcription: 'mage dāri [bā pesar xālat sohbat mikoni]role ke [naqi naqi mikoni?]role'
-  - example: 'گفت: بچه مگه داری [آتاری بازی می‌کنی]role که [موانعو در کنی و دوباره برگردی سر جات؟]role'
-    transcription: 'goft: bače mage dāri [ātāri bāzi mikoni]role ke [mavāneo dar koni o dobāre bargardi sare jāt?]role'
-  - example: 'از حرفم خنده‌ش گرفت و گفت: مگه داری [میری پیک نیک]role که [وسیله با خودت بیاری؟]role'
-    transcription: 'az harfam xandaš gereft o goft mage dāri [miri pik nik]role ke [vasile bā xodet biyāri?]role'
-  - example: 'مگه دارم [براش جوک تعریف می‌کنم]role که [داره می‌خنده]role؟'
-    transcription: 'mage dāram [barāš jok tarif mikonam]role ke [dāre mixande?]role'
+  - example: 'مگه دارند [چه مشکلی از دنیا را حل می‌کنند] که [وقت ندارن؟]'
+    transcription: 'mage dārand [če moškeli az donyā ra hal mikonand] ke [vaqt nadārand?]'
+  - example: 'مگه داری [با پسر خالت صحبت می‌کنی] که [نقی نقی میکنی؟]'
+    transcription: 'mage dāri [bā pesar xālat sohbat mikoni] ke [naqi naqi mikoni?]'
+  - example: 'گفت: بچه مگه داری [آتاری بازی می‌کنی] که [موانعو در کنی و دوباره برگردی سر جات؟]'
+    transcription: 'goft: bače mage dāri [ātāri bāzi mikoni] ke [mavāneo dar koni o dobāre bargardi sare jāt?]'
+  - example: 'از حرفم خنده‌ش گرفت و گفت: مگه داری [میری پیک نیک] که [وسیله با خودت بیاری؟]'
+    transcription: 'az harfam xandaš gereft o goft mage dāri [miri pik nik] ke [vasile bā xodet biyāri?]'
+  - example: 'مگه دارم [براش جوک تعریف می‌کنم] که [داره می‌خنده]؟'
+    transcription: 'mage dāram [barāš jok tarif mikonam] ke [dāre mixande?]'
 morphology:
   - ~
 syntactic_type_of_construction:

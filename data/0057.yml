@@ -8,16 +8,16 @@ illustration_transcription: 'hālā age gofti [man kiyam?]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'خب حالا اگه گفتی [تو زمستون چی می‌چسبه؟]role'
-    transcription: 'xob hālā age gofti [tu zemestun či mičasbe?]role'
-  - example: 'حالا اگه گفتی [من چرا از الان دنبال زن میگردم؟]role'
-    transcription: 'hālā age gofti [man čerā az alān donbāle zan migardam?]role'
-  - example: 'حالا اگه گفتید [چرا رییس نگهبان رو اخراج کرد؟]role'
-    transcription: 'hālā age goftid [čerā rayis negahbān ro exrāj kard?]role'
-  - example: 'حالا اگه گفتید [چرا این موش‌ها دارن دست می‌زنن؟]role'
-    transcription: 'hālā age goftid [čerā in mušhā dāran dast mizanan?]role'
-  - example: 'حالا اگه گفتید [خیام مال کجاست؟]role'
-    transcription: 'hālā age goftid [xayyām māle kojāst?]role'
+  - example: 'خب حالا اگه گفتی [تو زمستون چی می‌چسبه؟]'
+    transcription: 'xob hālā age gofti [tu zemestun či mičasbe?]'
+  - example: 'حالا اگه گفتی [من چرا از الان دنبال زن میگردم؟]'
+    transcription: 'hālā age gofti [man čerā az alān donbāle zan migardam?]'
+  - example: 'حالا اگه گفتید [چرا رییس نگهبان رو اخراج کرد؟]'
+    transcription: 'hālā age goftid [čerā rayis negahbān ro exrāj kard?]'
+  - example: 'حالا اگه گفتید [چرا این موش‌ها دارن دست می‌زنن؟]'
+    transcription: 'hālā age goftid [čerā in mušhā dāran dast mizanan?]'
+  - example: 'حالا اگه گفتید [خیام مال کجاست؟]'
+    transcription: 'hālā age goftid [xayyām māle kojāst?]'
 morphology:
   - ~
 syntactic_type_of_construction:

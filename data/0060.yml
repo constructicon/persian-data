@@ -8,16 +8,16 @@ illustration_transcription: 'mage miše [māh bud o xoršid o nadid?]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'همه آدم‌ها خدا رو دوست دارند. مگه می‌شه [کسی دوست نداشته باشه؟]role'
-    transcription: 'hameye ādamhā xodā ro dust dārand. mage miše [kasi dust nadāšte bāše?]role'
-  - example: 'آخه مگه می‌شه [هیچ وقت افسرده نشی؟]role'
-    transcription: 'āxe mage miše [hič vaqt afsorde naši?]role'
-  - example: 'مثل روز اول دوست دارم، مگه می‌شه [آدم عشقشو دوست نداشته باشه؟]role'
-    transcription: 'mesle ruze avval duset dāram, mage miše [ādam ešqešo dust nadāšte bāše?]role'
-  - example: 'اصلا مگه می‌شه [ایشون یه روز بیاد دانشگاه و من نرم سر کلاسش؟]role'
-    transcription: 'aslan mage miše [išun ye ruz biyād dānešgāh o man naram sare kelāseš?]role'
-  - example: 'ولی مادر شما اشتباه می‌کنید، مگه می‌شه [شما پارمیدا رو نبینید؟]role اون اینجاست کنار من.'
-    transcription: 'vali mādar šomā eštebāh mikonid, mage miše [šomā pārmidā ro nabinid?]role un injāst kenāre man.'
+  - example: 'همه آدم‌ها خدا رو دوست دارند. مگه می‌شه [کسی دوست نداشته باشه؟]'
+    transcription: 'hameye ādamhā xodā ro dust dārand. mage miše [kasi dust nadāšte bāše?]'
+  - example: 'آخه مگه می‌شه [هیچ وقت افسرده نشی؟]'
+    transcription: 'āxe mage miše [hič vaqt afsorde naši?]'
+  - example: 'مثل روز اول دوست دارم، مگه می‌شه [آدم عشقشو دوست نداشته باشه؟]'
+    transcription: 'mesle ruze avval duset dāram, mage miše [ādam ešqešo dust nadāšte bāše?]'
+  - example: 'اصلا مگه می‌شه [ایشون یه روز بیاد دانشگاه و من نرم سر کلاسش؟]'
+    transcription: 'aslan mage miše [išun ye ruz biyād dānešgāh o man naram sare kelāseš?]'
+  - example: 'ولی مادر شما اشتباه می‌کنید، مگه می‌شه [شما پارمیدا رو نبینید؟] اون اینجاست کنار من.'
+    transcription: 'vali mādar šomā eštebāh mikonid, mage miše [šomā pārmidā ro nabinid?] un injāst kenāre man.'
 morphology:
   - ~
 syntactic_type_of_construction:

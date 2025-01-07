@@ -8,16 +8,16 @@ illustration_transcription: 'be farz ham [begam āre] [kami begzare xodet motava
 cefr_level: 
 definitions:
 examples:
-  - example: 'حالا به فرض هم [دیوار کشیدید و جسم آنها را زندانی کردید.]role [با فکر و عقیده چه می‌کنید.]role'
-    transcription: 'hālā be farz ham [divār kešidid va jesme ānhā rā zendāni kardid.]role [bā fekr va aqide če mikonid?]role'
-  - example: 'به فرض هم [که در راس مسئولیت نباشند]role [اما حضور و وجودشان در کارها همواره محسوس خواهد بود.]role'
-    transcription: 'be farz ham [ke dar rase masuliat nabāšand]role [ammā hozur va vojudešān dar kārhā hamvāre mahsus xāhad bud.]role'
-  - example: 'به فرض هم [یک قدم عقب رفت، یک جا هم پایش لغزید.]role [مراقب خودش است.]role'
-    transcription: 'be farz ham [yek qadam aqab raft, yek jā ham pāyaš laqzid.]role [morāqebe xodāš ast.]role'
-  - example: 'و به فرض هم [کار به جاهای حیثیتی بکشد.]role [کدام حیثیت؟]role'
-    transcription: 'va be farz ham [kār be jāhāye heysiyati bekešad.]role [kodām heysiyat?]role'
-  - example: '[خودش باید کاری بکند.]role حتی به فرض هم [که در قفل باشد.]role'
-    transcription: '[xodaš bāyad kāri bokonad.]role hattā be farz ham [ke dar qofl bāšad.]role'
+  - example: 'حالا به فرض هم [دیوار کشیدید و جسم آنها را زندانی کردید.] [با فکر و عقیده چه می‌کنید.]'
+    transcription: 'hālā be farz ham [divār kešidid va jesme ānhā rā zendāni kardid.] [bā fekr va aqide če mikonid?]'
+  - example: 'به فرض هم [که در راس مسئولیت نباشند] [اما حضور و وجودشان در کارها همواره محسوس خواهد بود.]'
+    transcription: 'be farz ham [ke dar rase masuliat nabāšand] [ammā hozur va vojudešān dar kārhā hamvāre mahsus xāhad bud.]'
+  - example: 'به فرض هم [یک قدم عقب رفت، یک جا هم پایش لغزید.] [مراقب خودش است.]'
+    transcription: 'be farz ham [yek qadam aqab raft, yek jā ham pāyaš laqzid.] [morāqebe xodāš ast.]'
+  - example: 'و به فرض هم [کار به جاهای حیثیتی بکشد.] [کدام حیثیت؟]'
+    transcription: 'va be farz ham [kār be jāhāye heysiyati bekešad.] [kodām heysiyat?]'
+  - example: '[خودش باید کاری بکند.] حتی به فرض هم [که در قفل باشد.]'
+    transcription: '[xodaš bāyad kāri bokonad.] hattā be farz ham [ke dar qofl bāšad.]'
 morphology:
   - ~
 syntactic_type_of_construction:

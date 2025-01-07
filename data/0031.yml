@@ -8,16 +8,16 @@ illustration_transcription: '[pul] az kojā biyāram?'
 cefr_level: 
 definitions:
 examples:
-  - example: 'مگر حساب و کتاب بودجه دستت نیست؟ [بودجه‌اش]role را از کجا بیاوریم؟'
-    transcription: 'magar hesāb o ketāb dastet nist? [budjeaš]role rā az kojā biyāvarim?'
-  - example: '[پول بلیط استخر]role را از کجا می‌آوری؟'
-    transcription: '[pule bilite estaxr]role rā az kojā miyāvari?'
-  - example: 'از کجا [ضامن کارمند]role گیر بیاوریم؟'
-    transcription: 'az kojā [zāmene kārmand]role gir biyāvarim?'
-  - example: 'این فرشته مهربون بیچاره از کجا [کادو]role بیاره؟'
-    transcription: 'in ferešteye mehrabun bičāre az kojā [kādo]role biyāre?'
-  - example: 'وقتی از 10 هزار تومن شده 90 هزار تومن دیگه از کجا [پول]role بیارن؟'
-    transcription: 'vaqti az 10 hezār toman šode 90 hezār toman dige az kojā [pul]role biyāran?'
+  - example: 'مگر حساب و کتاب بودجه دستت نیست؟ [بودجه‌اش] را از کجا بیاوریم؟'
+    transcription: 'magar hesāb o ketāb dastet nist? [budjeaš] rā az kojā biyāvarim?'
+  - example: '[پول بلیط استخر] را از کجا می‌آوری؟'
+    transcription: '[pule bilite estaxr] rā az kojā miyāvari?'
+  - example: 'از کجا [ضامن کارمند] گیر بیاوریم؟'
+    transcription: 'az kojā [zāmene kārmand] gir biyāvarim?'
+  - example: 'این فرشته مهربون بیچاره از کجا [کادو] بیاره؟'
+    transcription: 'in ferešteye mehrabun bičāre az kojā [kādo] biyāre?'
+  - example: 'وقتی از 10 هزار تومن شده 90 هزار تومن دیگه از کجا [پول] بیارن؟'
+    transcription: 'vaqti az 10 hezār toman šode 90 hezār toman dige az kojā [pul] biyāran?'
 morphology:
   - ~
 syntactic_type_of_construction:

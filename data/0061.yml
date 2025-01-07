@@ -8,16 +8,16 @@ illustration_transcription: 'bāese xošhāli ast ke [šaxs barāye xodaš tasmi
 cefr_level: 
 definitions:
 examples:
-  - example: 'باعث خوشحالی است که [نسل 3 به تازگی به کشورمان وارد شده.]role'
-    transcription: 'bāese xošhāli ast ke [nasle 3 be tāzegi be kešvaremān vāred šode ast.]role'
-  - example: 'باعث خوشحالی است که [با برادران و خواهران آذری‌ام می‌توانم صحبت کنم.]role'
-    transcription: 'bāese xošhāli ast ke [bā barādarān va xāharāne āzariam mitavānam sohbat konam.]role'
-  - example: 'در همین وبلاگ مطالبی منتشر نمودم و باعث خوشحالی است که [توجه خوانندگان وبلاگ را به خود جلب نموده.]role'
-    transcription: 'dar hamin veblāg matālebi montašer nemudam va bāese xošhāli ast ke [tavajohe xānandegāne veblāg rā be xod jalb nemude.]role'
-  - example: 'واقعا باعث خوشحالی است که [یک بار دیگر به سینماها بازگشته‌اید.]role'
-    transcription: 'vāqan bāese xošhāli ast ke [yek bare digar be sinamāhā bāzgašteid.]role'
-  - example: 'باعث خوشحالی است که [بازیکنان محبوب خود را شاگرد مکتب ناصر حجازی بدانند.]role'
-    transcription: 'bāese xošhāli ast ke [bāzikonāne mahbub xod rā šāgerde maktabe nāsere hejāzi bedānand.]role'
+  - example: 'باعث خوشحالی است که [نسل 3 به تازگی به کشورمان وارد شده.]'
+    transcription: 'bāese xošhāli ast ke [nasle 3 be tāzegi be kešvaremān vāred šode ast.]'
+  - example: 'باعث خوشحالی است که [با برادران و خواهران آذری‌ام می‌توانم صحبت کنم.]'
+    transcription: 'bāese xošhāli ast ke [bā barādarān va xāharāne āzariam mitavānam sohbat konam.]'
+  - example: 'در همین وبلاگ مطالبی منتشر نمودم و باعث خوشحالی است که [توجه خوانندگان وبلاگ را به خود جلب نموده.]'
+    transcription: 'dar hamin veblāg matālebi montašer nemudam va bāese xošhāli ast ke [tavajohe xānandegāne veblāg rā be xod jalb nemude.]'
+  - example: 'واقعا باعث خوشحالی است که [یک بار دیگر به سینماها بازگشته‌اید.]'
+    transcription: 'vāqan bāese xošhāli ast ke [yek bare digar be sinamāhā bāzgašteid.]'
+  - example: 'باعث خوشحالی است که [بازیکنان محبوب خود را شاگرد مکتب ناصر حجازی بدانند.]'
+    transcription: 'bāese xošhāli ast ke [bāzikonāne mahbub xod rā šāgerde maktabe nāsere hejāzi bedānand.]'
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -8,16 +8,16 @@ illustration_transcription: 'man tanhā [darsi] ke [xeyli qaviam] [riāziye.]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'در واکنش تنها [کاری]ROLE که [می‌کنیم] ROLE[این است که می‌نشینیم می‌ایستیم یا می‌خوابیم.] ROLE'
-    transcription: 'dar vākoneš tanhā [kāri]ROLE ke [mikonim]ROLE [in ast ke minešinim miistim yā mixābim.]ROLE'
-  - example: 'سقراط از او پرسید در آن وضعیت تنها [چیزی]ROLE که [می‌خواستی]ROLE [چه بود؟]ROLE'
-    transcription: 'soqrāt az u porsid dar ān vaziyat tanhā [čizi]ROLE ke [mixāsti]ROLE [če bud?]ROLE'
+  - example: 'در واکنش تنها [کاری] که [می‌کنیم] ROLE[این است که می‌نشینیم می‌ایستیم یا می‌خوابیم.] ROLE'
+    transcription: 'dar vākoneš tanhā [kāri] ke [mikonim] [in ast ke minešinim miistim yā mixābim.]'
+  - example: 'سقراط از او پرسید در آن وضعیت تنها [چیزی] که [می‌خواستی] [چه بود؟]'
+    transcription: 'soqrāt az u porsid dar ān vaziyat tanhā [čizi] ke [mixāsti] [če bud?]'
   - example: 'آیا میدانستید که تنها [غذایی] که [خراب نمی‌شود] [عسل است؟]'
-    transcription: 'āyā midānestid ke tanhā [qazāyi]ROLE ke [xarāb nemišvad]ROLE [asal asat?]ROLE'
-  - example: 'بدون توجه به تعداد کارکنان ارتش آمریکا تنها [سوالی]ROLE که [واشنگتن به آن توجه می‌کند]ROLE [این است که این سربازان را کجا بفرستد.]ROLE'
-    transcription: 'bedune tavajoh be tedāde kārkonāne arteše āmrikā tanhā [soāli]ROLE ke [vāšangton be ān tavajoh mikonad]ROLE [in ast ke in sarbāzān rā kojā beferestad.]ROLE'
-  - example: 'تنها [تسلی دهنده]ROLE تنها [امیدی]ROLE که [باقی مانده بود]ROLE [این بود که ادوارد را به زودی می‌دیدم.]ROLE'
-    transcription: 'tanhā [tasali dahande]ROLE tanhā [omidi]ROLE ke [bāqi mimānd]ROLE [in bud ke edvārd rā be zudi mididam.]ROLE'
+    transcription: 'āyā midānestid ke tanhā [qazāyi] ke [xarāb nemišvad] [asal asat?]'
+  - example: 'بدون توجه به تعداد کارکنان ارتش آمریکا تنها [سوالی] که [واشنگتن به آن توجه می‌کند] [این است که این سربازان را کجا بفرستد.]'
+    transcription: 'bedune tavajoh be tedāde kārkonāne arteše āmrikā tanhā [soāli] ke [vāšangton be ān tavajoh mikonad] [in ast ke in sarbāzān rā kojā beferestad.]'
+  - example: 'تنها [تسلی دهنده] تنها [امیدی] که [باقی مانده بود] [این بود که ادوارد را به زودی می‌دیدم.]'
+    transcription: 'tanhā [tasali dahande] tanhā [omidi] ke [bāqi mimānd] [in bud ke edvārd rā be zudi mididam.]'
 morphology:
   - ~
 syntactic_type_of_construction:

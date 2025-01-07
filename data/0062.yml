@@ -1,23 +1,23 @@
 ---
 record: 62
-name: 'کیه که [SBJV-CL؟]'
-name_transcription: 'kiye ke [SBJV-CL?]'
+name: 'کیه که [SBJV-CL]؟'
+name_transcription: 'kiye ke [SBJV-CL]?'
 name_translation: 'Who would do CL? (No one would)'
 illustration: 'اونم داشت حرف میزد و کیه که [گوش کنه اول صبح؟]'
 illustration_transcription: 'unam dāšt harf mizad o kiye ke [guš kone avale sobh?]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'باور این راه بلند کلید پروازه تا اوجه. کیه که [نخواد بپره و تا اوج آسمونا بره؟]role'
-    transcription: 'bāvare in rāhe boland kelide parvāz tā oje. kiye ke [naxād beppare o tā oje āsemunā bere?]role'
-  - example: 'گفت: خب بله! کیه که [دوست نداشته باشه با یه خانوم زیبا همراه بشه؟]role'
-    transcription: 'goft: xob bale! kiye ke [dust nadāšte bāše bā ye xānume ziba hamrāh beše?]role'
-  - example: 'اینارو همیشه گفتم و تکرار کردم و خودمو خسته کردم اما کیه که [جدی بگیره؟]role'
-    transcription: 'inā ro hamiāe goftamo tekrār kardam o xodamo xaste kardam ammā kiye ke [jeddi begire?]role'
-  - example: 'بجز خدا کیه که [گناها رو ببخشه؟]role'
-    transcription: 'bejoz xodā kiye ke [gonāhā ro bebaxše?]role'
-  - example: 'کیه که [اشتباه نکرده باشه؟]role'
-    transcription: 'kiye ke [eštebāh nakarde bāše?]role'
+  - example: 'باور این راه بلند کلید پروازه تا اوجه. کیه که [نخواد بپره و تا اوج آسمونا بره؟]'
+    transcription: 'bāvare in rāhe boland kelide parvāz tā oje. kiye ke [naxād beppare o tā oje āsemunā bere?]'
+  - example: 'گفت: خب بله! کیه که [دوست نداشته باشه با یه خانوم زیبا همراه بشه؟]'
+    transcription: 'goft: xob bale! kiye ke [dust nadāšte bāše bā ye xānume ziba hamrāh beše?]'
+  - example: 'اینارو همیشه گفتم و تکرار کردم و خودمو خسته کردم اما کیه که [جدی بگیره؟]'
+    transcription: 'inā ro hamiāe goftamo tekrār kardam o xodamo xaste kardam ammā kiye ke [jeddi begire?]'
+  - example: 'بجز خدا کیه که [گناها رو ببخشه؟]'
+    transcription: 'bejoz xodā kiye ke [gonāhā ro bebaxše?]'
+  - example: 'کیه که [اشتباه نکرده باشه؟]'
+    transcription: 'kiye ke [eštebāh nakarde bāše?]'
 morphology:
   - ~
 syntactic_type_of_construction:

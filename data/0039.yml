@@ -8,16 +8,16 @@ illustration_transcription: 'esme in filmo či mizārid? xošhāl mišam [javāb
 cefr_level: 
 definitions:
 examples:
-  - example: 'اگه جوابشو بدونم خوشحال می‌شم [بتونم کمکتون کنم.]role'
-    transcription: 'age javābešo bedunam xošhāl mišam [betunam komaketun konam.]role'
-  - example: '[اگه نظری یا حتی انتقادی از کارام هست حتما بگید]role خوشحال میشم.'
-    transcription: '[age nazari yā hattā enteqādi az kārām hast hatman begid]role xošhāl mišam.'
-  - example: 'خیلی خوشحال میشم اگه [نقایصم رو بدونم تا تو اثار بعدی رفعشون کنم.]role'
-    transcription: 'xeyli xošhāl mišam age [naqāyesam ro bedunam tā tu āsāre badi rafešun konam.]role'
-  - example: 'سعی کرده‌ام با او تماس بگیرم و بگویم خوشحال می‌شوم اگر [با او صحبت کنم.]role'
-    transcription: 'say kardeam bā u tamās begiram va beguyam xošhāl mišavam agar [bā u sohbat konam.]role'
-  - example: 'خوشحال می‌شوم اگر [به وبلاگ من هم سر بزنید.]role'
-    transcription: 'xošhāl mišavam agar [be veblāge man ham sar bezanid.]role'
+  - example: 'اگه جوابشو بدونم خوشحال می‌شم [بتونم کمکتون کنم.]'
+    transcription: 'age javābešo bedunam xošhāl mišam [betunam komaketun konam.]'
+  - example: '[اگه نظری یا حتی انتقادی از کارام هست حتما بگید] خوشحال میشم.'
+    transcription: '[age nazari yā hattā enteqādi az kārām hast hatman begid] xošhāl mišam.'
+  - example: 'خیلی خوشحال میشم اگه [نقایصم رو بدونم تا تو اثار بعدی رفعشون کنم.]'
+    transcription: 'xeyli xošhāl mišam age [naqāyesam ro bedunam tā tu āsāre badi rafešun konam.]'
+  - example: 'سعی کرده‌ام با او تماس بگیرم و بگویم خوشحال می‌شوم اگر [با او صحبت کنم.]'
+    transcription: 'say kardeam bā u tamās begiram va beguyam xošhāl mišavam agar [bā u sohbat konam.]'
+  - example: 'خوشحال می‌شوم اگر [به وبلاگ من هم سر بزنید.]'
+    transcription: 'xošhāl mišavam agar [be veblāge man ham sar bezanid.]'
 morphology:
   - ~
 syntactic_type_of_construction:

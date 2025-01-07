@@ -8,16 +8,16 @@ illustration_transcription: 'yeki nist behem bege [āxe zire duš ham jāye esem
 cefr_level: 
 definitions:
 examples:
-  - example: 'یکی نیست بگوید [بچه نانت کم بود آبت کم بود کلاس تست و آزمون رفتنت چه بود؟]role'
-    transcription: 'yeki nist beguyad [bače nānat kam bud ābat kam bud kelāse test o āzmun raftanat če bud?]role'
-  - example: 'یکی نیست بگه بابام جان [بیکار بودی خودتو انداختی دردسر؟]role'
-    transcription: 'yeki nist bege bābām jān [bikār budi xodeto andāxti dardesar?]role'
-  - example: 'آخه یکی نیست بگه [بابا جان تیر برق جاش وسط خیابونه؟]role'
-    transcription: 'āxe yeki nist bege [bābā jān tire barq jāš vasate xiyābune?]role'
-  - example: 'یکی نیست بهش بگه [آخه تو که بابات مایه‌دار نیست، چرا الکی خودت رو به زحمت انداختی و درس خوندی؟]role'
-    transcription: 'yeki nist beheš bege [āxe to ke bābāt māyedār nist, čerā alaki xodet ro be zahmat andāxti o dars xundi?]role'
-  - example: 'یکی نیست بگه [اگه این جاسوس بود چرا آزادش کردین؟]role'
-    transcription: 'yeki nist bege [age in jāsus bud čerā āzādeš kardin?]role'
+  - example: 'یکی نیست بگوید [بچه نانت کم بود آبت کم بود کلاس تست و آزمون رفتنت چه بود؟]'
+    transcription: 'yeki nist beguyad [bače nānat kam bud ābat kam bud kelāse test o āzmun raftanat če bud?]'
+  - example: 'یکی نیست بگه بابام جان [بیکار بودی خودتو انداختی دردسر؟]'
+    transcription: 'yeki nist bege bābām jān [bikār budi xodeto andāxti dardesar?]'
+  - example: 'آخه یکی نیست بگه [بابا جان تیر برق جاش وسط خیابونه؟]'
+    transcription: 'āxe yeki nist bege [bābā jān tire barq jāš vasate xiyābune?]'
+  - example: 'یکی نیست بهش بگه [آخه تو که بابات مایه‌دار نیست، چرا الکی خودت رو به زحمت انداختی و درس خوندی؟]'
+    transcription: 'yeki nist beheš bege [āxe to ke bābāt māyedār nist, čerā alaki xodet ro be zahmat andāxti o dars xundi?]'
+  - example: 'یکی نیست بگه [اگه این جاسوس بود چرا آزادش کردین؟]'
+    transcription: 'yeki nist bege [age in jāsus bud čerā āzādeš kardin?]'
 morphology:
   - ~
 syntactic_type_of_construction:

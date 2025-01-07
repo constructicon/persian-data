@@ -8,16 +8,16 @@ illustration_transcription: 'to key didi [man tuye māšin harf bezanam?]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'شما کی دیدی [من آرزوی مرگ مخالف عقیده‌ام رو بکنم؟]role'
-    transcription: 'šomā key didi [man ārezuye marge moxālefe aqidam ro bokonam?]role'
-  - example: 'تو این 4 سالی که ما با هم همکلاس بودیم کی دیدی [درمورد شخصیت آدما قضاوت کنم؟]role'
-    transcription: 'tu in čāhār sāli ke mā bā ham hamkelās budim key didi [dar morede šaxsiyate ādamā qezāvat konam?]role'
-  - example: 'باز داری در مورد خانوم‌ها دروغ می‌نویسی؟! کی دیدی [من با ملاقه بزنم تو سر بابات؟]role'
-    transcription: 'bāz dāri dar morede xānumhā duruq minevisi?! key didi [man bā malāqe bezanam tu sare bābāt?]role'
-  - example: 'آخه خنگ خدا کی دیدی [من دفتر ریاضی داشته باشم تو‌ این همه سال؟]role'
-    transcription: 'āxe xenge xodā key didi [man daftare riāzi dāšte bāšam tu in hame sāl?]role'
-  - example: 'آخر بابا جان! کی دیدی [پدرت توی یک وعده دو نوع غذا بخورد؟]role'
-    transcription: 'āxar bābā jān! key didi [pedaret tuye yek vade do no qazā boxorad?]role'
+  - example: 'شما کی دیدی [من آرزوی مرگ مخالف عقیده‌ام رو بکنم؟]'
+    transcription: 'šomā key didi [man ārezuye marge moxālefe aqidam ro bokonam?]'
+  - example: 'تو این 4 سالی که ما با هم همکلاس بودیم کی دیدی [درمورد شخصیت آدما قضاوت کنم؟]'
+    transcription: 'tu in čāhār sāli ke mā bā ham hamkelās budim key didi [dar morede šaxsiyate ādamā qezāvat konam?]'
+  - example: 'باز داری در مورد خانوم‌ها دروغ می‌نویسی؟! کی دیدی [من با ملاقه بزنم تو سر بابات؟]'
+    transcription: 'bāz dāri dar morede xānumhā duruq minevisi?! key didi [man bā malāqe bezanam tu sare bābāt?]'
+  - example: 'آخه خنگ خدا کی دیدی [من دفتر ریاضی داشته باشم تو‌ این همه سال؟]'
+    transcription: 'āxe xenge xodā key didi [man daftare riāzi dāšte bāšam tu in hame sāl?]'
+  - example: 'آخر بابا جان! کی دیدی [پدرت توی یک وعده دو نوع غذا بخورد؟]'
+    transcription: 'āxar bābā jān! key didi [pedaret tuye yek vade do no qazā boxorad?]'
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -8,16 +8,16 @@ illustration_transcription: 'doruq čerā? [telefonemun qat šode bud.]'
 cefr_level: 
 definitions:
 examples:
-  - example: 'راستش دروغ چرا؟ [بچه خودمه، اما هنوز ازدواج نکردم.]role'
-    transcription: 'rāsteš doruq čerā? [bačeye xodame, ammā hanuz ezdevāj nakardam.]role'
-  - example: '[فکر می‌کردم همه زندگی یعنی درس خواندن]role دروغ چرا؟'
-    transcription: '[fekr mikardam hameye zendegi yani dars xāndan]role doruq čerā?'
-  - example: 'هر چند که، دروغ چرا؟ [کلی هم خوشحال هستم و راضی.]role'
-    transcription: 'har čand ke, doruq čerā? [kolli ham xošhāl hastam o rāzi.]role'
-  - example: 'همه داشتن درباره مراسم فردا حرف میزدن. دروغ چرا؟ [یکم استرس داشتم.]role'
-    transcription: 'hame dāštan darbāreye marāseme fardā harf mizadan. doruq čerā? [yekam esteres dāštam.]role'
-  - example: 'هنوز نخوابیدم. دروغ چرا؟ [می‌ترسم کنار این زندانی‌ها بخوابم.]role'
-    transcription: 'hanuz naxābidam. doruq čerā? [mitarsam kenāre in zendānihā bexābam.]role'
+  - example: 'راستش دروغ چرا؟ [بچه خودمه، اما هنوز ازدواج نکردم.]'
+    transcription: 'rāsteš doruq čerā? [bačeye xodame, ammā hanuz ezdevāj nakardam.]'
+  - example: '[فکر می‌کردم همه زندگی یعنی درس خواندن] دروغ چرا؟'
+    transcription: '[fekr mikardam hameye zendegi yani dars xāndan] doruq čerā?'
+  - example: 'هر چند که، دروغ چرا؟ [کلی هم خوشحال هستم و راضی.]'
+    transcription: 'har čand ke, doruq čerā? [kolli ham xošhāl hastam o rāzi.]'
+  - example: 'همه داشتن درباره مراسم فردا حرف میزدن. دروغ چرا؟ [یکم استرس داشتم.]'
+    transcription: 'hame dāštan darbāreye marāseme fardā harf mizadan. doruq čerā? [yekam esteres dāštam.]'
+  - example: 'هنوز نخوابیدم. دروغ چرا؟ [می‌ترسم کنار این زندانی‌ها بخوابم.]'
+    transcription: 'hanuz naxābidam. doruq čerā? [mitarsam kenāre in zendānihā bexābam.]'
 morphology:
   - ~
 syntactic_type_of_construction:

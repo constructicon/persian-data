@@ -8,16 +8,16 @@ illustration_transcription: '[xar] kojāš [fohše]?'
 cefr_level: 
 definitions:
 examples:
-  - example: '[اون مدل بیچاره]role کجاش [شبیه منه؟]role'
-    transcription: '[un modele bičāre]role kojāš [šabihe mane?]role'
-  - example: '[خیار]role کجاش [شیرین و آبداره؟]role'
-    transcription: '[xiār]role kojāš [širin o ābdāre?]role'
-  - example: '[این]role کجاش [شبیه میمونه؟]role'
-    transcription: '[in]role kojāš [šabihe meymune?]role'
-  - example: 'شما بگید [این]role کجاش [توهین به هنره؟]role'
-    transcription: 'šomā begid [in]role kojāš [tohin be honare?]role'
-  - example: '[این خبر]role کجاش [خوش بود؟]role'
-    transcription: '[in xabar]role kojāš [xoš bud?]role'
+  - example: '[اون مدل بیچاره] کجاش [شبیه منه؟]'
+    transcription: '[un modele bičāre] kojāš [šabihe mane?]'
+  - example: '[خیار] کجاش [شیرین و آبداره؟]'
+    transcription: '[xiār] kojāš [širin o ābdāre?]'
+  - example: '[این] کجاش [شبیه میمونه؟]'
+    transcription: '[in] kojāš [šabihe meymune?]'
+  - example: 'شما بگید [این] کجاش [توهین به هنره؟]'
+    transcription: 'šomā begid [in] kojāš [tohin be honare?]'
+  - example: '[این خبر] کجاش [خوش بود؟]'
+    transcription: '[in xabar] kojāš [xoš bud?]'
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -8,16 +8,16 @@ illustration_transcription: 'nist [xeyli behem zang mizanan vāse hamin nemiše 
 cefr_level: 
 definitions:
 examples:
-  - example: 'آخه نیست که [همه مشکل دارند،]role می‌خواهند از شیطان که در این شبکه‌هاست درس بگیرند.'
-    transcription: 'āxe nist ke [hame moškel dārand,]role mixāhand az šeytān ke dar in šabakehāst dars begirand.'
-  - example: 'تو چرا دوست دخترت رو نیاوردی؟ نیست [خیلی خونواده ریلکسی داریم!]role'
-    transcription: 'to čerā dust doxtaret ro nayāvordi? nist [xeyli xunevādeye rilaksi dārim!]role'
-  - example: 'اینجا کاندید‌ها به مراسم عروسی و عزا هم تشریف می‌برند! نیست [خیلی مردمی‌اند]role می‌خوان با ملت در غم‌ها و شادی هاشون شریک بشن.'
-    transcription: 'injā kāndidhā be marāseme arusi va azā ham tašrif mibarand! nist [xeyli mardomiand]role mixān bā mellat dar qamhā va šādihāšun šarik šan.'
-  - example: 'یاد جمعه سیاه افتادم! نیست [خیلی سیاه بود!]role همرنگ پیشونی من بود.'
-    transcription: 'yāde jomeye siyāh oftādam! nist [xeyli siyāh bud!]role hamrange pišunie man bud.'
-  - example: 'برای مخاطبات می‌نویسی؟ نیست [خیلی مخاطب داری!]role برای چی داری ادامه می‌دی؟'
-    transcription: 'barāye moxātabāt minevis? nist [xeyli moxātab dāri!]role barāye či dāri edāme midi?'
+  - example: 'آخه نیست که [همه مشکل دارند،] می‌خواهند از شیطان که در این شبکه‌هاست درس بگیرند.'
+    transcription: 'āxe nist ke [hame moškel dārand,] mixāhand az šeytān ke dar in šabakehāst dars begirand.'
+  - example: 'تو چرا دوست دخترت رو نیاوردی؟ نیست [خیلی خونواده ریلکسی داریم!]'
+    transcription: 'to čerā dust doxtaret ro nayāvordi? nist [xeyli xunevādeye rilaksi dārim!]'
+  - example: 'اینجا کاندید‌ها به مراسم عروسی و عزا هم تشریف می‌برند! نیست [خیلی مردمی‌اند] می‌خوان با ملت در غم‌ها و شادی هاشون شریک بشن.'
+    transcription: 'injā kāndidhā be marāseme arusi va azā ham tašrif mibarand! nist [xeyli mardomiand] mixān bā mellat dar qamhā va šādihāšun šarik šan.'
+  - example: 'یاد جمعه سیاه افتادم! نیست [خیلی سیاه بود!] همرنگ پیشونی من بود.'
+    transcription: 'yāde jomeye siyāh oftādam! nist [xeyli siyāh bud!] hamrange pišunie man bud.'
+  - example: 'برای مخاطبات می‌نویسی؟ نیست [خیلی مخاطب داری!] برای چی داری ادامه می‌دی؟'
+    transcription: 'barāye moxātabāt minevis? nist [xeyli moxātab dāri!] barāye či dāri edāme midi?'
 morphology:
   - ~
 syntactic_type_of_construction:

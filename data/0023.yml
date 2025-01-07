@@ -8,16 +8,16 @@ illustration_transcription: '[kami xoš bāšim] hattā agar šode [be zur!]'
 cefr_level: 
 definitions:
 examples:
-  - example: '[بیا]role حتی اگر شده [چون مرگ ارام و پاورچین پاورچین.]role'
-    transcription: '[biā]role hattā agar šode [čon marg ārām o pāvarčin pāvarčin.]role'
-  - example: '[صدایش کن]role حتی اگر شده [به نام هیچ.]role'
-    transcription: '[sedāyaš kon]role hattā agar šode [be nāme hič.]role'
-  - example: '[یه عده هستن که]role اگه شده [باید براشون اژانس هم بگیری]role که [سریعتر از زندگیت گم شن بیرون.]role'
-    transcription: '[ye edde hastan ke]role age šode [bāyad barāšun āžāns ham begiri]role ke [saritar az zendegit gom šan birun.]role'
-  - example: '[اصلا عجله نکنید]role و حتی اگه شده [تا ساعت‌ها بهش فرصت بدید.]role'
-    transcription: '[aslan ajale nakonid]role va hattā age šode [tā sāathā beheš forsat bedid.]role'
-  - example: 'حتی اگه شده [تا صبح هم بیدار بشینم]role [باید تمام حرفامو امشب بنویسم.]role'
-    transcription: 'hattā age šode [tā sobh ham bdār bešinam]role [bāyad tamāme harfāmo emšab benevisam.]role'
+  - example: '[بیا] حتی اگر شده [چون مرگ ارام و پاورچین پاورچین.]'
+    transcription: '[biā] hattā agar šode [čon marg ārām o pāvarčin pāvarčin.]'
+  - example: '[صدایش کن] حتی اگر شده [به نام هیچ.]'
+    transcription: '[sedāyaš kon] hattā agar šode [be nāme hič.]'
+  - example: '[یه عده هستن که] اگه شده [باید براشون اژانس هم بگیری] که [سریعتر از زندگیت گم شن بیرون.]'
+    transcription: '[ye edde hastan ke] age šode [bāyad barāšun āžāns ham begiri] ke [saritar az zendegit gom šan birun.]'
+  - example: '[اصلا عجله نکنید] و حتی اگه شده [تا ساعت‌ها بهش فرصت بدید.]'
+    transcription: '[aslan ajale nakonid] va hattā age šode [tā sāathā beheš forsat bedid.]'
+  - example: 'حتی اگه شده [تا صبح هم بیدار بشینم] [باید تمام حرفامو امشب بنویسم.]'
+    transcription: 'hattā age šode [tā sobh ham bdār bešinam] [bāyad tamāme harfāmo emšab benevisam.]'
 morphology:
   - ~
 syntactic_type_of_construction:
