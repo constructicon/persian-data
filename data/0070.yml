@@ -1,0 +1,45 @@
+---
+record: 70
+name: 'کدوم/کدام [NP][VP]؟'
+name_transcription: 'kodum/kodām [NP][VP]?'
+name_translation: 'What kind of NP does VP?'
+illustration: 'کدوم [آدم عاقلی] [این کارو می‌کنه؟]'
+illustration_transcription: 'kodum [ādame āqeli][in kāro mikone?]'
+cefr_level: 
+definitions:
+examples:
+  - example: 'وجدانا کدوم [خری] [وسط هفته برای خرید میره بیرون که ملت قهرمان ایران هم برن؟]'
+    transcription: 'vojdānan kodum [xari][vasate hafte barāye xaride mire birun ke mellate qahremāne irān ham beran?]'
+  - example: 'کدوم [آدمی] [این قدر وارسته است که تقصیر دانش‌آموز رو از خودش بدونه و از دانش‌آموز حلالیت بخواد؟]'
+    transcription: 'kodum [ādami][in qadr vāraste ast ke taqsire dānešāmuz ro az xodeš bedune va az dānešāmuz halāliat bexād?]'
+  - example: 'کدوم [زنی] [شوهرشو میزنه اونم تو خیابون؟]'
+    transcription: 'kodum [zani][šoharešo mizane unam tu xiābun?]'
+  - example: 'امروز جمعه است نگین. کدوم [مردی] [جمعه‌ها پیش زن و بچش نیست؟]'
+    transcription: 'emruz jomast negin. kodum [mardi][jomehā piše zan o bačaš nist?]'
+  - example: 'مثلا همین حرف زدنم! آخه کدوم [دختری] [مثل من حرف میزنه؟]'
+    transcription: 'masalan hamin harf zadanam! āxe kodum [doxtari][mesle man harf mizane?]'
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+  - Persian: |
+      'تکیه بر ابتدای اولین واژه گروه اسمی'
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
