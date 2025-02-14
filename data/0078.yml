@@ -2,7 +2,7 @@
 record: 78
 name: 'کی می‌شه/بشه [CL]'
 name_transcription: 'key miše/beše [CL]'
-name_translation: 'I'm waiting for the day that, Is it gonna happen?'
+name_translation: 'I am waiting for the day that, Is it gonna happen?'
 illustration: 'خدا کی می‌شه [از این همه درس راحت بشم؟]'
 illustration_transcription: 'xodā key miše [az in hame dars rāhat bešam?]'
 cefr_level: 
@@ -11,11 +11,11 @@ examples:
   - example: 'کی می‌شه [این درس من تموم شه تا بیام باهات ازدواج کنم؟]'
     transcription: 'key miše [in dares man tamum še tā biām bāhāt ezdevāj konam?]'
   - example: 'خستگی و کم خوابی و روز بعدشم باز دانشگاه. کی می‌شه [جمعه من یه کم بخوابم!]'
-    transcription: 'xastegi o kam xābi o ruze ba’dešam bāz dānešgāh. key miše [jom’e man ye kam bexābam!]'
+    transcription: 'xastegi o kam xābi o ruze badešam bāz dānešgāh. key miše [jome man ye kam bexābam!]'
   - example: 'کی بشه [بیای تهران و منم کادومو بهت بدم!]'
     transcription: 'key beše [biāy tehrān o manam kādomo behet bedam!]'
   - example: 'با خودشون میگن که کی بشه [این کنکور لعنتی هم تموم بشه و از شرش خلاص شیم!]'
-    transcription: 'bā xodešun migan ke key beše [in konkure la’nati ham tamum beše o az šarreš xalās šim!]'
+    transcription: 'bā xodešun migan ke key beše [in konkure lanati ham tamum beše o az šarreš xalās šim!]'
   - example: 'کلی حسرت اینو می‌خوردیم که کی بشه [که کتاب فارسیمون پنج تا گل داشته باشه!]'
     transcription: 'kolli hasrate ino mixordim ke key beše [ke ketābe fārsimun panj ta gol dāšte bāše!]'
 morphology:

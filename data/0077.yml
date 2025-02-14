@@ -17,7 +17,7 @@ examples:
   - example: '[حالا می‌ری سراغ یکی بهتر از من که قشنگ‌تر باشه] آره؟'
     transcription: '[hālā miri sorāqe yeki behtar az man ke qašangtar bāše] āre?'
   - example: 'یهو داد زد [تویه بچه به من گفتی بیشعور] آره؟'
-    transcription: 'yeho dād zad [toye bače be man gofti bišo’ur] āre?'
+    transcription: 'yeho dād zad [toye bače be man gofti bišour] āre?'
 morphology:
   - ~
 syntactic_type_of_construction:
