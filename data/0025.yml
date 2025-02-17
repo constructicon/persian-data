@@ -1,23 +1,23 @@
 ---
 record: 25
-name: 'XP برازنده NP NEG-COP'
-name_transcription: 'XP barāzandeye NP NEG-COP'
-name_translation: 'More is expected than XP/ XP does not suit NP'
-illustration: '[این حرکت] اصلا برازنده [شما] نیست.'
-illustration_transcription: '[in harekat] aslan barāzandeye [šomā] nist.'
+name: "XP برازنده NP NEG-COP"
+name_transcription: "XP barāzandeye NP NEG-COP"
+name_translation: "More is expected than XP/ XP does not suit NP"
+illustration: "[این حرکت] اصلا برازنده [شما] نیست."
+illustration_transcription: "[in harekat] aslan barāzandeye [šomā] nist."
 cefr_level: 
 definitions:
 examples:
-  - example: '[جایگاه هفدهم در لیگ برتر] برازنده [این باشگاه مردمی] نیست.'
-    transcription: '[jāygāhe hevdahom dar lige bartar] barāzandeye [in bāšgāhe mardomi] nist.'
-  - example: '[چاپ مقالات ایرانی در نشریات نامعتبر] برازنده [کشور] نیست.'
-    transcription: '[čāppe maqālāte irāni dar našriāte nāmotabar] barāzandeye [kešvar] nist.'
-  - example: '[این ادبیات] برازنده [جایگاه ریاست جمهوری] نبود.'
-    transcription: '[in adabiāt] barāzandeye [jāygāhe riāsat jomhuri] nabud.'
-  - example: 'این کار در‌ شان تو نیست [این سخن] برازنده [تو] نیست.'
-    transcription: 'in kār dar šane to nist [in soxan] barāzandeye [to] nist.'
-  - example: 'من فکر می‌کنم [اشتباه را با اشتباهی دیگر تلافی نمودن] برازنده [انسان متمدن عصر فرهنگ و تمدن امروزی] نیست.'
-    transcription: 'man fekr mikonam [eštebāh rā bā eštebāhi digar talāfi nemudan] barāzandeye [ensāne motamaddene asre farhang va tamaddone emruzi] nist.'
+  - example: "[جایگاه هفدهم در لیگ برتر]role برازنده [این باشگاه مردمی]role نیست."
+    transcription: "[jāygāhe hevdahom dar lige bartar]role barāzandeye [in bāšgāhe mardomi]role nist."
+  - example: "[چاپ مقالات ایرانی در نشریات نامعتبر]role برازنده [کشور]role نیست."
+    transcription: "[čāppe maqālāte irāni dar našriāte nāmotabar]role barāzandeye [kešvar]role nist."
+  - example: "[این ادبیات]role برازنده [جایگاه ریاست جمهوری]role نبود."
+    transcription: "[in adabiāt]role barāzandeye [jāygāhe riāsat jomhuri]role nabud."
+  - example: "این کار در‌ شان تو نیست [این سخن]role برازنده [تو]role نیست."
+    transcription: "in kār dar šane to nist [in soxan]role barāzandeye [to]role nist."
+  - example: "من فکر می‌کنم [اشتباه را با اشتباهی دیگر تلافی نمودن]role برازنده [انسان متمدن عصر فرهنگ و تمدن امروزی]role نیست."
+    transcription: "man fekr mikonam [eštebāh rā bā eštebāhi digar talāfi nemudan]role barāzandeye [ensāne motamaddene asre farhang va tamaddone emruzi]role nist."
 morphology:
   - ~
 syntactic_type_of_construction:

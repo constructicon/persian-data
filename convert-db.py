@@ -44,14 +44,14 @@ def write_record(row, record):
 
     with open(record_to_filename(record), "w", encoding="utf-8") as f:
         f.write("---\n")
-        f.write(f"record: {record}\n")
-        f.write(f"name: '{row['Name'].strip()}'\n")
-        f.write(f"name_transcription: '{row['Name romanized'].strip()}'\n")
-        f.write(f"name_translation: '{row['English equivalent'].strip()}'\n")
+        f.write(f'record: {record}\n')
+        f.write(f'name: "{row['Name'].strip()}"\n')
+        f.write(f'name_transcription: "{row['Name romanized'].strip()}"\n')
+        f.write(f'name_translation: "{row['English equivalent'].strip()}"\n')
 
         # f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
-        f.write(f"illustration: '{row['Illustration'].strip()}'\n")
-        f.write(f"illustration_transcription: '{row['Illustration romanized'].strip()}'\n")
+        f.write(f'illustration: "{row['Illustration'].strip()}"\n')
+        f.write(f'illustration_transcription: "{row['Illustration romanized'].strip()}"\n')
 
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
@@ -59,14 +59,14 @@ def write_record(row, record):
             entry = row[f"Definition in {language}"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
-                f.write(f"       '{entry}'\n")
+                f.write(f'       "{entry}"\n')
         f.write("examples:\n")
         for column in ["Example 1", "Example 2", "Example 3", "Example 4", "Example 5"]:
             entry = row[column].strip()
             annotation = row[column + ' romanized'].strip()
             if entry != "":
-                f.write(f"  - example: '{entry}'\n")
-                f.write(f"    transcription: '{annotation}'\n")        
+                f.write(f'  - example: "{entry}"\n')
+                f.write(f'    transcription: "{annotation}"\n')        
 
 
         f.write("morphology:\n")

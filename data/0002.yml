@@ -1,27 +1,27 @@
 ---
 record: 2
-name: 'دست به NP زدن'
-name_transcription: 'dast be NP zad-an'
-name_translation: 'Commit NP / Begin doing NP'
-illustration: 'فرد زندانی دست به [خودکشی]زده است.'
-illustration_transcription: 'farde zendāni dast be [xodkoši] zade ast.'
+name: "دست به NP زدن"
+name_transcription: "dast be NP zad-an"
+name_translation: "Commit NP / Begin doing NP"
+illustration: "فرد زندانی دست به [خودکشی]زده است."
+illustration_transcription: "farde zendāni dast be [xodkoši] zade ast."
 cefr_level: 
 definitions:
   - persian: |
-       'ساختی خبری که بیان می‌کند شخص، گروه یا موجودی مشخص، شروع به انجام [فعالیت]Theme خاصی می‌کند. این فعالیت گاهاً ناگهانی و غیرمنتظره است.'
+       "ساختی خبری که بیان می‌کند شخص، گروه یا موجودی مشخص، شروع به انجام [فعالیت]Theme خاصی می‌کند. این فعالیت گاهاً ناگهانی و غیرمنتظره است."
   - english: |
-       'A declarative construction which states that an entity starts doing an [activity]Theme. It is sometimes a sudden action against the expectations.'
+       "A declarative construction which states that an entity starts doing an [activity]Theme. It is sometimes a sudden action against the expectations."
 examples:
-  - example: 'اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند.'
-    transcription: 'osulan ensānhā dar mavāqei ke zarurat ijād konad dast be [kārhāye bozorgi] mizanand.'
-  - example: 'من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان هستم.'
-    transcription: 'man be in xāter dast be faāliate siyāsi zadam ke az xānevādeye qorbāniān hastam.'
-  - example: 'یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد.'
-    transcription: 'yek zan barāye rahāyi az aziat va āzārhāye hamsaraš dast be [qatle u] zad.'
-  - example: 'در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌های فراوانی را به همراه داشت.'
-    transcription: 'dar māhe āvril piyong yāng dast be [anjāme yek āzmāyeše mušaki] zad ke negaranihāye farāvāni rā be hamrāh dāšt.'
-  - example: 'در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند.'
-    transcription: 'dar ruze čahāršanbe panjāh hezār tan dar sāntiāgo pāytaxt, dast be [rāhpeymāyi] zadand.'
+  - example: "اصولاً انسان‌ها در مواقعی که ضرورت ایجاد کند دست به [کارهای بزرگی]Theme می‌زنند."
+    transcription: "osulan ensānhā dar mavāqei ke zarurat ijād konad dast be [kārhāye bozorgi] mizanand."
+  - example: "من به این خاطر دست به [فعالیت سیاسی]Theme زدم که از خانواده قربانیان هستم."
+    transcription: "man be in xāter dast be faāliate siyāsi zadam ke az xānevādeye qorbāniān hastam."
+  - example: "یک زن برای رهایی از اذیت و آزارهای همسرش دست به [قتل او]Theme زد."
+    transcription: "yek zan barāye rahāyi az aziat va āzārhāye hamsaraš dast be [qatle u] zad."
+  - example: "در ماه اوریل پیونگ یانگ دست به [انجام یک ازمایش موشکی]Theme زد که نگرانی‌های فراوانی را به همراه داشت."
+    transcription: "dar māhe āvril piyong yāng dast be [anjāme yek āzmāyeše mušaki] zad ke negaranihāye farāvāni rā be hamrāh dāšt."
+  - example: "در روز چهارشنبه پنجاه هزار تن در سانتیاگو ، پایتخت ، دست به [راهپیمایی]patient زدند."
+    transcription: "dar ruze čahāršanbe panjāh hezār tan dar sāntiāgo pāytaxt, dast be [rāhpeymāyi] zadand."
 morphology:
   - NP
 syntactic_type_of_construction:

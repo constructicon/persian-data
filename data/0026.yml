@@ -1,23 +1,23 @@
 ---
 record: 26
-name: 'می‌شه خواهش کنم CL'
-name_transcription: 'miše xāheš konam CL'
-name_translation: 'May I ask (you) to CL?'
-illustration: 'می‌شه خواهش کنم [با من روراست باشی]؟'
-illustration_transcription: 'miše xāheš konam [bā man rurāst bāši]?'
+name: "می‌شه خواهش کنم CL"
+name_transcription: "miše xāheš konam CL"
+name_translation: "May I ask (you) to CL?"
+illustration: "می‌شه خواهش کنم [با من روراست باشی]؟"
+illustration_transcription: "miše xāheš konam [bā man rurāst bāši]?"
 cefr_level: 
 definitions:
 examples:
-  - example: 'چرا جنبه منفی این قضیه رو نگاه می‌کنی؟ داری اشتباه می‌کنی! می‌شه خواهش کنم [بفرمایید جنبه مثبت قضیه کجاست؟]'
-    transcription: 'čerā janbeye manfie in qaziye ro negāh mikoni? dāri eštebāh mikoni! miše xāheš konam [befarmāid janbeye mosbate qaziye kojāst?]'
-  - example: 'من اینجا هستم. می‌شه خواهش کنم [چند لحظه از وقتتون رو به من بدید؟]'
-    transcription: 'man injā hastam. miše xāheš konam [čand lahze az vaqtetun ro be man bedid?]'
-  - example: 'چرا درس نمیخونی؟ می‌شه خواهش کنم [تو دیگه این سوالو ازم نپرسی؟]'
-    transcription: 'čerā dars nemixuni? miše xāheš konam [to dige in soālo azam naporsi?]'
-  - example: 'می‌شه خواهش کنم [چند لحظه به حرفام گوش بدی؟]'
-    transcription: 'miše xāheš konam [čand lahze be harfām guš bedi?]'
-  - example: 'نمیذاره من از درس چیزی بفهمم. میشه خواهش کنم [جاشو عوض کنین؟]'
-    transcription: 'nemizāre man az dars čizi befahmam. miše xāheš konam [jāšo avaz konin?]'
+  - example: "چرا جنبه منفی این قضیه رو نگاه می‌کنی؟ داری اشتباه می‌کنی! می‌شه خواهش کنم [بفرمایید جنبه مثبت قضیه کجاست؟]role"
+    transcription: "čerā janbeye manfie in qaziye ro negāh mikoni? dāri eštebāh mikoni! miše xāheš konam [befarmāid janbeye mosbate qaziye kojāst?]role"
+  - example: "من اینجا هستم. می‌شه خواهش کنم [چند لحظه از وقتتون رو به من بدید؟]role"
+    transcription: "man injā hastam. miše xāheš konam [čand lahze az vaqtetun ro be man bedid?]role"
+  - example: "چرا درس نمیخونی؟ می‌شه خواهش کنم [تو دیگه این سوالو ازم نپرسی؟]role"
+    transcription: "čerā dars nemixuni? miše xāheš konam [to dige in soālo azam naporsi?]role"
+  - example: "می‌شه خواهش کنم [چند لحظه به حرفام گوش بدی؟]role"
+    transcription: "miše xāheš konam [čand lahze be harfām guš bedi?]role"
+  - example: "نمیذاره من از درس چیزی بفهمم. میشه خواهش کنم [جاشو عوض کنین؟]role"
+    transcription: "nemizāre man az dars čizi befahmam. miše xāheš konam [jāšo avaz konin?]role"
 morphology:
   - ~
 syntactic_type_of_construction:

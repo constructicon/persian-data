@@ -1,23 +1,23 @@
 ---
 record: 29
-name: '(حالا) بماند که CL'
-name_transcription: '(hālā) bemānad ke CL'
-name_translation: 'Do not get me started'
-illustration: 'بماند که [چه سختی‌ها برای خرید خانه کشیدند.]'
-illustration_transcription: 'bemānad ke [če saxtihā barāye xaride xāne kešidand.]'
+name: "(حالا) بماند که CL"
+name_transcription: "(hālā) bemānad ke CL"
+name_translation: "Do not get me started"
+illustration: "بماند که [چه سختی‌ها برای خرید خانه کشیدند.]"
+illustration_transcription: "bemānad ke [če saxtihā barāye xaride xāne kešidand.]"
 cefr_level: 
 definitions:
 examples:
-  - example: 'ولی زندگیشون مال خودشون بود. بماند که [زن جونش رو سر این عشق از دست داد.]'
-    transcription: 'vali zendegišun māle xodešun bud. bemānad ke [zan juneš ro sare in ešq az dast dād.]'
-  - example: 'بحث مسئولین بماند که [کلی جای نقد دارد.]'
-    transcription: 'bahse masulin bemānad ke [kolli jāye naqd dārad.]'
-  - example: 'حالا بماند که [وی در اتاق چه حرف‌هایی زد] که درست نیست آن حرف‌ها را مطرح کنم.'
-    transcription: 'hālā bemānad ke [vey dar otāq če harfhāyi zad.] ke dorost nist ān harfhā rā matrah konam.'
-  - example: 'چشاشونو گرد کردن به من نیگا می‌کنن! بماند که [خودم حالم بدتر بود!]'
-    transcription: 'češāšuno gerd kardan be man nigā mikonan! bemānad ke [xodam hālam badtar bud!]'
-  - example: 'حالا بماند که [مسائل شخصی و پدر کشتگی و این‌ها هم مطرح بوده!]'
-    transcription: 'hālā bemānad ke [masāele šaxsi o pedar koštegi o inhā ham matrah bude!]'
+  - example: "ولی زندگیشون مال خودشون بود. بماند که [زن جونش رو سر این عشق از دست داد.]role"
+    transcription: "vali zendegišun māle xodešun bud. bemānad ke [zan juneš ro sare in ešq az dast dād.]role"
+  - example: "بحث مسئولین بماند که [کلی جای نقد دارد.]role"
+    transcription: "bahse masulin bemānad ke [kolli jāye naqd dārad.]role"
+  - example: "حالا بماند که [وی در اتاق چه حرف‌هایی زد]role که درست نیست آن حرف‌ها را مطرح کنم."
+    transcription: "hālā bemānad ke [vey dar otāq če harfhāyi zad.]role ke dorost nist ān harfhā rā matrah konam."
+  - example: "چشاشونو گرد کردن به من نیگا می‌کنن! بماند که [خودم حالم بدتر بود!]role"
+    transcription: "češāšuno gerd kardan be man nigā mikonan! bemānad ke [xodam hālam badtar bud!]role"
+  - example: "حالا بماند که [مسائل شخصی و پدر کشتگی و این‌ها هم مطرح بوده!]role"
+    transcription: "hālā bemānad ke [masāele šaxsi o pedar koštegi o inhā ham matrah bude!]role"
 morphology:
   - ~
 syntactic_type_of_construction:

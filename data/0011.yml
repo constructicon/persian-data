@@ -1,23 +1,23 @@
 ---
 record: 11
-name: 'نه XP نه XP'
-name_transcription: 'na XP na XP'
-name_translation: 'Neither XP, nor XP'
-illustration: 'نه [امروز] نه [فردا].'
-illustration_transcription: 'na [emruz] na [fardā].'
+name: "نه XP نه XP"
+name_transcription: "na XP na XP"
+name_translation: "Neither XP, nor XP"
+illustration: "نه [امروز] نه [فردا]."
+illustration_transcription: "na [emruz] na [fardā]."
 cefr_level: 
 definitions:
 examples:
-  - example: 'من نه [اسطوره‌ام] نه [میخواهم به اسطوره‌های شما چنگ بیاندزام].'
-    transcription: 'man na [ostuream] na [mixāham be osturehāye šoma čang biyandāzam].'
-  - example: 'دوچرخه اما بهانه بود. پدر نه [روحش] نه [جسمش] هیچوقت در خانه نبود.'
-    transcription: 'dočarxe ammā bahāne bud. pedar na [ruhaš] na [jesmaš] hičvaqt dar xāne nabud.'
-  - example: 'خانومم حق نداره ازم دل بکنه، نه [میتونه] نه [اجازشو داره].'
-    transcription: 'xānomam haq nadāre azam del bekane, na [mitune] na [ejāzašo dāre].'
-  - example: 'بهش میگم دوست داری مامان چاق باشه یا لاغر؟ میگه نه [چاق] نه [لاغر]، معمولی.'
-    transcription: 'beheš migam dust dāri māmān čāq bāše yā lāqar? mige na [čāq] na [lāqar], mamuli.'
-  - example: 'یه حالی دارم این روزا نه [آرومم] نه [آشوبم].'
-    transcription: 'ye hāli dāram in ruzā; na [ārumam] na [āšubam].'
+  - example: "من نه [اسطوره‌ام]Role نه [میخواهم به اسطوره‌های شما چنگ بیاندزام]Role."
+    transcription: "man na [ostuream]Role na [mixāham be osturehāye šoma čang biyandāzam]Role."
+  - example: "دوچرخه اما بهانه بود. پدر نه [روحش]Role نه [جسمش]Role هیچوقت در خانه نبود."
+    transcription: "dočarxe ammā bahāne bud. pedar na [ruhaš]Role na [jesmaš]Role hičvaqt dar xāne nabud."
+  - example: "خانومم حق نداره ازم دل بکنه، نه [میتونه]Role نه [اجازشو داره]Role."
+    transcription: "xānomam haq nadāre azam del bekane, na [mitune]Role na [ejāzašo dāre]Role."
+  - example: "بهش میگم دوست داری مامان چاق باشه یا لاغر؟ میگه نه [چاق]Role نه [لاغر]Role، معمولی."
+    transcription: "beheš migam dust dāri māmān čāq bāše yā lāqar? mige na [čāq]Role na [lāqar]Role, mamuli."
+  - example: "یه حالی دارم این روزا نه [آرومم]Role نه [آشوبم]Role."
+    transcription: "ye hāli dāram in ruzā; na [ārumam]Role na [āšubam]Role."
 morphology:
   - ~
 syntactic_type_of_construction:

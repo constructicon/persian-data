@@ -1,27 +1,27 @@
 ---
 record: 5
-name: 'چرا راه دور رفتن؟ CL'
-name_transcription: 'čerā rāhe dur raftan? CL'
-name_translation: 'Case in point, CL'
-illustration: 'چرا راه دور برویم؟ [همین ایرانِ خودمان].'
-illustration_transcription: 'cherā rāhe dur beravim? [hamin irāne xodemān].'
+name: "چرا راه دور رفتن؟ CL"
+name_transcription: "čerā rāhe dur raftan? CL"
+name_translation: "Case in point, CL"
+illustration: "چرا راه دور برویم؟ [همین ایرانِ خودمان]."
+illustration_transcription: "cherā rāhe dur beravim? [hamin irāne xodemān]."
 cefr_level: 
 definitions:
   - persian: |
-       'این ساخت سوالی زمانی استفاده می‌شود که گوینده قصد ارائه شاهد یا مثالی ملموس و آشنا در جهت تکمیل گفته پیشین خود دارد. عبارتی که پس از این سوال مطرح می‌شود همان شاهد یا مثال است.'
+       "این ساخت سوالی زمانی استفاده می‌شود که گوینده قصد ارائه شاهد یا مثالی ملموس و آشنا در جهت تکمیل گفته پیشین خود دارد. عبارتی که پس از این سوال مطرح می‌شود همان شاهد یا مثال است."
   - english: |
-       'This interrogative construction is a way to give a tangible and familiar piece of evidence or an example for what has already been said. What comes after the question will be the example or evidence intended.'
+       "This interrogative construction is a way to give a tangible and familiar piece of evidence or an example for what has already been said. What comes after the question will be the example or evidence intended."
 examples:
-  - example: 'یا اصلاً چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام]Theme.'
-    transcription: 'yā aslan čerā rāhe dur beravim? [hamin sāle gozašte va ejrāye foqolādeye kolbeye amu tām]Theme.'
-  - example: 'از اقتدار پدرها می شنویم که همه از کوچک و بزرگ از وی حساب می بردند. چرا راه دور برویم؟ [پدرها و مادرهای ما هم این گونه بودند]Theme.'
-    transcription: 'az eqtedāre pedarhā mišenavim ke hame az kučak o bozorg az vey hesāb mibordand. čerā rāhe dur beravim? [pedarhā va mādarhāye mā ham in gune budand]Theme.'
-  - example: 'به وقت احتیاج و درماندگی فقط به من مراجعه کن. چرا راه دور می‌روی ؟ [من درکنار توام از خودت نیز به تو نزدیکتر]Theme.'
-    transcription: 'be vaqte ehtiāj va darmāndegi faqat be man morājee kon. čerā rāhe dur miravi? [man dar kenāre toam az xodat niz be to nazdiktar]Theme.'
-  - example: 'بگذارید قضیه را با یک مصداق شروع کنیم. اصلاً چرا راه دور برویم؟ [از اولین جمله رمان شما شروع می‌کنیم]Theme.'
-    transcription: 'bogzārid qazie rā bā yek mesdāq šoru konim. aslan čerā rāhe dur beravim? [az avvalin jomleye romane šomā šoru mikonim]Theme.'
-  - example: 'دوست عزیز چرا راه دور بریم و با عاشورای پارسال مقایسه کنیم؟ [با همین 25 بهمن مقایسه کن]Theme.'
-    transcription: 'duste aziz čerā rāhe dur berim o bā āšurāye pārsāl moqāyese konim? [bā hamin bist o panje bahman moqāyese kon]Theme.'
+  - example: "یا اصلاً چرا راه دور برویم؟ [همین سال گذشته و اجرای فوق‌العاده کلبه عمو تام]Theme."
+    transcription: "yā aslan čerā rāhe dur beravim? [hamin sāle gozašte va ejrāye foqolādeye kolbeye amu tām]Theme."
+  - example: "از اقتدار پدرها می شنویم که همه از کوچک و بزرگ از وی حساب می بردند. چرا راه دور برویم؟ [پدرها و مادرهای ما هم این گونه بودند]Theme."
+    transcription: "az eqtedāre pedarhā mišenavim ke hame az kučak o bozorg az vey hesāb mibordand. čerā rāhe dur beravim? [pedarhā va mādarhāye mā ham in gune budand]Theme."
+  - example: "به وقت احتیاج و درماندگی فقط به من مراجعه کن. چرا راه دور می‌روی ؟ [من درکنار توام از خودت نیز به تو نزدیکتر]Theme."
+    transcription: "be vaqte ehtiāj va darmāndegi faqat be man morājee kon. čerā rāhe dur miravi? [man dar kenāre toam az xodat niz be to nazdiktar]Theme."
+  - example: "بگذارید قضیه را با یک مصداق شروع کنیم. اصلاً چرا راه دور برویم؟ [از اولین جمله رمان شما شروع می‌کنیم]Theme."
+    transcription: "bogzārid qazie rā bā yek mesdāq šoru konim. aslan čerā rāhe dur beravim? [az avvalin jomleye romane šomā šoru mikonim]Theme."
+  - example: "دوست عزیز چرا راه دور بریم و با عاشورای پارسال مقایسه کنیم؟ [با همین 25 بهمن مقایسه کن]Theme."
+    transcription: "duste aziz čerā rāhe dur berim o bā āšurāye pārsāl moqāyese konim? [bā hamin bist o panje bahman moqāyese kon]Theme."
 morphology:
   - ~
 syntactic_type_of_construction:

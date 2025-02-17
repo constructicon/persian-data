@@ -1,27 +1,27 @@
 ---
 record: 1
-name: 'پس NP چی (شدن)؟ / پس NP؟'
-name_transcription: 'pas NP či (šod-an) / pas NP'
-name_translation: 'What about NP then?'
-illustration: 'پس [نظر جمع]چی می‌شه؟'
-illustration_transcription: 'pas [nazare jam] či miše?'
+name: "پس NP چی (شدن)؟ / پس NP؟"
+name_transcription: "pas NP či (šod-an) / pas NP"
+name_translation: "What about NP then?"
+illustration: "پس [نظر جمع]چی می‌شه؟"
+illustration_transcription: "pas [nazare jam] či miše?"
 cefr_level: 
 definitions:
   - persian: |
-       'این ساخت [موضوعی]Theme را برجسته می‌کند که مخاطب آن را در تصمیم نهایی خود لحاظ نکرده است. این عدم توجه می‌تواند به صورت ناخودآگاه یا عمدی باشد.'
+       "این ساخت [موضوعی]Theme را برجسته می‌کند که مخاطب آن را در تصمیم نهایی خود لحاظ نکرده است. این عدم توجه می‌تواند به صورت ناخودآگاه یا عمدی باشد."
   - english: |
-       'This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional.'
+       "This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional."
 examples:
-  - example: 'من دیگه میخوام طلاق بگیرم! گفت پس [سوگل]Theme چی می‌شه این وسط؟'
-    transcription: 'man dige mixām talāq begiram! goft pas [sogol]Theme či miše?'
-  - example: 'پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟'
-    transcription: 'pas [qol o qarāremun]Theme či miše? hamašo yādet raft?'
-  - example: 'با گریه گفت پس [خانواده من]Theme چه می‌شود؟'
-    transcription: 'bā gerye goft pas [xānevādeye man]Theme če mišavad?'
-  - example: 'گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟'
-    transcription: 'goftam āxe man tanhām. goft pas [man]Theme či rafiq?'
-  - example: 'مگه من جلبکم؟ پس [من]Theme چی؟'
-    transcription: 'mage man jolbakam? pas [man]Theme či?'
+  - example: "من دیگه میخوام طلاق بگیرم! گفت پس [سوگل]Theme چی می‌شه این وسط؟"
+    transcription: "man dige mixām talāq begiram! goft pas [sogol]Theme či miše?"
+  - example: "پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟"
+    transcription: "pas [qol o qarāremun]Theme či miše? hamašo yādet raft?"
+  - example: "با گریه گفت پس [خانواده من]Theme چه می‌شود؟"
+    transcription: "bā gerye goft pas [xānevādeye man]Theme če mišavad?"
+  - example: "گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟"
+    transcription: "goftam āxe man tanhām. goft pas [man]Theme či rafiq?"
+  - example: "مگه من جلبکم؟ پس [من]Theme چی؟"
+    transcription: "mage man jolbakam? pas [man]Theme či?"
 morphology:
   - NP
 syntactic_type_of_construction:

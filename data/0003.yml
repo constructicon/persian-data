@@ -1,27 +1,27 @@
 ---
 record: 3
-name: 'از طرفی هم CL'
-name_transcription: 'az taraf-i ham CL'
-name_translation: 'Besides CL'
-illustration: 'هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت]CL.'
-illustration_transcription: 'hič kas jorate bayāne ān va az tarafi ham [hič kas jorate šenidane ān rā nadāšt].'
+name: "از طرفی هم CL"
+name_transcription: "az taraf-i ham CL"
+name_translation: "Besides CL"
+illustration: "هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت]CL."
+illustration_transcription: "hič kas jorate bayāne ān va az tarafi ham [hič kas jorate šenidane ān rā nadāšt]."
 cefr_level: 
 definitions:
   - persian: |
-       'این ساخت موضوع جدیدی را وارد گفتمان می‌کند که در تصمیم‌گیری فرد دخیل است. این موضوع می‌تواند به عنوان دلیلی مضاعف و تاییدی بر گفته‌های پیشین و یا به صورت استدلال مخالف بیان شود.'
+       "این ساخت موضوع جدیدی را وارد گفتمان می‌کند که در تصمیم‌گیری فرد دخیل است. این موضوع می‌تواند به عنوان دلیلی مضاعف و تاییدی بر گفته‌های پیشین و یا به صورت استدلال مخالف بیان شود."
   - english: |
-       'The construction introduces a new topic into the discourse that is involved in an individuals decision making. This topic can be expressed as an added argument and confirmation of the previous statements or as an opposing argument.'
+       "The construction introduces a new topic into the discourse that is involved in an individuals decision making. This topic can be expressed as an added argument and confirmation of the previous statements or as an opposing argument."
 examples:
-  - example: 'خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]Argument.'
-    transcription: 'xeyli konjkāv budam ke bedānam dāxele jabehāye kādo šode čist. az tarafi ham [xejālat mikešidam rāje be kādohā harf bezanam]Argument.'
-  - example: 'واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument.'
-    transcription: 'vāqean delam nemiyād tatileš konam vali az tarafi ham [dige tavāne mundan nadāram]Argument.'
-  - example: 'فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]Argument.'
-    transcription: 'farāmuš karde budim az xune dastkeš bā xodemun bebarim va az tarafi ham [dust dāštim ādam barfi dorsot konim]Argument.'
-  - example: 'مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]Argument.'
-    transcription: 'moddathāst ke az futbāle irān dur budam va az tarafi ham [bā time esteqlāl tamrini nakardam ke morede enteqād qarār begiram]Argument.'
-  - example: 'چون دوسش دارم و طاقت دیدن ناراحتیشو ندارم از طرفی هم [احساس میکنم تو چند مورد در این باره اشتباه کردم]Argument.'
-    transcription: 'čon duseš dāram va tāqate didane nārāhatišo nadāram az tarafi ham [ehsās mikonam tu čand mored dar in bare eštebāh kardam]Argument.'
+  - example: "خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]Argument."
+    transcription: "xeyli konjkāv budam ke bedānam dāxele jabehāye kādo šode čist. az tarafi ham [xejālat mikešidam rāje be kādohā harf bezanam]Argument."
+  - example: "واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument."
+    transcription: "vāqean delam nemiyād tatileš konam vali az tarafi ham [dige tavāne mundan nadāram]Argument."
+  - example: "فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]Argument."
+    transcription: "farāmuš karde budim az xune dastkeš bā xodemun bebarim va az tarafi ham [dust dāštim ādam barfi dorsot konim]Argument."
+  - example: "مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]Argument."
+    transcription: "moddathāst ke az futbāle irān dur budam va az tarafi ham [bā time esteqlāl tamrini nakardam ke morede enteqād qarār begiram]Argument."
+  - example: "چون دوسش دارم و طاقت دیدن ناراحتیشو ندارم از طرفی هم [احساس میکنم تو چند مورد در این باره اشتباه کردم]Argument."
+    transcription: "čon duseš dāram va tāqate didane nārāhatišo nadāram az tarafi ham [ehsās mikonam tu čand mored dar in bare eštebāh kardam]Argument."
 morphology:
   - ~
 syntactic_type_of_construction:
