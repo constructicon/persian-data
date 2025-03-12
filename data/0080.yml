@@ -1,0 +1,43 @@
+---
+record: 80
+name: "(اگر/اگه) [CL-NEG-SBJV] (پس) کی [CL-SBJV]؟"
+name_transcription: "(agar/age) [CL-NEG-SBJV] (pas) ki [CL-SBJV]?"
+name_translation: "Who is better qualified?"
+illustration: "[ما قبول نشیم] کی [بشه؟]"
+illustration_transcription: "[mā qabul našim] ki [beše?]"
+cefr_level: 
+definitions:
+examples:
+  - example: "کمکم کن. اگر [تو منو نخوای] پس کی [بخواد؟]"
+    transcription: "komakam kon. agar [to mano naxāy] pas ki [bexād?]"
+  - example: "تو رو به جان عزیزتون بیخیال شین! خب اگه [کمیته نگیره] پس کی [بگیره؟]"
+    transcription: "to ro be jāne azizetoon bixiāl šin! xob age [komite nagire] pas ki [begire?]"
+  - example: "بگو حرف دلتو با من. اگه [به من نگی] پس به کی [میخوای بگی؟]"
+    transcription: "begu harfe deleto bā man. age [be man nagi] pas be ki [mixāy begi?]"
+  - example: "[شما نخورین] کی [بخوره؟] خدا برکت بده به ذخایر نفتی ایران!"
+    transcription: "[šomā naxorin] ki [boxore?] xodā barekat bede be zaxāyere naftie irān!"
+  - example: "تو اگه [نگرانیاتو به من نگی] پس به کی [بگی؟]"
+    transcription: "to age [negarāniāto be man nagi] pas be ki [begi?]"
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label:
+  - ~
+comment: 
+common_fillers:
+  - ~
+semantic_types:
+family:
+  - |
+    ""
