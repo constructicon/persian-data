@@ -45,13 +45,13 @@ def write_record(row, record):
     with open(record_to_filename(record), "w", encoding="utf-8") as f:
         f.write("---\n")
         f.write(f'record: {record}\n')
-        f.write(f'name: "{row['Name'].strip()}"\n')
-        f.write(f'name_transcription: "{row['Name romanized'].strip()}"\n')
-        f.write(f'name_translation: "{row['English equivalent'].strip()}"\n')
+        f.write(f'name: "{row["Name"].strip()}"\n')
+        f.write(f'name_transcription: "{row["Name romanized"].strip()}"\n')
+        f.write(f'name_translation: "{row["English equivalent"].strip()}"\n')
 
         # f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
-        f.write(f'illustration: "{row['Illustration'].strip()}"\n')
-        f.write(f'illustration_transcription: "{row['Illustration romanized'].strip()}"\n')
+        f.write(f'illustration: "{row["Illustration"].strip()}"\n')
+        f.write(f'illustration_transcription: "{row["Illustration romanized"].strip()}"\n')
 
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
@@ -107,7 +107,7 @@ def write_record(row, record):
 
         f.write("comment: \n")
         for language in ['Persian', 'English']:
-            entry = row["Comment " + language].strip()
+            entry = row[f"Comment {language}"].strip()
             if entry != "":
                 f.write(f"  - {language}: |\n")
                 f.write(f"      '{entry}'\n")
@@ -140,7 +140,7 @@ def write_record(row, record):
                             f.write(f"      - type: {chunk.strip()}\n")
         f.write("family:\n")
         f.write("  - |\n")
-        f.write('    "' + row["Family"] + '"\n')
+        f.write(f'    "{row["Family"]}"\n')
 
 
 if __name__ == "__main__":
