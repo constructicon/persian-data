@@ -8,20 +8,20 @@ illustration_transcription: "pas [nazare jam] či miše?"
 cefr_level: 
 definitions:
   - persian: |
-       "این ساخت [موضوعی]Theme را برجسته می‌کند که مخاطب آن را در تصمیم نهایی خود لحاظ نکرده است. این عدم توجه می‌تواند به صورت ناخودآگاه یا عمدی باشد."
+       "این ساختار [موضوع یا عاملی نادیده گرفته‌شده] در فرایند تصمیم‌گیری را برجسته می‌کند. گوینده تلاش می‌کند شنونده را به توجه یا پذیرش چیزی که ابتدا به آن پرداخته نشده یا به آن فکر نشده، ترغیب کند. این ساختار نوعی بی‌توجهی یا غفلت خواسته یا ناخواسته را نشان می‌دهد، و از شنونده می‌خواهد تا پاسخی درباره پیامدهای موضوع نادیده گرفته شده بدهد. این ساختار معمولاً در موقعیت‌های احساسی به کار می‌رود که در آن گوینده احساس می‌کند جنبه‌ای مهم از اوضاع مورد بحث نادیده گرفته شده یا فراموش شده است."
   - english: |
-       "This construction highlights a [topic]Theme that the addressee has not considered in their final decision. This inconsideration can be either intentional or unintentional."
+       "This construction highlights [an overlooked topic or factor] in the decision-making process. The addressor uses it to prompt the addresse to consider or acknowledge something that was not initially addressed or thought about. It reflects a sense of inconsideration or neglect, either intentionally or unintentionally, and seeks a response regarding the consequences of the overlooked topic. This construction is typically used in emotional contexts where the speaker feels that an important aspect of the situation has been ignored or forgotten."
 examples:
-  - example: "من دیگه میخوام طلاق بگیرم! گفت پس [سوگل]Theme چی می‌شه این وسط؟"
-    transcription: "man dige mixām talāq begiram! goft pas [sogol]Theme či miše?"
-  - example: "پس [قول و قرارمون]Theme چی می‌شه؟ همشو یادت رفت؟"
-    transcription: "pas [qol o qarāremun]Theme či miše? hamašo yādet raft?"
-  - example: "با گریه گفت پس [خانواده من]Theme چه می‌شود؟"
-    transcription: "bā gerye goft pas [xānevādeye man]Theme če mišavad?"
-  - example: "گفتم آخه تنهام. گفت پس [من]Theme چی رفیق؟"
-    transcription: "goftam āxe man tanhām. goft pas [man]Theme či rafiq?"
-  - example: "مگه من جلبکم؟ پس [من]Theme چی؟"
-    transcription: "mage man jolbakam? pas [man]Theme či?"
+  - example: "من دیگه میخوام طلاق بگیرم! گفت پس [سوگل] چی می‌شه این وسط؟"
+    transcription: "man dige mixām talāq begiram! goft pas [sogol] či miše?"
+  - example: "پس [قول و قرارمون] چی می‌شه؟ همشو یادت رفت؟"
+    transcription: "pas [qol o qarāremun] či miše? hamašo yādet raft?"
+  - example: "با گریه گفت پس [خانواده من] چه می‌شود؟"
+    transcription: "bā gerye goft pas [xānevādeye man] če mišavad?"
+  - example: "گفتم آخه تنهام. گفت پس [من] چی رفیق؟"
+    transcription: "goftam āxe man tanhām. goft pas [man] či rafiq?"
+  - example: "مگه من جلبکم؟ پس [من] چی؟"
+    transcription: "mage man jolbakam? pas [man] či?"
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -31,20 +31,17 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Light Verb Construction
 part_of_speech_of_anchor:
-  - Noun
+  - Adverb
   - Pronoun
   - Verb
 semantic_roles:
   - Theme
 intonation:
-  - Declarative
+  - Interrogative
 usage_label:
+  - Informal
   - Formal
 comment: 
-  - Persian: |
-      'بسط استعاری از همین ساخت به معنی "لمس کردن"'
-  - English: |
-      'A metaphorical extension of the same construction that means "to touch something".'
 common_fillers:
   - ~
 semantic_types:
