@@ -39,7 +39,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - Interrogative
+  - Declarative
 usage_label:
   - Formal
 comment: 
