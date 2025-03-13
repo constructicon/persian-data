@@ -1,9 +1,9 @@
 ---
 record: 1
-name: "پس NP چی (شدن)؟ / پس NP؟"
-name_transcription: "pas NP či (šod-an) / pas NP"
+name: "پس [NP] چی (شدن)؟ / پس [NP]؟"
+name_transcription: "pas [NP] či (šodan) / pas [NP]?"
 name_translation: "What about NP then?"
-illustration: "پس [نظر جمع]چی می‌شه؟"
+illustration: "پس [نظر جمع] چی می‌شه؟"
 illustration_transcription: "pas [nazare jam] či miše?"
 cefr_level: 
 definitions:
@@ -24,12 +24,13 @@ examples:
     transcription: "mage man jolbakam? pas [man] či?"
 morphology:
   - NP
+  - VP
 syntactic_type_of_construction:
-  - Clause
+  - ~
 syntactic_function_of_anchor:
-  - Verb Predicate
+  - ~
 syntactic_structure_of_anchor:
-  - Light Verb Construction
+  - ~
 part_of_speech_of_anchor:
   - Adverb
   - Pronoun
@@ -38,6 +39,7 @@ semantic_roles:
   - Theme
 intonation:
   - Interrogative
+  - Exclamatory
 usage_label:
   - Informal
   - Formal
@@ -45,6 +47,11 @@ comment:
 common_fillers:
   - ~
 semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+      - type: Surprise
+      - type: Warning
 family:
   - |
     ""
