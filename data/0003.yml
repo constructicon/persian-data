@@ -1,31 +1,33 @@
 ---
 record: 3
-name: "از طرفی هم CL"
-name_transcription: "az taraf-i ham CL"
+name: "از طرفی هم [CL]"
+name_transcription: "az tarafi ham [CL]"
 name_translation: "Besides CL"
-illustration: "هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت]CL."
-illustration_transcription: "hič kas jorate bayāne ān va az tarafi ham [hič kas jorate šenidane ān rā nadāšt]."
+illustration: "هیچ کس جرأت بیان آن و از طرفی هم [هیچ کس جرأت شنیدن آن را نداشت]."
+illustration_transcription: "hič kas jora'te bayāne ān va az tarafi ham [hič kas jor'ate šenidane ān rā nadāšt]."
 cefr_level: 
 definitions:
   - persian: |
-       "این ساخت موضوع جدیدی را وارد گفتمان می‌کند که در تصمیم‌گیری فرد دخیل است. این موضوع می‌تواند به عنوان دلیلی مضاعف و تاییدی بر گفته‌های پیشین و یا به صورت استدلال مخالف بیان شود."
+       "این ساخت برای معرفی یک [موضوع جدید] یا [دیدگاه متضاد] نسبت به موضوع قبلی در گفتمان استفاده می‌شود. این ساختار اغلب برای بیان استدلال‌های مضاعف، تأکیدی، یا متضاد به کار می‌رود و نشان‌دهنده وجود ابعاد مختلف در تصمیم‌گیری یا داوری است."
   - english: |
-       "The construction introduces a new topic into the discourse that is involved in an individuals decision making. This topic can be expressed as an added argument and confirmation of the previous statements or as an opposing argument."
+       "The construction is used to introduce a [new topic], an additional perspective, or a contrasting argument in discourse. It often serves to present supplementary reasoning, confirmation, or opposition to the preceding statement, indicating the presence of multiple considerations in decision-making or judgment."
 examples:
-  - example: "خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]Argument."
-    transcription: "xeyli konjkāv budam ke bedānam dāxele jabehāye kādo šode čist. az tarafi ham [xejālat mikešidam rāje be kādohā harf bezanam]Argument."
-  - example: "واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]Argument."
-    transcription: "vāqean delam nemiyād tatileš konam vali az tarafi ham [dige tavāne mundan nadāram]Argument."
-  - example: "فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]Argument."
-    transcription: "farāmuš karde budim az xune dastkeš bā xodemun bebarim va az tarafi ham [dust dāštim ādam barfi dorsot konim]Argument."
-  - example: "مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]Argument."
-    transcription: "moddathāst ke az futbāle irān dur budam va az tarafi ham [bā time esteqlāl tamrini nakardam ke morede enteqād qarār begiram]Argument."
-  - example: "چون دوسش دارم و طاقت دیدن ناراحتیشو ندارم از طرفی هم [احساس میکنم تو چند مورد در این باره اشتباه کردم]Argument."
-    transcription: "čon duseš dāram va tāqate didane nārāhatišo nadāram az tarafi ham [ehsās mikonam tu čand mored dar in bare eštebāh kardam]Argument."
+  - example: "خیلی کنجکاو بودم که بدانم داخل جعبه‌های کادو شده چیست. از طرفی هم [خجالت می‌کشیدم راجع به کادوها حرف بزنم]."
+    transcription: "xeyli konjkāv budam ke bedānam dāxele ja'behāye kādo šode čist. az tarafi ham [xejālat mikešidam rāje' be kādohā harf bezanam]."
+  - example: "واقعاً دلم نمیاد تعطیلش کنم ولی از طرفی هم [دیگه توان موندن ندارم]."
+    transcription: "vāqe'an delam nemiyād ta'tileš konam vali az tarafi ham [dige tavāne mundan nadāram]."
+  - example: "فراموش کرده بودیم از خونه دستکش با خودمون ببریم و از طرفی هم [دوست داشتیم آدم برفی درست کنیم]."
+    transcription: "farāmuš karde budim az xune dastkeš bā xodemun bebarim va az tarafi ham [dust dāštim ādam barfi dorsot konim]."
+  - example: "مدت‌هاست که از فوتبال ایران دور بودم و از طرفی هم [با تیم استقلال تمرینی نکردم که مورد انتقاد قرار بگیرم]."
+    transcription: "moddathāst ke az futbāle irān dur budam va az tarafi ham [bā time esteqlāl tamrini nakardam ke morede enteqād qarār begiram]."
+  - example: "چون دوسش دارم و طاقت دیدن ناراحتیشو ندارم از طرفی هم [احساس میکنم تو چند مورد در این باره اشتباه کردم]."
+    transcription: "čon duseš dāram va tāqate didane nārāhatišo nadāram az tarafi ham [ehsās mikonam tu čand mored dar in bare eštebāh kardam]."
 morphology:
-  - ~
-syntactic_type_of_construction:
   - PP
+  - NP
+  - ADVP
+syntactic_type_of_construction:
+  - ~
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:
@@ -33,18 +35,39 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
-  - Conjunction
+  - Adverb
 semantic_roles:
   - ~
 intonation:
   - Declarative
 usage_label:
-  - Informal
   - Formal
 comment: 
+  - Persian: |
+      'در گونه غیر رسمی به صورت «از اون طرف هم» به کار می‌رود.'
+  - English: |
+      'Used as "az un taraf ham" in informal register'
 common_fillers:
   - ~
 semantic_types:
+  - type: Actuality
+    subtypes:
+      - type: Actuality
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive
+  - type: Result
+    subtypes:
+      - type: Antiresultative
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
 family:
   - |
     ""
