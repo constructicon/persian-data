@@ -23,9 +23,8 @@ examples:
   - example: "چون دوسش دارم و طاقت دیدن ناراحتیشو ندارم از طرفی هم [احساس میکنم تو چند مورد در این باره اشتباه کردم]."
     transcription: "čon duseš dāram va tāqate didane nārāhatišo nadāram az tarafi ham [ehsās mikonam tu čand mored dar in bare eštebāh kardam]."
 morphology:
-  - PP
-  - NP
-  - ADVP
+  - VP
+  - CL
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:

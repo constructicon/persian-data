@@ -24,8 +24,6 @@ examples:
     transcription: "dar ruze čahāršanbe panjāh hezār tan dar sāntiāgo pāytaxt, dast be [rāhpeymāyi] zadand."
 morphology:
   - NP
-  - PP
-  - VP
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -44,7 +42,7 @@ usage_label:
   - Formal
 comment: 
   - Persian: |
-      'بسط استعاری از همین ساخت به معنی "لمس کردن"'
+      'بسط استعاری از همین ساخت به معنی «لمس کردن»'
   - English: |
       'A metaphorical extension of the same construction that means "to touch something".'
 common_fillers:

@@ -24,7 +24,6 @@ examples:
     transcription: "mage man jolbakam? pas [man] či?"
 morphology:
   - NP
-  - VP
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
