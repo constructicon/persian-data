@@ -1,25 +1,30 @@
 ---
 record: 7
-name: "اگر خواستن CL، (باید/نباید) CL"
-name_transcription: "agar xāst-an CL, (bāyad/nabāyad) CL"
-name_translation: "If one wants to CL, (then) CL"
+name: "اگر [خواستن - PRS] [CL - SBJV]، (باید / نباید) [CL - SBJV]"
+name_transcription: "agar [xāstan - PRS] [CL – SBJV], (bāyad / nabāyad) [CL - SBJV]"
+name_translation: "If you want to CL, (then) you should CL"
 illustration: "اگر می‌خواهید [دشمنان خود را تنبیه کنید]، [به دوستان خود محبت کنید]."
 illustration_transcription: "agar mixāhid [došmanāne xod rā tanbih konid], [be dustāne xod mohabbat konid]."
 cefr_level: 
 definitions:
+  - persian: |
+       "ساخت شرطی نوع اول که نشان می‌دهد تحقق [یک رویداد در آینده] مشروط به [رویدادی در زمان حال و یا آینده] است."
+  - english: |
+       "This construction is similar to a first conditional, indicating that the realization of an event in the future is conditional upon the occurrence of an event in the present or future."
 examples:
-  - example: "اگر می‌خواهید [لاغر شوید و از غذا بیزار]Role، [از این ترکیب رنگ استفاده کنید]Role."
-    transcription: "agar mixāhid [lāqar šavid va az qazā bizār]Role, [az in tarkibe rang estefāde konid]Role."
-  - example: "اگر می‌خواهد [به قهر این ملت ایران دچار نشود]، [باید بعضی چیزها را بازگو و فسادهای اقتصادی را افشا کند]."
-    transcription: "agar mixāhad [be qahre in mellat irān dočār našavad], [bāyad bazi čizhā rā bāzgu va fesādhāye eqtesādi rā efšā konad]."
-  - example: "اگر می‌خواهید [عزت نفس بیشتری پیدا کنید]Role، [نباید حقوق خود را نادیده بگیرید]Role."
-    transcription: "agar mixāhid [ezzate nafse bištari peydā konid]Role, [nabāyad hoquqe xod rā nadide begirid]Role."
-  - example: "اگر می‌خواهیم [به المپیک صعود کنیم]Role، [نباید هیچ حریفی را دست کم بگیریم]Role."
-    transcription: "agar mixāhim [be olampik soud konim]Role, [nabāyad hič harifi rā daste kam begirim]Role."
-  - example: "اگر خواستی [کسی را بهتر بشناسی]Role، [با وی همسفر شو]Role."
-    transcription: "agar xāsti [kasi rā behtar bešenāsi]Role, [bā vey hamsafar šo]Role."
+  - example: "اگر [می‌خواهید] [لاغر شوید و از غذا بیزار]، [از این ترکیب رنگ استفاده کنید]."
+    transcription: "agar [mixāhid] [lāqar šavid va az qazā bizār], [az in tarkibe rang estefāde konid]."
+  - example: "اگر [می‌خواهد] [به قهر این ملت ایران دچار نشود]، [باید بعضی چیزها را بازگو و فسادهای اقتصادی را افشا کند]."
+    transcription: "agar [mixāhad] [be qahre in mellate irān dočār našavad], [bāyad ba'zi čizhā rā bāzgu va fesādhāye eqtesādi rā efšā konad]."
+  - example: "اگر [می‌خواهید] [عزت نفس بیشتری پیدا کنید]، [نباید حقوق خود را نادیده بگیرید]."
+    transcription: "agar [mixāhid] ['ezzate nafse bištari peydā konid], [nabāyad hoquqe xod rā nadide begirid]."
+  - example: "اگر [می‌خواهیم] [به المپیک صعود کنیم]، [نباید هیچ حریفی را دست کم بگیریم]."
+    transcription: "agar [mixāhim] [be olampik so'ud konim], [nabāyad hič harifi rā daste kam begirim]."
+  - example: "اگر [خواستی] [کسی را بهتر بشناسی]، [با وی همسفر شو]."
+    transcription: "agar [xāsti] [kasi rā behtar bešenāsi], [bā vey hamsafar šo]."
 morphology:
-  - ~
+  - VP
+  - CL
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,17 +32,41 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Conjunction
+  - Verb
+  - Adverb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label:
-  - ~
+  - Informal
+  - Formal
 comment: 
+  - Persian: |
+      'در گونه غیررسمی‌تر، «اگه» به جای «اگر» استفاده می‌شود.'
+  - English: |
+      'In more informal registers, "age" is used instead of "agar".'
 common_fillers:
   - ~
 semantic_types:
+  - type: Condition
+    subtypes:
+      - type: Condition
+  - type: Prohibition
+    subtypes:
+      - type: Attenuated prohibitive
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+      - type: Necessity
+        subtypes:
+          - type: Internal
+  - type: Volition
+    subtypes:
+      - type: Volition
 family:
   - |
     ""
