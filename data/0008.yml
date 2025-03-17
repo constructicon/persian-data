@@ -56,7 +56,6 @@ semantic_types:
     subtypes:
       - type: Absence
       - type: Unaffected Small Portion
-      - type: 
 family:
   - |
     ""
