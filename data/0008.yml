@@ -1,25 +1,30 @@
 ---
 record: 8
-name: "یک NP هم NEG-VP"
-name_transcription: "yek NP ham NEG-VP"
-name_translation: "Not even"
-illustration: "تیم صبا در نیمه دوم یک [موقعیت] هم [بر روی دروازه ما ایجاد نکرد]."
-illustration_transcription: "time sabā dar nimeye dovvom yek [moqeiyat] ham [bar ruye darvāzeye mā ijād nakard]."
+name: "(حتی) یک [NP] هم [VP - NEG]"
+name_transcription: "(hattā) yek [NP] ham [VP – NEG]"
+name_translation: "Not even one NP"
+illustration: "تیم صبا در نیمه دوم حتی یک [موقعیت] هم [بر روی دروازه ما ایجاد نکرد]."
+illustration_transcription: "time sabā dar nimeye dovvom hattā yek [moqe'iyat] ham [bar ruye darvāzeye mā ijād nakard]."
 cefr_level: 
 definitions:
+  - persian: |
+       "یک ساخت تأکیدی منفی که بیانگر عدم وجود یا عدم وقوع حتی کوچک‌ترین مورد از یک چیز یا یک رویداد است. به عبارت دیگر، این ساخت برای تأکید بر این موضوع استفاده می‌شود که حتی کوچک‌ترین یا مورد انتظارترین چیز یا رویداد هم اتفاق نمی‌افتد، و معمولاً بسته به موقعیت، بر جنبه غیرمنتظره بودن عدم وقوع تأکید دارد."
+  - english: |
+       "This is a negated emphatic construction that expresses the absence or non-occurrence of even the smallest instance of an entity or event. The structure is used to highlight that not even a minimal or expected occurrence happens, often emphasizing the unexpected or surprising nature of the non-occurrence depending on the context."
 examples:
-  - example: "حتی یک [بار]Role هم [نپرسیدی]Role چرا چشم‌هایت همیشه بارانی است."
-    transcription: "hattā yek [bār]Role ham [naporsidi]Role cerā češmhāyat hamiše bārāni ast."
-  - example: "ازش بخواه یک [لحظه]Role هم [فراموشت نکنه]Role و به تو نیرویی بده تا یک [لحظه]Role هم [فراموشش نکنی]Role."
-    transcription: "azaš bexāh yek [lahze]Role ham [farāmušet nakone]Role va be to niruyi bede tā yek [lahze]Role ham [farāmušeš nakoni]Role."
-  - example: "بحث جالبی میشه اگه یه ذره از وقتتونو به عسل اختصاص بدین. قول میدم یک [دقیقه]Role هم [طول نکشه]Role."
-    transcription: "bahse jālebi miše age ye zarre az vaqtetun ro be asal extesās bedin. qol midam yek [daqiqe]Role ham [tul nakeše]Role."
-  - example: "در آسمان تاریک دلم حتی یک [ستاره]Role [نیست]Role. امشب کوچه‌های شادی حتی یک [عابر]Role هم [ندارد]Role."
-    transcription: "dar āsemāne tārike delam hattā yek [setāre]Role [nist]Role. emšab kučehāye šādi yek [āber]Role ham [nadārad]Role."
-  - example: "تا امروز حتی یک [ریال]Role هم از سوی سازمان تربیت بدنی [به باشگاه پرسپولیس تعلق نگرفت]Role."
-    transcription: "tā emruz hattā yek [riāl]Role ham az suye sāzmāne tarbiat badani [be bāšgāhe perspolis taalloq nagereft]Role."
+  - example: "حتی یک [بار] هم [نپرسیدی] چرا چشم‌هایت همیشه بارانی است."
+    transcription: "hattā yek [bār] ham [naporsidi] cerā češmhāyat hamiše bārāni ast."
+  - example: "ازش بخواه یک [لحظه] هم [فراموشت نکنه] و به تو نیرویی بده تا یک [لحظه] هم [فراموشش نکنی]."
+    transcription: "azaš bexāh yek [lahze] ham [farāmušet nakone] va be to niruyi bede tā yek [lahze] ham [farāmušeš nakoni]."
+  - example: "بحث جالبی میشه اگه یه ذره از وقتتونو به عسل اختصاص بدین. قول میدم یک [دقیقه] هم [طول نکشه]."
+    transcription: "bahse jālebi miše age ye zarre az vaqtetun ro be asal extesās bedin. qol midam yek [daqiqe] ham [tul nakeše]."
+  - example: "در آسمان تاریک دلم حتی یک [ستاره] [نیست]. امشب کوچه‌های شادی حتی یک [عابر] هم [ندارد]."
+    transcription: "dar āsemāne tārike delam hattā yek [setāre] [nist]. emšab kučehāye šādi yek [āber] ham [nadārad]."
+  - example: "تا امروز حتی یک [ریال] هم از سوی سازمان تربیت بدنی [به باشگاه پرسپولیس تعلق نگرفت]."
+    transcription: "tā emruz hattā yek [riāl] ham az suye sāzmāne tarbiat badani [be bāšgāhe perspolis taalloq nagereft]."
 morphology:
-  - ~
+  - NP
+  - VP
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,17 +32,31 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Adverb
+  - Noun
 semantic_roles:
-  - ~
+  - Theme
+  - Time
+  - Agent
+  - Experiencer
 intonation:
-  - ~
+  - Declarative
+  - Exclamatory
 usage_label:
-  - ~
+  - Informal
+  - Formal
 comment: 
 common_fillers:
   - ~
 semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Measure
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+      - type: Unaffected Small Portion
+      - type: 
 family:
   - |
     ""
