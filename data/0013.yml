@@ -8,16 +8,16 @@ illustration_transcription: "age rāst migi [javāb bede]!"
 cefr_level: 
 definitions:
 examples:
-  - example: "اگه راست می‌گین [از خودتون مایه بذارین]ROLE."
-    transcription: "age rāst migin [az xodetun māye bezārin]ROLE."
-  - example: "اگه راست میگی [نظر من رو هم بذارید بقیه بخونند]ROLE."
-    transcription: "age rāst migi [nazare man ro ham bezārid baqiye bexunand]ROLE."
-  - example: "اگه راست میگی [برو توپ را بردار و بازی کن]ROLE."
-    transcription: "age rāst migi [boro tup ro bardār o bāzi kon]ROLE."
-  - example: "بگو اگه راست میگه [خودش اینا رو بهم بگه]ROLE."
-    transcription: "begu age rāst mige [xodeš inā ro behem bege]ROLE."
-  - example: "ایشون اگه راست میگه [بره تو مسکن مهر بشینه]ROLE."
-    transcription: "išun age rāst mige [bere tu maskane mehr bešine]ROLE."
+  - example: "اگه راست می‌گین [از خودتون مایه بذارین]."
+    transcription: "age rāst migin [az xodetun māye bezārin]."
+  - example: "اگه راست میگی [نظر من رو هم بذارید بقیه بخونند]."
+    transcription: "age rāst migi [nazare man ro ham bezārid baqiye bexunand]."
+  - example: "اگه راست میگی [برو توپ را بردار و بازی کن]."
+    transcription: "age rāst migi [boro tup ro bardār o bāzi kon]."
+  - example: "بگو اگه راست میگه [خودش اینا رو بهم بگه]."
+    transcription: "begu age rāst mige [xodeš inā ro behem bege]."
+  - example: "ایشون اگه راست میگه [بره تو مسکن مهر بشینه]."
+    transcription: "išun age rāst mige [bere tu maskane mehr bešine]."
 morphology:
   - ~
 syntactic_type_of_construction:

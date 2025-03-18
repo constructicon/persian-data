@@ -8,16 +8,16 @@ illustration_transcription: "delam [barāye to] ke na vali [barāye ruzhāye bā
 cefr_level: 
 definitions:
 examples:
-  - example: "گفت [سه تاشون]role که نه ولی [یکی از خانوما]role [انگار مذهبیه.]role"
-    transcription: "goft [se tāšun]role ke na vali [yeki az xānumā]role [engār mazhabiye.]role"
-  - example: "[مادرم]role که نه ولی [پدرم]role [ترجیح می‌داد من درس بخونم.]role"
-    transcription: "[mādaram]role ke na vali [pedaram]role [tarjih midād man dars bexunam.]role"
-  - example: "[الان]role که نه ولی امیدوارم [در آینده]role هم [هرگز دچار غرور نشود.]role"
-    transcription: "[alān]role ke na vali omidvāram [dar āyande]role ham [hargez dočāre qorur našavad.]role"
-  - example: "حالا [یک گرگ]role که نه ولی باور کنید که [صدای خش و پشی]role [از پشت تپه می‌آمد!]role"
-    transcription: "hālā [yek gorg]role ke na vali bāvar konid ke [sedāye xeš o peši]role [az pošte tappe miāmad!]role"
-  - example: "[یه دنیا]role که نه ولی [یه کوچولو]role [دلم گرفته.]role"
-    transcription: "[ye donyā]role ke na vali [ye kučulu]role [delam gerefte.]role"
+  - example: "گفت [سه تاشون] که نه ولی [یکی از خانوما] [انگار مذهبیه.]"
+    transcription: "goft [se tāšun] ke na vali [yeki az xānumā] [engār mazhabiye.]"
+  - example: "[مادرم] که نه ولی [پدرم] [ترجیح می‌داد من درس بخونم.]"
+    transcription: "[mādaram] ke na vali [pedaram] [tarjih midād man dars bexunam.]"
+  - example: "[الان] که نه ولی امیدوارم [در آینده] هم [هرگز دچار غرور نشود.]"
+    transcription: "[alān] ke na vali omidvāram [dar āyande] ham [hargez dočāre qorur našavad.]"
+  - example: "حالا [یک گرگ] که نه ولی باور کنید که [صدای خش و پشی] [از پشت تپه می‌آمد!]"
+    transcription: "hālā [yek gorg] ke na vali bāvar konid ke [sedāye xeš o peši] [az pošte tappe miāmad!]"
+  - example: "[یه دنیا] که نه ولی [یه کوچولو] [دلم گرفته.]"
+    transcription: "[ye donyā] ke na vali [ye kučulu] [delam gerefte.]"
 morphology:
   - ~
 syntactic_type_of_construction:

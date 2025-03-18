@@ -8,16 +8,16 @@ illustration_transcription: "ham [mā] ham [šomā]"
 cefr_level: 
 definitions:
 examples:
-  - example: "رشته تحصیلی او معماری بود. هم [درس می‌خواند]ROLE و هم [کار می‌کرد]ROLE."
-    transcription: "rešteye tahsilie u memāri bud. ham [dars mixānd]ROLE va ham [kār mikard]ROLE."
-  - example: "زندگی هم [شادی]ROLE داره هم [غم]ROLE، هم [خنده]ROLE داره هم [گریه]ROLE."
-    transcription: "zendegi ham [šādi]ROLE dāre ham [qam]ROLE, ham [xande]ROLE dāre ham [gerye]ROLE."
-  - example: "هم [سوالاش خیلی سخته]ROLE هم [بد تصحیح میکنه]ROLE."
-    transcription: "ham [soālāš xeyli saxte]ROLE ham [bad tashih mikone]ROLE."
-  - example: "به سلامتی پل عابر پیاده که هم [مردا]ROLE از روش رد می‌شن هم [نامردا]ROLE!"
-    transcription: "be salāmatie pole ābere piyade ke ham [mardā]ROLE az ruš rad mišan ham [nāmardā]ROLE!"
-  - example: "از این درخواست‌ها هم [شاد]ROLE شدم و هم کمی [عصبی]ROLE."
-    transcription: "az in darxāsthā ham [šād]ROLE šodam va ham kami [asabi]ROLE."
+  - example: "رشته تحصیلی او معماری بود. هم [درس می‌خواند] و هم [کار می‌کرد]."
+    transcription: "rešteye tahsilie u memāri bud. ham [dars mixānd] va ham [kār mikard]."
+  - example: "زندگی هم [شادی] داره هم [غم]، هم [خنده] داره هم [گریه]."
+    transcription: "zendegi ham [šādi] dāre ham [qam], ham [xande] dāre ham [gerye]."
+  - example: "هم [سوالاش خیلی سخته] هم [بد تصحیح میکنه]."
+    transcription: "ham [soālāš xeyli saxte] ham [bad tashih mikone]."
+  - example: "به سلامتی پل عابر پیاده که هم [مردا] از روش رد می‌شن هم [نامردا]!"
+    transcription: "be salāmatie pole ābere piyade ke ham [mardā] az ruš rad mišan ham [nāmardā]!"
+  - example: "از این درخواست‌ها هم [شاد] شدم و هم کمی [عصبی]."
+    transcription: "az in darxāsthā ham [šād] šodam va ham kami [asabi]."
 morphology:
   - ~
 syntactic_type_of_construction:

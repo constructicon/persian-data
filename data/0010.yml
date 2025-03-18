@@ -8,16 +8,16 @@ illustration_transcription: "nemiše emšab naxābim?"
 cefr_level: 
 definitions:
 examples:
-  - example: "نمی شه [اول در بزنید و بعد بیایید تو]Role؟"
-    transcription: "nemiše [avval dar bezanid va bad biyayid tu]Role?"
-  - example: "پدر می‌گفت نمیشه [امروز مرخصی بگیری]Role؟"
-    transcription: "pedar migoft nemiše [emruz moraxasi begiri]Role?"
-  - example: "نمیشد [تو امروز sms نمی‌دادی و نمیومدی دنبالم]Role؟"
-    transcription: "nemišod [to emruz sms nemidadi o nemiyumadi dombālam]Role?"
-  - example: "مهدی، نمیشه [یه بار دیگه ببینمت]Role؟"
-    transcription: "mehdi, nemiše [ye bare dige bebinamet]Role?"
-  - example: "حالا نمی‌شه [بی‌خیال حوله بشی]Role؟"
-    transcription: "hālā nemiše [bixiyāle hole beši]Role?"
+  - example: "نمی شه [اول در بزنید و بعد بیایید تو]؟"
+    transcription: "nemiše [avval dar bezanid va bad biyayid tu]?"
+  - example: "پدر می‌گفت نمیشه [امروز مرخصی بگیری]؟"
+    transcription: "pedar migoft nemiše [emruz moraxasi begiri]?"
+  - example: "نمیشد [تو امروز sms نمی‌دادی و نمیومدی دنبالم]؟"
+    transcription: "nemišod [to emruz sms nemidadi o nemiyumadi dombālam]?"
+  - example: "مهدی، نمیشه [یه بار دیگه ببینمت]؟"
+    transcription: "mehdi, nemiše [ye bare dige bebinamet]?"
+  - example: "حالا نمی‌شه [بی‌خیال حوله بشی]؟"
+    transcription: "hālā nemiše [bixiyāle hole beši]?"
 morphology:
   - ~
 syntactic_type_of_construction:

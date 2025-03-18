@@ -8,16 +8,16 @@ illustration_transcription: "az kojā malum [xodeš bāše?]"
 cefr_level: 
 definitions:
 examples:
-  - example: "عجیب به سرم زده که نامزد الی راستش را نگفته. واقعا از کجا معلوم [که جنازه الی باشد؟]ROLE"
-    transcription: "ajib be saram zade ke nāmzade Eli rāstaš rā nagofte. Vāqean az kojā malum [ke jenāzeye Eli bāšad?]ROLE"
-  - example: "اصلا از کجا معلوم [من رای بیاورم؟]ROLE"
-    transcription: "aslan az kojā malum [man ray biyāram?]ROLE"
-  - example: "ولی هنوز نفهمیدم از کجا معلوم [که این پسره؟]ROLE"
-    transcription: "vali hanuz nafahmidam az kojā malum [ke in pesare?]ROLE"
-  - example: "من هم گفتم نه از کجا معلوم [که ما اندازه پاهای اون باشیم؟]ROLE"
+  - example: "عجیب به سرم زده که نامزد الی راستش را نگفته. واقعا از کجا معلوم [که جنازه الی باشد؟]"
+    transcription: "ajib be saram zade ke nāmzade Eli rāstaš rā nagofte. Vāqean az kojā malum [ke jenāzeye Eli bāšad?]"
+  - example: "اصلا از کجا معلوم [من رای بیاورم؟]"
+    transcription: "aslan az kojā malum [man ray biyāram?]"
+  - example: "ولی هنوز نفهمیدم از کجا معلوم [که این پسره؟]"
+    transcription: "vali hanuz nafahmidam az kojā malum [ke in pesare?]"
+  - example: "من هم گفتم نه از کجا معلوم [که ما اندازه پاهای اون باشیم؟]"
     transcription: "man ham goftam na az kojā malum [ke mā andāze-ye pāhāye"
-  - example: "یکم که گذشت با خودش گفت حالا از کجا معلوم [این بابا ابلیس باشه؟]ROLE"
-    transcription: "yekam ke gozašt bā xodeš goft hālā az kojā malum [in bābā eblis bāše?]ROLE"
+  - example: "یکم که گذشت با خودش گفت حالا از کجا معلوم [این بابا ابلیس باشه؟]"
+    transcription: "yekam ke gozašt bā xodeš goft hālā az kojā malum [in bābā eblis bāše?]"
 morphology:
   - ~
 syntactic_type_of_construction:

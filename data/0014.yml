@@ -8,15 +8,15 @@ illustration_transcription: "age rāst migi [esmeš či bud?]"
 cefr_level: 
 definitions:
 examples:
-  - example: "اگه راست میگه [چرا خودشو قایم کرده؟]ROLE"
-    transcription: "age rāst mige [čerā xodešo qāyem karde?]ROLE"
-  - example: "[چرا شما فیلم این مراسم رو نمیذاری]ROLE اگه راست میگی؟"
-    transcription: "[čerā šomā filme in marāsem ro nemizāri]ROLE age rāst migi?"
-  - example: "اگه راست میگفتین که دیگه [چرا کار توی اصفهان تکرار شد؟]ROLE"
-    transcription: "age rāst migoftin ke dige [čerā kare tuye esfahān tekrār šod?]ROLE"
-  - example: "اگه راست میگی [چرا وقتی سر پست سابقت بودی چیزی نگفتی؟]ROLE"
-    transcription: "age rāst migi [čerā vaqti sare poste sābeqet budi čizi nagofti?]ROLE"
-  - example: "همه این ادمهایی که می‌گن خونه ندارن الکی میگن، اگه راست میگن [پس شب‌ها کجا می‌خوابن؟]ROLE"
+  - example: "اگه راست میگه [چرا خودشو قایم کرده؟]"
+    transcription: "age rāst mige [čerā xodešo qāyem karde?]"
+  - example: "[چرا شما فیلم این مراسم رو نمیذاری] اگه راست میگی؟"
+    transcription: "[čerā šomā filme in marāsem ro nemizāri] age rāst migi?"
+  - example: "اگه راست میگفتین که دیگه [چرا کار توی اصفهان تکرار شد؟]"
+    transcription: "age rāst migoftin ke dige [čerā kare tuye esfahān tekrār šod?]"
+  - example: "اگه راست میگی [چرا وقتی سر پست سابقت بودی چیزی نگفتی؟]"
+    transcription: "age rāst migi [čerā vaqti sare poste sābeqet budi čizi nagofti?]"
+  - example: "همه این ادمهایی که می‌گن خونه ندارن الکی میگن، اگه راست میگن [پس شب‌ها کجا می‌خوابن؟]"
     transcription: "hameye in ādamhāyi ke migan xune nadāran alaki migan, age rāst migan [pas šabhā kojā mixāban?]"
 morphology:
   - ~

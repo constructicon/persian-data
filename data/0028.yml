@@ -8,16 +8,16 @@ illustration_transcription: "dorost ast ke [šānehāyat injā nist] ammā [dast
 cefr_level: 
 definitions:
 examples:
-  - example: "درست است که [باید کار کرد]role ولی [روزی رسان خداست.]role"
-    transcription: "dorost ast ke [bāyad kār kard]role vali [ruzi resān xodāst.]role"
-  - example: "وی گفت درست است که [به پیروزی رسیدیم]role اما [در حد نام خودمان بازی نکردیم.]role"
-    transcription: "vey goft dorost ast ke [be piruzi residim]role ammā [dar hadde nāme xodemān bāzi nakardim.]role"
-  - example: "درسته که [هوا رو گرم نمی‌کنه]role ولی [تو رو دلگرم می‌کنه.]role"
-    transcription: "doroste ke [havā rog arm nemikone]role vali [to ro delgarm mikone.]role"
-  - example: "درسته که [نیست]role اما [همیشه یاد خوبی‌هاش منو خوشحال می‌کنه.]role"
-    transcription: "doroste ke [nist]role ammā [hamiše yāde xubihāš mano xošhāl mikone.]role"
-  - example: "درسته که [خدا سرش شلوغه]role اما [به حرفای منم گوش می‌ده.]role"
-    transcription: "doroste ke [xodā sareš šoluqe]role ammā [be harfāye manam guš mide.]role"
+  - example: "درست است که [باید کار کرد] ولی [روزی رسان خداست.]"
+    transcription: "dorost ast ke [bāyad kār kard] vali [ruzi resān xodāst.]"
+  - example: "وی گفت درست است که [به پیروزی رسیدیم] اما [در حد نام خودمان بازی نکردیم.]"
+    transcription: "vey goft dorost ast ke [be piruzi residim] ammā [dar hadde nāme xodemān bāzi nakardim.]"
+  - example: "درسته که [هوا رو گرم نمی‌کنه] ولی [تو رو دلگرم می‌کنه.]"
+    transcription: "doroste ke [havā rog arm nemikone] vali [to ro delgarm mikone.]"
+  - example: "درسته که [نیست] اما [همیشه یاد خوبی‌هاش منو خوشحال می‌کنه.]"
+    transcription: "doroste ke [nist] ammā [hamiše yāde xubihāš mano xošhāl mikone.]"
+  - example: "درسته که [خدا سرش شلوغه] اما [به حرفای منم گوش می‌ده.]"
+    transcription: "doroste ke [xodā sareš šoluqe] ammā [be harfāye manam guš mide.]"
 morphology:
   - ~
 syntactic_type_of_construction:

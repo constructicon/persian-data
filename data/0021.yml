@@ -8,16 +8,16 @@ illustration_transcription: "age [man] jāye [to] budam [xune mixābidam.]"
 cefr_level: 
 definitions:
 examples:
-  - example: "خوب [شما]ROLE اگه جای [او]ROLE بودید [چه کار می‌کردید؟]ROLE"
-    transcription: "xob [šomā]role age jāye [u]role budid če kār [mikardid?]role"
-  - example: "اگر [هرکس دیگری]role جای [من]role بود [شاید با وجود همین یک افتخار از استقلال می‌رفت.]role"
-    transcription: "agar [har kase digari]role jāye [man]role bud [šāyad bā vojude hamin yek eftexār az esteqlāl miraft.]role"
-  - example: "اگر قرار باشد [شما]role به جای [مولکول‌های سطح مایع]role باشید [چه می‌کردید؟]role"
-    transcription: "agar qarār bāšad [šomā]role be jāye [molokulhāye sathe māye]role bāšid [če mikardid?]role"
-  - example: "اگر [من]role جای [تو]role بودم [گردن او را می ‌زدم.]role"
-    transcription: "agar [man]role jāye [to]role budam [gardane u rā mizadam.]role"
-  - example: "اما [شما]role اگر جای [مادرش]role باشید [چه می‌گویید؟]role"
-    transcription: "ammā [šomā]role agar jāye [mādaraš]role bāšid [če miguid?]role"
+  - example: "خوب [شما] اگه جای [او] بودید [چه کار می‌کردید؟]"
+    transcription: "xob [šomā] age jāye [u] budid če kār [mikardid?]"
+  - example: "اگر [هرکس دیگری] جای [من] بود [شاید با وجود همین یک افتخار از استقلال می‌رفت.]"
+    transcription: "agar [har kase digari] jāye [man] bud [šāyad bā vojude hamin yek eftexār az esteqlāl miraft.]"
+  - example: "اگر قرار باشد [شما] به جای [مولکول‌های سطح مایع] باشید [چه می‌کردید؟]"
+    transcription: "agar qarār bāšad [šomā] be jāye [molokulhāye sathe māye] bāšid [če mikardid?]"
+  - example: "اگر [من] جای [تو] بودم [گردن او را می ‌زدم.]"
+    transcription: "agar [man] jāye [to] budam [gardane u rā mizadam.]"
+  - example: "اما [شما] اگر جای [مادرش] باشید [چه می‌گویید؟]"
+    transcription: "ammā [šomā] agar jāye [mādaraš] bāšid [če miguid?]"
 morphology:
   - ~
 syntactic_type_of_construction:

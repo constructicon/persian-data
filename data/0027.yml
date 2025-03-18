@@ -8,16 +8,16 @@ illustration_transcription: "bā in ke [bedune barq miše xābid] ammā [bedune 
 cefr_level: 
 definitions:
 examples:
-  - example: "با این که [خیلی سخت بود این یه ماه]role اما [یه مزیت‌هایی هم داشت.]role"
-    transcription: "bā in ke [xeili saxt bud in ye māh]role ammā [ye maziyathāyi ham dāšt.]role"
-  - example: "با این که [امروز خیلی خسته شدم]role ولی [خیلی روز خوبی بود.]role"
-    transcription: "bā in ke [emruz xeili xaste šodam]role vali [xeili ruze xubi bud.]role"
-  - example: "با این که [ماه مهر است]role ولی [هوا خیلی گرم است.]role"
-    transcription: "bā in ke [māhe mehr ast]role vali [havā xeili gar mast.]role"
-  - example: "به همین بهونه بد ندیدم با این که [کریسمس رو از دست دادم]role ولی [تبریک نگم.]role"
-    transcription: "be hamin bahune bad nadidam bā in ke [krismas ro az dast dādam]role vali [tabrik nagam.]role"
-  - example: "عسل با این که [بسیار شیرین است]role ولی [قند موجود در آن به دندان‌ها آسیبی وارد نمی‌کند.]role"
-    transcription: "asal bā in ke [besiar širin]role vali [qande mojud dar ?n be dandānhā āsibi vāred nemikonad.]role"
+  - example: "با این که [خیلی سخت بود این یه ماه] اما [یه مزیت‌هایی هم داشت.]"
+    transcription: "bā in ke [xeili saxt bud in ye māh] ammā [ye maziyathāyi ham dāšt.]"
+  - example: "با این که [امروز خیلی خسته شدم] ولی [خیلی روز خوبی بود.]"
+    transcription: "bā in ke [emruz xeili xaste šodam] vali [xeili ruze xubi bud.]"
+  - example: "با این که [ماه مهر است] ولی [هوا خیلی گرم است.]"
+    transcription: "bā in ke [māhe mehr ast] vali [havā xeili gar mast.]"
+  - example: "به همین بهونه بد ندیدم با این که [کریسمس رو از دست دادم] ولی [تبریک نگم.]"
+    transcription: "be hamin bahune bad nadidam bā in ke [krismas ro az dast dādam] vali [tabrik nagam.]"
+  - example: "عسل با این که [بسیار شیرین است] ولی [قند موجود در آن به دندان‌ها آسیبی وارد نمی‌کند.]"
+    transcription: "asal bā in ke [besiar širin] vali [qande mojud dar ?n be dandānhā āsibi vāred nemikonad.]"
 morphology:
   - ~
 syntactic_type_of_construction:

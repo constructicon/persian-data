@@ -4,20 +4,20 @@ name: "دیگه/دیگر باید CL"
 name_transcription: "dige/digar bāyad CL"
 name_translation: "It is time to, from now on"
 illustration: "دیگه باید [برم شام درست کنم.]"
-illustration_transcription: "dige bāyad [beram šām dorost konam.]CL"
+illustration_transcription: "dige bāyad [beram šām dorost konam.]"
 cefr_level: 
 definitions:
 examples:
-  - example: "فوتبال ایرانی رو دیگه باید [از دست رفته بدونیم.]CL"
-    transcription: "futbāle irāni ro dige bāyad [az dast rafte bedunim.]CL"
-  - example: "مادر که پرده اتاق را می‌کشد دیگر باید [دل از امروز کند.]CL"
-    transcription: "mādar ke pardeye otāq rā mikšad digar bāyad [del az emruz kand.]CL"
-  - example: "این بار دیگر باید [حرفی بزنم.]CL"
-    transcription: "in bār digar bāyad [harfi bezanam.]CL"
-  - example: "کوهنورد‌ها را دیگر باید [با کاپشن‌های نورث فیس بشناسی.]CL"
-    transcription: "kuhnavardhā rā digar bāyad [bā kāpšanhāye North face bešenāsi.]CL"
-  - example: "اینجا دیگه باید [به خودت اطمینان داشته باشی.]CL"
-    transcription: "injā dige bāyad [be xodet etminān dāšte bāši.]CL"
+  - example: "فوتبال ایرانی رو دیگه باید [از دست رفته بدونیم.]"
+    transcription: "futbāle irāni ro dige bāyad [az dast rafte bedunim.]"
+  - example: "مادر که پرده اتاق را می‌کشد دیگر باید [دل از امروز کند.]"
+    transcription: "mādar ke pardeye otāq rā mikšad digar bāyad [del az emruz kand.]"
+  - example: "این بار دیگر باید [حرفی بزنم.]"
+    transcription: "in bār digar bāyad [harfi bezanam.]"
+  - example: "کوهنورد‌ها را دیگر باید [با کاپشن‌های نورث فیس بشناسی.]"
+    transcription: "kuhnavardhā rā digar bāyad [bā kāpšanhāye North face bešenāsi.]"
+  - example: "اینجا دیگه باید [به خودت اطمینان داشته باشی.]"
+    transcription: "injā dige bāyad [be xodet etminān dāšte bāši.]"
 morphology:
   - ~
 syntactic_type_of_construction:
