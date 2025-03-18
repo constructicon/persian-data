@@ -1,10 +1,10 @@
 ---
 record: 9
-name: "(هنوز) CL/NP نگذشتن (که) CL"
-name_transcription: "(hanuz) CL/NP NEG-gozašt-an (ke) CL"
+name: "(هنوز) [NUM - TIME] از [NP] [گذشتن - NEG] (که) [CL - POS]"
+name_transcription: "(hanuz) [NUM – TIME] az [NP] [gozaštan – NEG] (ke) [CL - POS]"
 name_translation: "Barely, No sooner"
-illustration: "هنوز [چند لحظه] نگذشته بود که [شروع کرد به صحبت کردن]."
-illustration_transcription: "hanuz [čand lahze] nagozašte bud ke [šoru kard be sohbat kardan]."
+illustration: "هنوز [چند لحظه] از [این ماجرا] [نگذشته بود] که [شروع کرد به صحبت کردن]."
+illustration_transcription: "hanuz [čand lahze] az [in mājerā] [nagozašte bud] ke [šoru kard be sohbat kardan]."
 cefr_level: 
 definitions:
 examples:
