@@ -1,9 +1,9 @@
 ---
 record: 6
-name: "[NP] به [NP] چه ربطی [داشتن - PRS / PST]؟"
-name_transcription: "[NP] be [NP] če rabti [dāštan - PRS / PST]?"
+name: "[NP] به [NP] چه ربطی داشتن - PRS / PST؟"
+name_transcription: "[NP] be [NP] če rabti dāštan - PRS / PST?"
 name_translation: "What does NP have to do with NP?"
-illustration: "آخه [درس‌های رشته برق] به [من] چه ربطی داره؟"
+illustration: "آخه [درس‌های رشته برق]به [من]چه ربطی داره؟"
 illustration_transcription: "āxe [darshāye rešteye barq] be [man]če rabti dāre?"
 cefr_level: 
 definitions:

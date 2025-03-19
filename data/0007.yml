@@ -1,7 +1,7 @@
 ---
 record: 7
-name: "اگر [خواستن - PRS] [CL - SBJV]، (باید / نباید) [CL - SBJV]"
-name_transcription: "agar [xāstan - PRS] [CL – SBJV], (bāyad / nabāyad) [CL - SBJV]"
+name: "اگر خواستن - PRS [CL - SBJV]، (باید / نباید) [CL - SBJV]"
+name_transcription: "agar xāstan - PRS [CL - SBJV], (bāyad / nabāyad) [CL - SBJV]"
 name_translation: "If you want to CL, (then) you should CL"
 illustration: "اگر می‌خواهید [دشمنان خود را تنبیه کنید]، [به دوستان خود محبت کنید]."
 illustration_transcription: "agar mixāhid [došmanāne xod rā tanbih konid], [be dustāne xod mohabbat konid]."
@@ -12,16 +12,16 @@ definitions:
   - english: |
        "This construction is similar to a first conditional, indicating that the realization of an event in the future is conditional upon the occurrence of an event in the present or future."
 examples:
-  - example: "اگر [می‌خواهید] [لاغر شوید و از غذا بیزار]، [از این ترکیب رنگ استفاده کنید]."
-    transcription: "agar [mixāhid] [lāqar šavid va az qazā bizār], [az in tarkibe rang estefāde konid]."
-  - example: "اگر [می‌خواهد] [به قهر این ملت ایران دچار نشود]، [باید بعضی چیزها را بازگو و فسادهای اقتصادی را افشا کند]."
-    transcription: "agar [mixāhad] [be qahre in mellate irān dočār našavad], [bāyad ba'zi čizhā rā bāzgu va fesādhāye eqtesādi rā efšā konad]."
-  - example: "اگر [می‌خواهید] [عزت نفس بیشتری پیدا کنید]، [نباید حقوق خود را نادیده بگیرید]."
-    transcription: "agar [mixāhid] ['ezzate nafse bištari peydā konid], [nabāyad hoquqe xod rā nadide begirid]."
-  - example: "اگر [می‌خواهیم] [به المپیک صعود کنیم]، [نباید هیچ حریفی را دست کم بگیریم]."
-    transcription: "agar [mixāhim] [be olampik so'ud konim], [nabāyad hič harifi rā daste kam begirim]."
-  - example: "اگر [خواستی] [کسی را بهتر بشناسی]، [با وی همسفر شو]."
-    transcription: "agar [xāsti] [kasi rā behtar bešenāsi], [bā vey hamsafar šo]."
+  - example: "اگر می‌خواهید [لاغر شوید و از غذا بیزار]، [از این ترکیب رنگ استفاده کنید]."
+    transcription: "agar mixāhid [lāqar šavid va az qazā bizār], [az in tarkibe rang estefāde konid]."
+  - example: "اگر می‌خواهد [به قهر این ملت ایران دچار نشود]، [باید بعضی چیزها را بازگو و فسادهای اقتصادی را افشا کند]."
+    transcription: "agar mixāhad [be qahre in mellate irān dočār našavad], [bāyad ba'zi čizhā rā bāzgu va fesādhāye eqtesādi rā efšā konad]."
+  - example: "اگر می‌خواهید [عزت نفس بیشتری پیدا کنید]، [نباید حقوق خود را نادیده بگیرید]."
+    transcription: "agar mixāhid ['ezzate nafse bištari peydā konid], [nabāyad hoquqe xod rā nadide begirid]."
+  - example: "اگر می‌خواهیم [به المپیک صعود کنیم]، [نباید هیچ حریفی را دست کم بگیریم]."
+    transcription: "agar mixāhim [be olampik so'ud konim], [nabāyad hič harifi rā daste kam begirim]."
+  - example: "اگر خواستی [کسی را بهتر بشناسی]، [با وی همسفر شو]."
+    transcription: "agar xāsti [kasi rā behtar bešenāsi], [bā vey hamsafar šo]."
 morphology:
   - VP
   - CL

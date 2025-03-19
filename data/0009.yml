@@ -1,25 +1,30 @@
 ---
 record: 9
-name: "(هنوز) [NUM - TIME] از [NP] [گذشتن - NEG] (که) [CL - POS]"
-name_transcription: "(hanuz) [NUM – TIME] az [NP] [gozaštan – NEG] (ke) [CL - POS]"
+name: "(هنوز) [NUM - TIME] از [NP] گذشتن - NEG (که) [CL - POS]"
+name_transcription: "(hanuz) [NUM – TIME] az [NP] gozaštan – NEG (ke) [CL - POS]"
 name_translation: "Barely, No sooner"
-illustration: "هنوز [چند لحظه] از [این ماجرا] [نگذشته بود] که [شروع کرد به صحبت کردن]."
-illustration_transcription: "hanuz [čand lahze] az [in mājerā] [nagozašte bud] ke [šoru kard be sohbat kardan]."
+illustration: "هنوز [چند لحظه] از [حرف من] نگذشته بود که [شروع کرد به صحبت کردن]."
+illustration_transcription: "hanuz [čand lahze] az [harfe man] nagozašte bud ke [šoru kard be sohbat kardan]."
 cefr_level: 
 definitions:
+  - persian: |
+       "این ساختار نشان می‌دهد که یک رویداد بلافاصله پس از رویداد دیگری رخ می‌دهد، به‌طوری‌ که فاصله‌ زمانی بین آنها بسیار ناچیز است. این ساختار اغلب شگفتی گوینده را از پیشامد غیرمنتظره یا سرعت وقوع آن منعکس می‌کند. جمله نخست یک مرز زمانی منفی در گذشته را مشخص می‌کند، و جمله دوم رویدادی را بیان می‌کند که به شکلی ناگهانی و حتی هم‌زمان رخ می‌دهد."
+  - english: |
+       "This construction conveys that an [event] occurs soon after [another], with [minimal time lapse] between them. It often implies the addressor’s surprise at the rapid sequence of events. The first clause establishes a negative temporal boundary in the past, while the second presents an action or outcome that follows unexpectedly and even instantaneously."
 examples:
   - example: "[یک هفته] از این ماجرا نگذشته بود که [اسب پیرمرد به همراه بیست اسب وحشی به خانه برگشت]."
-    transcription: "[yek hafte] az in mājerā nagozašte bud ke [asbe piremard be hamrāhe bist asbe vahši be xāne bargašt]."
-  - example: "[دو ثانیه] از گفتن اون نکته نگذشته که [یه نکته خیلی مهم ریاضی یادش میاد]."
-    transcription: "[do sāniye] az goftane un nokte nagzašte ke [ye nokteye xeyli mohemme riyāzi yādeš miyād]."
-  - example: "این مرد که [چند روزی] از ازدواج او نگذشته بود [زن خود را طلاق می‌دهد]."
+    transcription: "[yek hafte] az [in mājerā] nagozašte bud ke [asbe piremard be hamrāhe bist asbe vahši be xāne bargašt]."
+  - example: "[دو ثانیه] از [گفتن اون نکته] [نگذشته] که [یه نکته خیلی مهم ریاضی یادش میاد]."
+    transcription: "[do sāniye] az [goftane un nokte] nagzašte ke [ye nokteye xeyli mohemme riyāzi yādeš miyād]."
+  - example: "این مرد که [چند روزی] از [ازدواج او] [نگذشته بود] [زن خود را طلاق می‌دهد]."
     transcription: "in mard ke [čand ruzi] az ezdevāje u nagozašte bud ke [zane xod rā talāq midahad]."
-  - example: "[چند دقیقه[Role بیشتر نگذشته بود که [صدای فریاد‌های یک زن را شنیدم]."
-    transcription: "[čand daqiqe] bištar nagozašte bud ke [sedāye faryādhāye yek zan rā šenidam]."
+  - example: "[چند دقیقه بیشتر] نگذشته بود که [صدای فریاد‌های یک زن را شنیدم]."
+    transcription: "[čand daqiqe bištar] nagozašte bud ke [sedāye faryādhāye yek zan rā šenidam]."
   - example: "[روزی چند] از این ماجرا نگذشته بود که [حادثه دیگری رخ داد]."
     transcription: "[ruzi čand] az in mājerā nagozašte bud ke [hādeseye digari rox dād]."
 morphology:
-  - ~
+  - NP
+  - CL
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,7 +32,8 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Preposition
+  - Verb
 semantic_roles:
   - ~
 intonation:
@@ -38,6 +44,19 @@ comment:
 common_fillers:
   - ~
 semantic_types:
+  - type: Consequence
+    subtypes:
+      - type: Failed Expectation
+  - type: Taxis
+    subtypes:
+      - type: Subsequent Action
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+      - type: Time Period
+  - type: Timeline
+    subtypes:
+      - type: Recent past
 family:
   - |
     ""
