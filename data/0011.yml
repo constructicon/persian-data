@@ -7,6 +7,10 @@ illustration: "نه [امروز] نه [فردا]."
 illustration_transcription: "na [emruz] na [fardā]."
 cefr_level: 
 definitions:
+  - persian: |
+       "یک ساختار نفی هم‌پایه که هر دو گزینه موجود را رد می‌کند و نشان می‌دهد که هیچ‌کدام درست یا مطلوب نیستند. این ساختار، گزینه‌های مختلف را در مقابل هم قرار می‌دهد و تأکید می‌کند که هیچ‌کدام در یک بافت مشخص مصداق ندارند."
+  - english: |
+       "A coordinated negation construction that rejects two alternatives, indicating that neither is true, valid, or desirable. It contrasts the options, asserting that both are not applicable in a given context."
 examples:
   - example: "من نه [اسطوره‌ام] نه [میخواهم به اسطوره‌های شما چنگ بیاندزام]."
     transcription: "man na [ostuream] na [mixāham be osturehāye šoma čang biyandāzam]."
@@ -19,7 +23,7 @@ examples:
   - example: "یه حالی دارم این روزا نه [آرومم] نه [آشوبم]."
     transcription: "ye hāli dāram in ruzā; na [ārumam] na [āšubam]."
 morphology:
-  - ~
+  - XP
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,7 +31,7 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Adverb
 semantic_roles:
   - ~
 intonation:
@@ -38,6 +42,15 @@ comment:
 common_fillers:
   - ~
 semantic_types:
+  - type: Exclusive
+    subtypes:
+      - type: Exclusive
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Options
+    subtypes:
+      - type: Options
 family:
   - |
     ""

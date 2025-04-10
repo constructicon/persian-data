@@ -1,12 +1,16 @@
 ---
 record: 10
-name: "نمی‌شه VP/CL؟"
-name_transcription: "nemiše VP/CL?"
+name: "نمی‌شه / نمی‌شد VP/CL؟"
+name_transcription: "nemiše /nemišod VP/CL?"
 name_translation: "Is it possible to VP/CL?"
 illustration: "نمی‌شه [امشب نخوابیم]؟"
 illustration_transcription: "nemiše emšab naxābim?"
 cefr_level: 
 definitions:
+  - persian: |
+       "یک ساخت پرسشیِ وجهی که با نفی امکان یا اجازه انجام یک عمل، درخواست، تمایل یا نارضایتی را بیان می‌کند و اغلب به‌صورت غیرمستقیم برای ترغیب به تغییر رفتار یا جلب موافقت مخاطب به‌کار می‌رود."
+  - english: |
+       "An interrogative modal construction that expresses a request, desire, or complaint by negating the possibility or permissibility of an action, often to indirectly prompt a change in behavior or elicit agreement."
 examples:
   - example: "نمی شه [اول در بزنید و بعد بیایید تو]؟"
     transcription: "nemiše [avval dar bezanid va bad biyayid tu]?"
@@ -19,7 +23,8 @@ examples:
   - example: "حالا نمی‌شه [بی‌خیال حوله بشی]؟"
     transcription: "hālā nemiše [bixiyāle hole beši]?"
 morphology:
-  - ~
+  - VP
+  - CL
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,19 +32,33 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label:
-  - ~
+  - Informal
 comment: 
-  - Persian: |
-      'همچنین به صورت نمی‌شد VP/CL؟'
 common_fillers:
   - ~
 semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Request
+    subtypes:
+      - type: Request
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+      - type: Permission
+  - type: Routine
+    subtypes:
+      - type: Politeness marker
+  - type: Volition
+    subtypes:
+      - type: Volition
 family:
   - |
     ""

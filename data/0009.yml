@@ -35,12 +35,16 @@ part_of_speech_of_anchor:
   - Preposition
   - Verb
 semantic_roles:
-  - ~
+  - Time
 intonation:
-  - ~
+  - Declarative
 usage_label:
-  - ~
+  - Formal
 comment: 
+  - Persian: |
+      'در گونه غیررسمی‌تر، «رفتن» به جای «گذشتن» استفاده می‌شود.'
+  - English: |
+      'In more informal registers, "raftan" is used instead of "gozaštan".'
 common_fillers:
   - ~
 semantic_types:

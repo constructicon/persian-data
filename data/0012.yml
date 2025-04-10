@@ -7,6 +7,10 @@ illustration: "هم [ما] هم [شما]."
 illustration_transcription: "ham [mā] ham [šomā]"
 cefr_level: 
 definitions:
+  - persian: |
+       "یک ساختار شمول هم‌پایه که نشان می‌دهد هر دو موضوع مورد بحث قابل طرح، دارای مصداق یا معتبر هستند. این ساخت بر هم‌زمانی، هم‌وقوعی یا اهمیت برابر آن‌ها تأکید دارد و حاکی از مصداق هم‌زمان دو گزینه یا ویژگی است."
+  - english: |
+       "A coordinated inclusion construction that indicates both elements can be involved, true, or relevant. It emphasizes their simultaneity, co-occurrence, or equal importance, showing that two options or characteristics apply at the same time."
 examples:
   - example: "رشته تحصیلی او معماری بود. هم [درس می‌خواند] و هم [کار می‌کرد]."
     transcription: "rešteye tahsilie u memāri bud. ham [dars mixānd] va ham [kār mikard]."
@@ -19,7 +23,7 @@ examples:
   - example: "از این درخواست‌ها هم [شاد] شدم و هم کمی [عصبی]."
     transcription: "az in darxāsthā ham [šād] šodam va ham kami [asabi]."
 morphology:
-  - ~
+  - XP
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,7 +31,7 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Adverb
 semantic_roles:
   - ~
 intonation:
@@ -38,6 +42,12 @@ comment:
 common_fillers:
   - ~
 semantic_types:
+  - type: Inclusive
+    subtypes:
+      - type: Inclusive
+  - type: Options
+    subtypes:
+      - type: Options
 family:
   - |
     ""
