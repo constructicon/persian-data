@@ -41,9 +41,9 @@ usage_label:
   - Informal
 comment: 
   - Persian: |
-      'همینطور به صورت «کجای [NP][CL]؟».'
+      'همینطور به صورت «کجای [NP] [CL]؟».'
   - English: |
-      'Also used as "kojāye [NP][CL]?".'
+      'Also used as "kojāye [NP] [CL]?".'
 common_fillers:
   - ~
 semantic_types:
