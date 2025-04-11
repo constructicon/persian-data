@@ -1,12 +1,16 @@
 ---
 record: 14
-name: "اگه راست گفتن، CL؟"
-name_transcription: "age rāst goftan, CL?"
+name: "اگه راست گفتن، [CL]؟"
+name_transcription: "age rāst goftan, [CL]?"
 name_translation: "If you are right, then CL?"
 illustration: "اگه راست میگی [اسمش چی بود؟]"
 illustration_transcription: "age rāst migi [esmeš či bud?]"
 cefr_level: 
 definitions:
+  - persian: |
+       "یک ساختار شرطی که بند اصلی آن یک جمله پرسشی است. این ساختار تردید یا شک گوینده نسبت به ادعا یا صداقت مخاطب را با طرح پرسشی درباره ادعا یا رفتار متناقض مخاطب  بیان می‌کند. به عبارت دیگر این ساخت با درخواست توضیحی برای تناقض موجود، در پی به چالش کشیدن و یا تضعیفِ گفته یا ادعای مخاطب است."
+  - english: |
+       "A conditional construction where the main clause is a question. It expresses the speaker's skepticism or doubt about a claim or sincerity by posing a question that highlights a perceived inconsistency or problematic consequence stemming from that claim. This functions as a challenge, aiming to undermine the addresse's assertion by demanding an explanation for the discrepancy."
 examples:
   - example: "اگه راست میگه [چرا خودشو قایم کرده؟]"
     transcription: "age rāst mige [čerā xodešo qāyem karde?]"
@@ -19,7 +23,7 @@ examples:
   - example: "همه این ادمهایی که می‌گن خونه ندارن الکی میگن، اگه راست میگن [پس شب‌ها کجا می‌خوابن؟]"
     transcription: "hameye in ādamhāyi ke migan xune nadāran alaki migan, age rāst migan [pas šabhā kojā mixāban?]"
 morphology:
-  - ~
+  - CL
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,17 +31,36 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Conjunction. Adjective
+  - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label:
-  - ~
+  - Informal
 comment: 
 common_fillers:
   - ~
 semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+      - type: Mental Attitude
+  - type: Condition
+    subtypes:
+      - type: Condition
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Doubt
+      - type: Disagreement
+      - type: Accentuation
+  - type: Threat
+    subtypes:
+      - type: Threat
 family:
   - |
     ""

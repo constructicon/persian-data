@@ -1,12 +1,16 @@
 ---
 record: 15
-name: "NP کجاش CL؟"
-name_transcription: "NP kojāš CL?"
+name: "[NP] کجاش [VP]؟"
+name_transcription: "[NP] kojāš [VP]?"
 name_translation: "How on earth is NP X?"
 illustration: "[خر] کجاش [فحشه]؟"
 illustration_transcription: "[xar] kojāš [fohše]?"
 cefr_level: 
 definitions:
+  - persian: |
+       "این ساخت پرسشی به طور قاطع ادعای (VP) نسبت داده شده به یک موضوع (NP) را رد می‌کند. این ساخت بیانگر مخالفت همراه با تعجب و یا خشم گوینده در مورد صحت موضوع است. این ساخت پرسشی با معنای تحت اللفظی نسبتاً بی معنی (کجای NP CL است؟)، بیانگر دیدگاه گوینده نسبت به صحت یک موضوع خاص است."
+  - english: |
+       "This interrogative construction rather forcefully rejects a predication (VP) attributed to a subject (NP). It expresses the speaker's strong disagreement accompanied by surprise, indignation, or sense of absurdity regarding the predication's validity. By posing a question whose literal meaning is nonsensical (Where of NP is CL?), the construction implies the predication is unfounded or false."
 examples:
   - example: "[اون مدل بیچاره] کجاش [شبیه منه؟]"
     transcription: "[un modele bičāre] kojāš [šabihe mane?]"
@@ -19,7 +23,8 @@ examples:
   - example: "[این خبر] کجاش [خوش بود؟]"
     transcription: "[in xabar] kojāš [xoš bud?]"
 morphology:
-  - ~
+  - NP
+  - VP
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,17 +32,44 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Pronoun
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label:
-  - ~
+  - Informal
 comment: 
+  - Persian: |
+      'همینطور به صورت «کجای [NP][CL]؟».'
+  - English: |
+      'Also used as "kojāye [NP][CL]?".'
 common_fillers:
   - ~
 semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+      - type: Assessment in relation to knowledge
+      - type: General Assessment
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+      - type: Emotional Attitude
+  - type: Mirative
+    subtypes:
+      - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+      - type: Disagreement
+      - type: Accentuation
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
 family:
   - |
     ""

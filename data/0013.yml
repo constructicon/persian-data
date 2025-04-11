@@ -1,12 +1,16 @@
 ---
 record: 13
-name: "اگه راست گفتن، CL"
-name_transcription: "age rāst goftan, CL"
+name: "اگه راست گفتن، [CL]"
+name_transcription: "age rāst goftan, [CL]"
 name_translation: "If you dare, CL"
 illustration: "اگه راست میگی [جواب بده]!"
 illustration_transcription: "age rāst migi [javāb bede]!"
 cefr_level: 
 definitions:
+  - persian: |
+       "یک ساختار شرطی که عمدتاً به جهت به چالش کشیدن و واکنشی به گفته‌های پیشین است. این ساختار تردید یا شک گوینده نسبت به ادعاها، صداقت، یا توانایی مخاطب را بیان کرده و او را به چالش می‌کشد تا با انجام کنشِ ذکر شده در بند اصلی، آن را اثبات کند."
+  - english: |
+       "A conditional construction used primarily as a challenge, often reacting to prior discourse. It expresses the speaker's skepticism or doubt about the target's claims, sincerity, or capability, daring them to provide proof by performing the action in the main clause."
 examples:
   - example: "اگه راست می‌گین [از خودتون مایه بذارین]."
     transcription: "age rāst migin [az xodetun māye bezārin]."
@@ -19,7 +23,7 @@ examples:
   - example: "ایشون اگه راست میگه [بره تو مسکن مهر بشینه]."
     transcription: "išun age rāst mige [bere tu maskane mehr bešine]."
 morphology:
-  - ~
+  - CL
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,17 +31,36 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Conjunction. Adjective
+  - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
+  - Exclamatory
 usage_label:
-  - ~
+  - Informal
 comment: 
 common_fillers:
   - ~
 semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+      - type: Mental Attitude
+  - type: Condition
+    subtypes:
+      - type: Condition
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Doubt
+      - type: Disagreement
+  - type: Threat
+    subtypes:
+      - type: Threat
 family:
   - |
     ""
