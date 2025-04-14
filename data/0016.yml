@@ -1,7 +1,7 @@
 ---
 record: 16
-name: "این که میگن [CL]، [VP / CL]"
-name_transcription: "in ke migan [CL], [VP / CL]"
+name: "این که میگن [CL]، [VP]"
+name_transcription: "in ke migan [CL], [VP]"
 name_translation: "What they say about CL, CL"
 illustration: "این که میگن [دل به دل راه داره] [همینه]."
 illustration_transcription: "in ke migan [del be del rāh dāre] [hamine]."
@@ -43,7 +43,7 @@ usage_label:
   - Informal
 comment: 
   - Persian: |
-      'در گونه رسمی‌تر، «شکل رسمی گفتن» به جای «می» استفاده می‌شود.'
+      'در گونه رسمی‌تر، «شکل رسمی گفتن» به جای «میگن» استفاده می‌شود.'
   - English: |
       'In more formal registers, "the formal inflection of goftan" is used instead of "migan".'
 common_fillers:
