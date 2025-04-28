@@ -7,6 +7,10 @@ illustration: "حواست باشه که [دیرت نشه]."
 illustration_transcription: "havāset bāše [ke diret naše]."
 cefr_level: 
 definitions:
+  - persian: |
+       "نقش اصلی این ساخت، هشدار یا ارائه یک دستورالعمل برای مخاطب (یا خودِ گوینده به همراه مخاطب) و درخواست برای توجه و مراقبت بیشتر به منظور جلوگیری از وقوع عمل یا وضعیت نامطلوبی است که در بند التزامی بیان شده است."
+  - english: |
+       "This construction functions as a warning or instruction that asks the addressee (or the addressor themself together with the addresse) to be careful or pay attention. Its purpose is to prevent an undesirable action or state of affairs, expressed in the negated subjunctive clause from occurring."
 examples:
   - example: "یه دو روزی میری خونه حواست باشه [توی این دو روز کار سنگین نکنی]."
     transcription: "ye do ruz miri xune havāset bāše [tuye in do ruz kāre sangin nakoni]."
@@ -19,7 +23,10 @@ examples:
   - example: "باید حواسمون باشه [که آبش خشک نشه]."
     transcription: "bāyad havāsemun bāše [ke ābeš xonak naše]."
 morphology:
-  - ~
+  - VP
+  - NEG
+  - PRS
+  - POSS
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
@@ -27,17 +34,29 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
-  - ~
+  - Pronoun
+  - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
+  - Exclamatory
 usage_label:
-  - ~
+  - Informal
+  - Formal
 comment: 
 common_fillers:
   - ~
 semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Preventive
+  - type: Prohibition
+    subtypes:
+      - type: Prohibition
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Warning
 family:
   - |
     ""

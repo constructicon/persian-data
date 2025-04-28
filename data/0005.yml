@@ -1,7 +1,7 @@
 ---
 record: 5
-name: "چرا راه دور رفتن - PRS / SBJV؟ [CL / XP]"
-name_transcription: "čerā rāhe dur raftan - PRS / SBJV? [CL / XP]"
+name: "چرا راه دور رفتن-PRS / SBJV؟ [CL / XP]"
+name_transcription: "čerā rāhe dur raftan-PRS / SBJV? [CL / XP]"
 name_translation: "Case in point"
 illustration: "چرا راه دور برویم؟ [همین ایرانِ خودمان]."
 illustration_transcription: "cherā rāhe dur beravim? [hamin irāne xodemān]."
@@ -25,6 +25,8 @@ examples:
 morphology:
   - CL
   - XP
+  - SBJV
+  - PRS
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:

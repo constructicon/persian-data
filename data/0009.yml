@@ -1,7 +1,7 @@
 ---
 record: 9
-name: "(هنوز) [NUM - TIME] از [NP] گذشتن - NEG (که) [CL - POS]"
-name_transcription: "(hanuz) [NUM – TIME] az [NP] gozaštan – NEG (ke) [CL - POS]"
+name: "(هنوز) [NUM-TIME] از [NP] NEG-گذشتن (که) [CL-POS]"
+name_transcription: "(hanuz) [NUM-TIME] az [NP] NEG-gozaštan (ke) [CL-POS]"
 name_translation: "Barely, No sooner"
 illustration: "هنوز [چند لحظه] از [حرف من] نگذشته بود که [شروع کرد به صحبت کردن]."
 illustration_transcription: "hanuz [čand lahze] az [harfe man] nagozašte bud ke [šoru kard be sohbat kardan]."
@@ -25,6 +25,9 @@ examples:
 morphology:
   - NP
   - CL
+  - NEG
+  - NUM
+  - ADV
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:

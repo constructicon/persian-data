@@ -1,7 +1,7 @@
 ---
 record: 8
-name: "(حتی) یک [NP] هم [VP - NEG]"
-name_transcription: "(hattā) yek [NP] ham [VP – NEG]"
+name: "(حتی) یک [NP] هم [NEG-VP]"
+name_transcription: "(hattā) yek [NP] ham [NEG-VP]"
 name_translation: "Not even one NP"
 illustration: "تیم صبا در نیمه دوم حتی یک [موقعیت] هم [بر روی دروازه ما ایجاد نکرد]."
 illustration_transcription: "time sabā dar nimeye dovvom hattā yek [moqe'iyat] ham [bar ruye darvāzeye mā ijād nakard]."
@@ -25,6 +25,7 @@ examples:
 morphology:
   - NP
   - VP
+  - NEG
 syntactic_type_of_construction:
   - ~
 syntactic_function_of_anchor:
